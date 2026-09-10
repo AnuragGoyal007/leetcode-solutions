@@ -60,7 +60,7 @@
 |---|---|
 | Problem Number | 153 |
 | Difficulty | Medium |
-| Submissions | 4 |
+| Submissions | 5 |
 | Languages | C++, Java |
 
 ## Submission History
@@ -71,6 +71,7 @@
 | [1716930556](https://leetcode.com/submissions/detail/1716930556/) | C++ | ✅ Accepted | 0 ms | 13.99 MB | 30 Jul 2025, 03:35 PM | [View Code](cpp/submission-1716930556.cpp) |
 | [1847371412](https://leetcode.com/submissions/detail/1847371412/) | C++ | ✅ Accepted | 0 ms | 14.20 MB | 05 Dec 2025, 11:55 AM | [View Code](cpp/submission-1847371412.cpp) |
 | [2004858308](https://leetcode.com/submissions/detail/2004858308/) | Java | ✅ Accepted | 0 ms | 43.76 MB | 17 May 2026, 12:12 AM | [View Code](java/submission-2004858308.java) |
+| [2137531756](https://leetcode.com/submissions/detail/2137531756/) | Java | - | - | - | 10 Sep 2026, 07:10 PM | [View Code](java/submission-2137531756.java) |
 
 ## Solution Structure
 
