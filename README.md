@@ -6,9 +6,9 @@ An automatically synced collection of my LeetCode submissions.
 
 | Metric | Count |
 |---|---|
-| Total Problems | 203 |
-| Total Submissions | 301 |
-| 🟢 Easy | 91 |
+| Total Problems | 204 |
+| Total Submissions | 302 |
+| 🟢 Easy | 92 |
 | 🟡 Medium | 87 |
 | 🔴 Hard | 25 |
 | Languages | C++, Java, JavaScript, MySQL, Python, Python 3 |
@@ -127,6 +127,7 @@ An automatically synced collection of my LeetCode submissions.
 | 662 | [Maximum Width of Binary Tree](maximum-width-of-binary-tree/) | Medium | [Solutions](maximum-width-of-binary-tree/) |
 | 4 | [Median of Two Sorted Arrays](median-of-two-sorted-arrays/) | Hard | [Solutions](median-of-two-sorted-arrays/) |
 | 88 | [Merge Sorted Array](merge-sorted-array/) | Easy | [Solutions](merge-sorted-array/) |
+| 21 | [Merge Two Sorted Lists](merge-two-sorted-lists/) | Easy | [Solutions](merge-two-sorted-lists/) |
 | 876 | [Middle of the Linked List](middle-of-the-linked-list/) | Easy | [Solutions](middle-of-the-linked-list/) |
 | 2540 | [Minimum Common Value](minimum-common-value/) | Easy | [Solutions](minimum-common-value/) |
 | 2144 | [Minimum Cost of Buying Candies With Discount](minimum-cost-of-buying-candies-with-discount/) | Easy | [Solutions](minimum-cost-of-buying-candies-with-discount/) |
