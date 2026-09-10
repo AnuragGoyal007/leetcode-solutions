@@ -52,7 +52,7 @@
 |---|---|
 | Problem Number | 1 |
 | Difficulty | Easy |
-| Submissions | 4 |
+| Submissions | 5 |
 | Languages | C++, Java |
 
 ## Submission History
@@ -63,6 +63,7 @@
 | [1339195924](https://leetcode.com/submissions/detail/1339195924/) | C++ | ✅ Accepted | 4 ms | 14.30 MB | 31 Jul 2024, 11:18 AM | [View Code](cpp/submission-1339195924.cpp) |
 | [2098095694](https://leetcode.com/submissions/detail/2098095694/) | Java | ✅ Accepted | 38 ms | 47.04 MB | 07 Aug 2026, 08:38 PM | [View Code](java/submission-2098095694.java) |
 | [2137482405](https://leetcode.com/submissions/detail/2137482405/) | Java | ✅ Accepted | 38 ms | 47.31 MB | 10 Sep 2026, 06:18 PM | [View Code](java/submission-2137482405.java) |
+| [2137504668](https://leetcode.com/submissions/detail/2137504668/) | Java | ✅ Accepted | 38 ms | 47.04 MB | 10 Sep 2026, 06:43 PM | [View Code](java/submission-2137504668.java) |
 
 ## Solution Structure
 
