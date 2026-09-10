@@ -6,10 +6,10 @@ An automatically synced collection of my LeetCode submissions.
 
 | Metric | Count |
 |---|---|
-| Total Problems | 202 |
-| Total Submissions | 300 |
+| Total Problems | 203 |
+| Total Submissions | 301 |
 | 🟢 Easy | 91 |
-| 🟡 Medium | 86 |
+| 🟡 Medium | 87 |
 | 🔴 Hard | 25 |
 | Languages | C++, Java, JavaScript, MySQL, Python, Python 3 |
 
@@ -165,6 +165,7 @@ An automatically synced collection of my LeetCode submissions.
 | 26 | [Remove Duplicates from Sorted Array](remove-duplicates-from-sorted-array/) | Easy | [Solutions](remove-duplicates-from-sorted-array/) |
 | 27 | [Remove Element](remove-element/) | Easy | [Solutions](remove-element/) |
 | 203 | [Remove Linked List Elements](remove-linked-list-elements/) | Easy | [Solutions](remove-linked-list-elements/) |
+| 19 | [Remove Nth Node From End of List](remove-nth-node-from-end-of-list/) | Medium | [Solutions](remove-nth-node-from-end-of-list/) |
 | 2390 | [Removing Stars From a String](removing-stars-from-a-string/) | Medium | [Solutions](removing-stars-from-a-string/) |
 | 7 | [Reverse Integer](reverse-integer/) | Medium | [Solutions](reverse-integer/) |
 | 206 | [Reverse Linked List](reverse-linked-list/) | Easy | [Solutions](reverse-linked-list/) |
