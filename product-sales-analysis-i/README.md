@@ -88,20 +88,20 @@ From sale_id = 7, we can conclude that Apple was sold for 9000 in the year 2011.
 | Problem Number | 1068 |
 | Difficulty | Easy |
 | Submissions | 3 |
-| Languages | mysql |
+| Languages | MySQL |
 
 ## Submission History
 
-| Submission | Language | Status | Runtime | Memory | Date |
-|---|---|---|---|---|---|
-| [1918030572](mysql/submission-1918030572.sql) | mysql | Accepted | 1248 | 0 | 2026-02-13 19:10:59 |
-| [1918031359](mysql/submission-1918031359.sql) | mysql | Runtime Error | 303 | 0 | 2026-02-13 19:11:57 |
-| [1918032061](mysql/submission-1918032061.sql) | mysql | Accepted | 1204 | 0 | 2026-02-13 19:12:47 |
+| Submission | Language | Status | Runtime | Memory | Date | Code |
+|---|---|---|---:|---:|---|---|
+| [1918030572](https://leetcode.com/submissions/detail/1918030572/) | MySQL | ✅ Accepted | 1248 ms | 0.00 MB | 13 Feb 2026, 07:10 PM | [View Code](mysql/submission-1918030572.sql) |
+| [1918031359](https://leetcode.com/submissions/detail/1918031359/) | MySQL | ❌ Runtime Error | 303 ms | 0.00 MB | 13 Feb 2026, 07:11 PM | [View Code](mysql/submission-1918031359.sql) |
+| [1918032061](https://leetcode.com/submissions/detail/1918032061/) | MySQL | ✅ Accepted | 1204 ms | 0.00 MB | 13 Feb 2026, 07:12 PM | [View Code](mysql/submission-1918032061.sql) |
 
 ## Solution Structure
 
 ```text
 product-sales-analysis-i/
-├── mysql/
+└── mysql/
 └── README.md
-        
+```

@@ -40,18 +40,18 @@
 | Problem Number | 47 |
 | Difficulty | Medium |
 | Submissions | 1 |
-| Languages | java |
+| Languages | Java |
 
 ## Submission History
 
-| Submission | Language | Status | Runtime | Memory | Date |
-|---|---|---|---|---|---|
-| [2113260171](java/submission-2113260171.java) | java | Accepted | 3 | 46480000 | 2026-08-20 03:22:36 |
+| Submission | Language | Status | Runtime | Memory | Date | Code |
+|---|---|---|---:|---:|---|---|
+| [2113260171](https://leetcode.com/submissions/detail/2113260171/) | Java | ✅ Accepted | 3 ms | 46.48 MB | 20 Aug 2026, 03:22 AM | [View Code](java/submission-2113260171.java) |
 
 ## Solution Structure
 
 ```text
 permutations-ii/
-├── java/
+└── java/
 └── README.md
-        
+```

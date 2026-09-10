@@ -82,20 +82,20 @@
 | Problem Number | 268 |
 | Difficulty | Easy |
 | Submissions | 2 |
-| Languages | cpp, java |
+| Languages | C++, Java |
 
 ## Submission History
 
-| Submission | Language | Status | Runtime | Memory | Date |
-|---|---|---|---|---|---|
-| [1715351477](cpp/submission-1715351477.cpp) | cpp | Accepted | 0 | 21920000 | 2025-07-29 10:52:00 |
-| [2006593368](java/submission-2006593368.java) | java | Accepted | 1 | 47300000 | 2026-05-18 22:51:23 |
+| Submission | Language | Status | Runtime | Memory | Date | Code |
+|---|---|---|---:|---:|---|---|
+| [1715351477](https://leetcode.com/submissions/detail/1715351477/) | C++ | ✅ Accepted | 0 ms | 21.92 MB | 29 Jul 2025, 10:52 AM | [View Code](cpp/submission-1715351477.cpp) |
+| [2006593368](https://leetcode.com/submissions/detail/2006593368/) | Java | ✅ Accepted | 1 ms | 47.30 MB | 18 May 2026, 10:51 PM | [View Code](java/submission-2006593368.java) |
 
 ## Solution Structure
 
 ```text
 missing-number/
 ├── cpp/
-├── java/
+└── java/
 └── README.md
-        
+```

@@ -49,19 +49,19 @@
 | Problem Number | 1886 |
 | Difficulty | Easy |
 | Submissions | 2 |
-| Languages | java |
+| Languages | Java |
 
 ## Submission History
 
-| Submission | Language | Status | Runtime | Memory | Date |
-|---|---|---|---|---|---|
-| [2114068664](java/submission-2114068664.java) | java | Wrong Answer | 1 | 43368000 | 2026-08-20 20:31:23 |
-| [2114069235](java/submission-2114069235.java) | java | Accepted | 1 | 43556000 | 2026-08-20 20:31:57 |
+| Submission | Language | Status | Runtime | Memory | Date | Code |
+|---|---|---|---:|---:|---|---|
+| [2114068664](https://leetcode.com/submissions/detail/2114068664/) | Java | ❌ Wrong Answer | 1 ms | 43.37 MB | 20 Aug 2026, 08:31 PM | [View Code](java/submission-2114068664.java) |
+| [2114069235](https://leetcode.com/submissions/detail/2114069235/) | Java | ✅ Accepted | 1 ms | 43.56 MB | 20 Aug 2026, 08:31 PM | [View Code](java/submission-2114069235.java) |
 
 ## Solution Structure
 
 ```text
 determine-whether-matrix-can-be-obtained-by-rotation/
-├── java/
+└── java/
 └── README.md
-        
+```

@@ -50,18 +50,18 @@
 | Problem Number | 1464 |
 | Difficulty | Easy |
 | Submissions | 1 |
-| Languages | java |
+| Languages | Java |
 
 ## Submission History
 
-| Submission | Language | Status | Runtime | Memory | Date |
-|---|---|---|---|---|---|
-| [2085501929](java/submission-2085501929.java) | java | Accepted | 5 | 44872000 | 2026-07-29 09:08:50 |
+| Submission | Language | Status | Runtime | Memory | Date | Code |
+|---|---|---|---:|---:|---|---|
+| [2085501929](https://leetcode.com/submissions/detail/2085501929/) | Java | ✅ Accepted | 5 ms | 44.87 MB | 29 Jul 2026, 09:08 AM | [View Code](java/submission-2085501929.java) |
 
 ## Solution Structure
 
 ```text
 maximum-product-of-two-elements-in-an-array/
-├── java/
+└── java/
 └── README.md
-        
+```

@@ -48,18 +48,18 @@
 | Problem Number | 1358 |
 | Difficulty | Medium |
 | Submissions | 1 |
-| Languages | java |
+| Languages | Java |
 
 ## Submission History
 
-| Submission | Language | Status | Runtime | Memory | Date |
-|---|---|---|---|---|---|
-| [2050715331](java/submission-2050715331.java) | java | Accepted | 16 | 46180000 | 2026-06-30 10:14:37 |
+| Submission | Language | Status | Runtime | Memory | Date | Code |
+|---|---|---|---:|---:|---|---|
+| [2050715331](https://leetcode.com/submissions/detail/2050715331/) | Java | ✅ Accepted | 16 ms | 46.18 MB | 30 Jun 2026, 10:14 AM | [View Code](java/submission-2050715331.java) |
 
 ## Solution Structure
 
 ```text
 number-of-substrings-containing-all-three-characters/
-├── java/
+└── java/
 └── README.md
-        
+```

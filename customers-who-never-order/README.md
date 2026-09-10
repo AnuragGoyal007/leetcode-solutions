@@ -79,20 +79,20 @@ Orders table:
 | Problem Number | 183 |
 | Difficulty | Easy |
 | Submissions | 3 |
-| Languages | mysql |
+| Languages | MySQL |
 
 ## Submission History
 
-| Submission | Language | Status | Runtime | Memory | Date |
-|---|---|---|---|---|---|
-| [1918040988](mysql/submission-1918040988.sql) | mysql | Accepted | 525 | 0 | 2026-02-13 19:23:22 |
-| [1918041170](mysql/submission-1918041170.sql) | mysql | Accepted | 498 | 0 | 2026-02-13 19:23:35 |
-| [1918041314](mysql/submission-1918041314.sql) | mysql | Accepted | 492 | 0 | 2026-02-13 19:23:45 |
+| Submission | Language | Status | Runtime | Memory | Date | Code |
+|---|---|---|---:|---:|---|---|
+| [1918040988](https://leetcode.com/submissions/detail/1918040988/) | MySQL | ✅ Accepted | 525 ms | 0.00 MB | 13 Feb 2026, 07:23 PM | [View Code](mysql/submission-1918040988.sql) |
+| [1918041170](https://leetcode.com/submissions/detail/1918041170/) | MySQL | ✅ Accepted | 498 ms | 0.00 MB | 13 Feb 2026, 07:23 PM | [View Code](mysql/submission-1918041170.sql) |
+| [1918041314](https://leetcode.com/submissions/detail/1918041314/) | MySQL | ✅ Accepted | 492 ms | 0.00 MB | 13 Feb 2026, 07:23 PM | [View Code](mysql/submission-1918041314.sql) |
 
 ## Solution Structure
 
 ```text
 customers-who-never-order/
-├── mysql/
+└── mysql/
 └── README.md
-        
+```

@@ -51,20 +51,20 @@
 | Problem Number | 493 |
 | Difficulty | Hard |
 | Submissions | 3 |
-| Languages | java |
+| Languages | Java |
 
 ## Submission History
 
-| Submission | Language | Status | Runtime | Memory | Date |
-|---|---|---|---|---|---|
-| [2104178084](java/submission-2104178084.java) | java | Wrong Answer | 3847 | 49760000 | 2026-08-12 18:19:40 |
-| [2105195587](java/submission-2105195587.java) | java | Accepted | 42 | 64604000 | 2026-08-13 14:15:22 |
-| [2105202942](java/submission-2105202942.java) | java | Accepted | 42 | 64592000 | 2026-08-13 14:22:37 |
+| Submission | Language | Status | Runtime | Memory | Date | Code |
+|---|---|---|---:|---:|---|---|
+| [2104178084](https://leetcode.com/submissions/detail/2104178084/) | Java | ❌ Wrong Answer | 3847 ms | 49.76 MB | 12 Aug 2026, 06:19 PM | [View Code](java/submission-2104178084.java) |
+| [2105195587](https://leetcode.com/submissions/detail/2105195587/) | Java | ✅ Accepted | 42 ms | 64.60 MB | 13 Aug 2026, 02:15 PM | [View Code](java/submission-2105195587.java) |
+| [2105202942](https://leetcode.com/submissions/detail/2105202942/) | Java | ✅ Accepted | 42 ms | 64.59 MB | 13 Aug 2026, 02:22 PM | [View Code](java/submission-2105202942.java) |
 
 ## Solution Structure
 
 ```text
 reverse-pairs/
-├── java/
+└── java/
 └── README.md
-        
+```

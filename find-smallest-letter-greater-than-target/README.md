@@ -52,18 +52,18 @@
 | Problem Number | 744 |
 | Difficulty | Easy |
 | Submissions | 1 |
-| Languages | java |
+| Languages | Java |
 
 ## Submission History
 
-| Submission | Language | Status | Runtime | Memory | Date |
-|---|---|---|---|---|---|
-| [2006977066](java/submission-2006977066.java) | java | Accepted | 0 | 46116000 | 2026-05-19 11:20:45 |
+| Submission | Language | Status | Runtime | Memory | Date | Code |
+|---|---|---|---:|---:|---|---|
+| [2006977066](https://leetcode.com/submissions/detail/2006977066/) | Java | ✅ Accepted | 0 ms | 46.12 MB | 19 May 2026, 11:20 AM | [View Code](java/submission-2006977066.java) |
 
 ## Solution Structure
 
 ```text
 find-smallest-letter-greater-than-target/
-├── java/
+└── java/
 └── README.md
-        
+```

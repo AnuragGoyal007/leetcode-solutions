@@ -29,18 +29,18 @@
 | Problem Number | 22 |
 | Difficulty | Medium |
 | Submissions | 1 |
-| Languages | java |
+| Languages | Java |
 
 ## Submission History
 
-| Submission | Language | Status | Runtime | Memory | Date |
-|---|---|---|---|---|---|
-| [2135920787](java/submission-2135920787.java) | java | Accepted | 2 | 44920000 | 2026-09-09 11:09:48 |
+| Submission | Language | Status | Runtime | Memory | Date | Code |
+|---|---|---|---:|---:|---|---|
+| [2135920787](https://leetcode.com/submissions/detail/2135920787/) | Java | ✅ Accepted | 2 ms | 44.92 MB | 09 Sep 2026, 11:09 AM | [View Code](java/submission-2135920787.java) |
 
 ## Solution Structure
 
 ```text
 generate-parentheses/
-├── java/
+└── java/
 └── README.md
-        
+```

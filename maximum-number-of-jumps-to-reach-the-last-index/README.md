@@ -67,18 +67,18 @@ It can be proven that there is no other jumping sequence that goes from 0 to n -
 | Problem Number | 2770 |
 | Difficulty | Medium |
 | Submissions | 1 |
-| Languages | java |
+| Languages | Java |
 
 ## Submission History
 
-| Submission | Language | Status | Runtime | Memory | Date |
-|---|---|---|---|---|---|
-| [1999784025](java/submission-1999784025.java) | java | Accepted | 15 | 47012000 | 2026-05-10 19:40:07 |
+| Submission | Language | Status | Runtime | Memory | Date | Code |
+|---|---|---|---:|---:|---|---|
+| [1999784025](https://leetcode.com/submissions/detail/1999784025/) | Java | ✅ Accepted | 15 ms | 47.01 MB | 10 May 2026, 07:40 PM | [View Code](java/submission-1999784025.java) |
 
 ## Solution Structure
 
 ```text
 maximum-number-of-jumps-to-reach-the-last-index/
-├── java/
+└── java/
 └── README.md
-        
+```

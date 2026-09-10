@@ -46,20 +46,20 @@
 | Problem Number | 100 |
 | Difficulty | Easy |
 | Submissions | 2 |
-| Languages | cpp, java |
+| Languages | C++, Java |
 
 ## Submission History
 
-| Submission | Language | Status | Runtime | Memory | Date |
-|---|---|---|---|---|---|
-| [1862256971](cpp/submission-1862256971.cpp) | cpp | Accepted | 0 | 12756000 | 2025-12-22 14:49:58 |
-| [2126044658](java/submission-2126044658.java) | java | Accepted | 0 | 42348000 | 2026-08-31 17:14:09 |
+| Submission | Language | Status | Runtime | Memory | Date | Code |
+|---|---|---|---:|---:|---|---|
+| [1862256971](https://leetcode.com/submissions/detail/1862256971/) | C++ | ✅ Accepted | 0 ms | 12.76 MB | 22 Dec 2025, 02:49 PM | [View Code](cpp/submission-1862256971.cpp) |
+| [2126044658](https://leetcode.com/submissions/detail/2126044658/) | Java | ✅ Accepted | 0 ms | 42.35 MB | 31 Aug 2026, 05:14 PM | [View Code](java/submission-2126044658.java) |
 
 ## Solution Structure
 
 ```text
 same-tree/
 ├── cpp/
-├── java/
+└── java/
 └── README.md
-        
+```

@@ -53,20 +53,20 @@ You can rotate the array by x = 0 positions (i.e. no rotation) to make nums.
 | Problem Number | 1752 |
 | Difficulty | Easy |
 | Submissions | 2 |
-| Languages | cpp, java |
+| Languages | C++, Java |
 
 ## Submission History
 
-| Submission | Language | Status | Runtime | Memory | Date |
-|---|---|---|---|---|---|
-| [1574290897](cpp/submission-1574290897.cpp) | cpp | Accepted | 0 | 11140000 | 2025-03-15 14:23:46 |
-| [2010956050](java/submission-2010956050.java) | java | Accepted | 0 | 43136000 | 2026-05-23 21:37:43 |
+| Submission | Language | Status | Runtime | Memory | Date | Code |
+|---|---|---|---:|---:|---|---|
+| [1574290897](https://leetcode.com/submissions/detail/1574290897/) | C++ | ✅ Accepted | 0 ms | 11.14 MB | 15 Mar 2025, 02:23 PM | [View Code](cpp/submission-1574290897.cpp) |
+| [2010956050](https://leetcode.com/submissions/detail/2010956050/) | Java | ✅ Accepted | 0 ms | 43.14 MB | 23 May 2026, 09:37 PM | [View Code](java/submission-2010956050.java) |
 
 ## Solution Structure
 
 ```text
 check-if-array-is-sorted-and-rotated/
 ├── cpp/
-├── java/
+└── java/
 └── README.md
-        
+```

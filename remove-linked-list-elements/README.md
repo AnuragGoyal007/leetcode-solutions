@@ -45,18 +45,18 @@
 | Problem Number | 203 |
 | Difficulty | Easy |
 | Submissions | 1 |
-| Languages | cpp |
+| Languages | C++ |
 
 ## Submission History
 
-| Submission | Language | Status | Runtime | Memory | Date |
-|---|---|---|---|---|---|
-| [1812369791](cpp/submission-1812369791.cpp) | cpp | Accepted | 0 | 20216000 | 2025-10-26 21:37:53 |
+| Submission | Language | Status | Runtime | Memory | Date | Code |
+|---|---|---|---:|---:|---|---|
+| [1812369791](https://leetcode.com/submissions/detail/1812369791/) | C++ | ✅ Accepted | 0 ms | 20.22 MB | 26 Oct 2025, 09:37 PM | [View Code](cpp/submission-1812369791.cpp) |
 
 ## Solution Structure
 
 ```text
 remove-linked-list-elements/
-├── cpp/
+└── cpp/
 └── README.md
-        
+```

@@ -33,18 +33,18 @@
 | Problem Number | 560 |
 | Difficulty | Medium |
 | Submissions | 1 |
-| Languages | java |
+| Languages | Java |
 
 ## Submission History
 
-| Submission | Language | Status | Runtime | Memory | Date |
-|---|---|---|---|---|---|
-| [2061883849](java/submission-2061883849.java) | java | Time Limit Exceeded | 3951 | 43768000 | 2026-07-09 20:48:48 |
+| Submission | Language | Status | Runtime | Memory | Date | Code |
+|---|---|---|---:|---:|---|---|
+| [2061883849](https://leetcode.com/submissions/detail/2061883849/) | Java | ❌ Time Limit Exceeded | 3951 ms | 43.77 MB | 09 Jul 2026, 08:48 PM | [View Code](java/submission-2061883849.java) |
 
 ## Solution Structure
 
 ```text
 subarray-sum-equals-k/
-├── java/
+└── java/
 └── README.md
-        
+```

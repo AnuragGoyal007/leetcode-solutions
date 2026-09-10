@@ -62,18 +62,18 @@ Please notice that another valid answer is [5,2,6,null,4,null,7] and it&#39;s al
 | Problem Number | 450 |
 | Difficulty | Medium |
 | Submissions | 1 |
-| Languages | cpp |
+| Languages | C++ |
 
 ## Submission History
 
-| Submission | Language | Status | Runtime | Memory | Date |
-|---|---|---|---|---|---|
-| [1867287834](cpp/submission-1867287834.cpp) | cpp | Accepted | 0 | 34232000 | 2025-12-28 11:11:33 |
+| Submission | Language | Status | Runtime | Memory | Date | Code |
+|---|---|---|---:|---:|---|---|
+| [1867287834](https://leetcode.com/submissions/detail/1867287834/) | C++ | ✅ Accepted | 0 ms | 34.23 MB | 28 Dec 2025, 11:11 AM | [View Code](cpp/submission-1867287834.cpp) |
 
 ## Solution Structure
 
 ```text
 delete-node-in-a-bst/
-├── cpp/
+└── cpp/
 └── README.md
-        
+```

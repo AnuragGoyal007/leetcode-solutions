@@ -31,20 +31,20 @@
 | Problem Number | 118 |
 | Difficulty | Easy |
 | Submissions | 2 |
-| Languages | cpp, python3 |
+| Languages | C++, Python 3 |
 
 ## Submission History
 
-| Submission | Language | Status | Runtime | Memory | Date |
-|---|---|---|---|---|---|
-| [1415557058](python3/submission-1415557058.py) | python3 | Accepted | 42 | 16552000 | 2024-10-08 11:33:55 |
-| [1719117135](cpp/submission-1719117135.cpp) | cpp | Accepted | 0 | 9764000 | 2025-08-01 11:07:16 |
+| Submission | Language | Status | Runtime | Memory | Date | Code |
+|---|---|---|---:|---:|---|---|
+| [1415557058](https://leetcode.com/submissions/detail/1415557058/) | Python 3 | ✅ Accepted | 42 ms | 16.55 MB | 08 Oct 2024, 11:33 AM | [View Code](python3/submission-1415557058.py) |
+| [1719117135](https://leetcode.com/submissions/detail/1719117135/) | C++ | ✅ Accepted | 0 ms | 9.76 MB | 01 Aug 2025, 11:07 AM | [View Code](cpp/submission-1719117135.cpp) |
 
 ## Solution Structure
 
 ```text
 pascals-triangle/
 ├── cpp/
-├── python3/
+└── python3/
 └── README.md
-        
+```

@@ -50,18 +50,18 @@
 | Problem Number | 1456 |
 | Difficulty | Medium |
 | Submissions | 1 |
-| Languages | java |
+| Languages | Java |
 
 ## Submission History
 
-| Submission | Language | Status | Runtime | Memory | Date |
-|---|---|---|---|---|---|
-| [2084023447](java/submission-2084023447.java) | java | Accepted | 13 | 46196000 | 2026-07-28 06:30:27 |
+| Submission | Language | Status | Runtime | Memory | Date | Code |
+|---|---|---|---:|---:|---|---|
+| [2084023447](https://leetcode.com/submissions/detail/2084023447/) | Java | ✅ Accepted | 13 ms | 46.20 MB | 28 Jul 2026, 06:30 AM | [View Code](java/submission-2084023447.java) |
 
 ## Solution Structure
 
 ```text
 maximum-number-of-vowels-in-a-substring-of-given-length/
-├── java/
+└── java/
 └── README.md
-        
+```

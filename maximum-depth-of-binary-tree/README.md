@@ -39,20 +39,20 @@
 | Problem Number | 104 |
 | Difficulty | Easy |
 | Submissions | 2 |
-| Languages | cpp, java |
+| Languages | C++, Java |
 
 ## Submission History
 
-| Submission | Language | Status | Runtime | Memory | Date |
-|---|---|---|---|---|---|
-| [1861781413](cpp/submission-1861781413.cpp) | cpp | Accepted | 0 | 19064000 | 2025-12-21 23:31:20 |
-| [2124307940](java/submission-2124307940.java) | java | Accepted | 0 | 46860000 | 2026-08-30 01:18:57 |
+| Submission | Language | Status | Runtime | Memory | Date | Code |
+|---|---|---|---:|---:|---|---|
+| [1861781413](https://leetcode.com/submissions/detail/1861781413/) | C++ | ✅ Accepted | 0 ms | 19.06 MB | 21 Dec 2025, 11:31 PM | [View Code](cpp/submission-1861781413.cpp) |
+| [2124307940](https://leetcode.com/submissions/detail/2124307940/) | Java | ✅ Accepted | 0 ms | 46.86 MB | 30 Aug 2026, 01:18 AM | [View Code](java/submission-2124307940.java) |
 
 ## Solution Structure
 
 ```text
 maximum-depth-of-binary-tree/
 ├── cpp/
-├── java/
+└── java/
 └── README.md
-        
+```

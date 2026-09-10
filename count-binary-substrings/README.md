@@ -43,18 +43,18 @@ Also, &quot;00110011&quot; is not a valid substring because all the 0&#39;s (and
 | Problem Number | 696 |
 | Difficulty | Easy |
 | Submissions | 1 |
-| Languages | java |
+| Languages | Java |
 
 ## Submission History
 
-| Submission | Language | Status | Runtime | Memory | Date |
-|---|---|---|---|---|---|
-| [1924858911](java/submission-1924858911.java) | java | Accepted | 10 | 46160000 | 2026-02-20 04:50:53 |
+| Submission | Language | Status | Runtime | Memory | Date | Code |
+|---|---|---|---:|---:|---|---|
+| [1924858911](https://leetcode.com/submissions/detail/1924858911/) | Java | ✅ Accepted | 10 ms | 46.16 MB | 20 Feb 2026, 04:50 AM | [View Code](java/submission-1924858911.java) |
 
 ## Solution Structure
 
 ```text
 count-binary-substrings/
-├── java/
+└── java/
 └── README.md
-        
+```

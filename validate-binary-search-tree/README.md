@@ -46,19 +46,19 @@
 | Problem Number | 98 |
 | Difficulty | Medium |
 | Submissions | 2 |
-| Languages | cpp |
+| Languages | C++ |
 
 ## Submission History
 
-| Submission | Language | Status | Runtime | Memory | Date |
-|---|---|---|---|---|---|
-| [1867467995](cpp/submission-1867467995.cpp) | cpp | Wrong Answer | 0 | 21828000 | 2025-12-28 15:44:18 |
-| [1867471192](cpp/submission-1867471192.cpp) | cpp | Accepted | 0 | 21840000 | 2025-12-28 15:49:36 |
+| Submission | Language | Status | Runtime | Memory | Date | Code |
+|---|---|---|---:|---:|---|---|
+| [1867467995](https://leetcode.com/submissions/detail/1867467995/) | C++ | ❌ Wrong Answer | 0 ms | 21.83 MB | 28 Dec 2025, 03:44 PM | [View Code](cpp/submission-1867467995.cpp) |
+| [1867471192](https://leetcode.com/submissions/detail/1867471192/) | C++ | ✅ Accepted | 0 ms | 21.84 MB | 28 Dec 2025, 03:49 PM | [View Code](cpp/submission-1867471192.cpp) |
 
 ## Solution Structure
 
 ```text
 validate-binary-search-tree/
-├── cpp/
+└── cpp/
 └── README.md
-        
+```

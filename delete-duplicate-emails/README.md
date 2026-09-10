@@ -60,18 +60,18 @@ Person table:
 | Problem Number | 196 |
 | Difficulty | Easy |
 | Submissions | 1 |
-| Languages | mysql |
+| Languages | MySQL |
 
 ## Submission History
 
-| Submission | Language | Status | Runtime | Memory | Date |
-|---|---|---|---|---|---|
-| [1916261452](mysql/submission-1916261452.sql) | mysql | Accepted | 955 | 0 | 2026-02-12 01:21:21 |
+| Submission | Language | Status | Runtime | Memory | Date | Code |
+|---|---|---|---:|---:|---|---|
+| [1916261452](https://leetcode.com/submissions/detail/1916261452/) | MySQL | ✅ Accepted | 955 ms | 0.00 MB | 12 Feb 2026, 01:21 AM | [View Code](mysql/submission-1916261452.sql) |
 
 ## Solution Structure
 
 ```text
 delete-duplicate-emails/
-├── mysql/
+└── mysql/
 └── README.md
-        
+```

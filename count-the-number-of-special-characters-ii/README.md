@@ -61,18 +61,18 @@
 | Problem Number | 3121 |
 | Difficulty | Medium |
 | Submissions | 1 |
-| Languages | java |
+| Languages | Java |
 
 ## Submission History
 
-| Submission | Language | Status | Runtime | Memory | Date |
-|---|---|---|---|---|---|
-| [2014137441](java/submission-2014137441.java) | java | Accepted | 22 | 48116000 | 2026-05-27 09:28:25 |
+| Submission | Language | Status | Runtime | Memory | Date | Code |
+|---|---|---|---:|---:|---|---|
+| [2014137441](https://leetcode.com/submissions/detail/2014137441/) | Java | ✅ Accepted | 22 ms | 48.12 MB | 27 May 2026, 09:28 AM | [View Code](java/submission-2014137441.java) |
 
 ## Solution Structure
 
 ```text
 count-the-number-of-special-characters-ii/
-├── java/
+└── java/
 └── README.md
-        
+```

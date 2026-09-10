@@ -77,18 +77,18 @@
 | Problem Number | 1861 |
 | Difficulty | Medium |
 | Submissions | 1 |
-| Languages | java |
+| Languages | Java |
 
 ## Submission History
 
-| Submission | Language | Status | Runtime | Memory | Date |
-|---|---|---|---|---|---|
-| [1996561660](java/submission-1996561660.java) | java | Accepted | 7 | 124936000 | 2026-05-06 16:37:00 |
+| Submission | Language | Status | Runtime | Memory | Date | Code |
+|---|---|---|---:|---:|---|---|
+| [1996561660](https://leetcode.com/submissions/detail/1996561660/) | Java | ✅ Accepted | 7 ms | 124.94 MB | 06 May 2026, 04:37 PM | [View Code](java/submission-1996561660.java) |
 
 ## Solution Structure
 
 ```text
 rotating-the-box/
-├── java/
+└── java/
 └── README.md
-        
+```

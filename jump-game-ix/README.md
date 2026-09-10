@@ -73,18 +73,18 @@
 | Problem Number | 3660 |
 | Difficulty | Medium |
 | Submissions | 1 |
-| Languages | java |
+| Languages | Java |
 
 ## Submission History
 
-| Submission | Language | Status | Runtime | Memory | Date |
-|---|---|---|---|---|---|
-| [1996977013](java/submission-1996977013.java) | java | Accepted | 6 | 199092000 | 2026-05-07 06:07:37 |
+| Submission | Language | Status | Runtime | Memory | Date | Code |
+|---|---|---|---:|---:|---|---|
+| [1996977013](https://leetcode.com/submissions/detail/1996977013/) | Java | ✅ Accepted | 6 ms | 199.09 MB | 07 May 2026, 06:07 AM | [View Code](java/submission-1996977013.java) |
 
 ## Solution Structure
 
 ```text
 jump-game-ix/
-├── java/
+└── java/
 └── README.md
-        
+```

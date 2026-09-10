@@ -62,18 +62,18 @@
 | Problem Number | 1095 |
 | Difficulty | Hard |
 | Submissions | 1 |
-| Languages | java |
+| Languages | Java |
 
 ## Submission History
 
-| Submission | Language | Status | Runtime | Memory | Date |
-|---|---|---|---|---|---|
-| [2009750606](java/submission-2009750606.java) | java | Accepted | 0 | 46548000 | 2026-05-22 14:10:43 |
+| Submission | Language | Status | Runtime | Memory | Date | Code |
+|---|---|---|---:|---:|---|---|
+| [2009750606](https://leetcode.com/submissions/detail/2009750606/) | Java | ✅ Accepted | 0 ms | 46.55 MB | 22 May 2026, 02:10 PM | [View Code](java/submission-2009750606.java) |
 
 ## Solution Structure
 
 ```text
 find-in-mountain-array/
-├── java/
+└── java/
 └── README.md
-        
+```

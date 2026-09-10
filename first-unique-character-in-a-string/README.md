@@ -51,18 +51,18 @@
 | Problem Number | 387 |
 | Difficulty | Easy |
 | Submissions | 1 |
-| Languages | java |
+| Languages | Java |
 
 ## Submission History
 
-| Submission | Language | Status | Runtime | Memory | Date |
-|---|---|---|---|---|---|
-| [2131171920](java/submission-2131171920.java) | java | Accepted | 6 | 46788000 | 2026-09-05 04:17:27 |
+| Submission | Language | Status | Runtime | Memory | Date | Code |
+|---|---|---|---:|---:|---|---|
+| [2131171920](https://leetcode.com/submissions/detail/2131171920/) | Java | ✅ Accepted | 6 ms | 46.79 MB | 05 Sep 2026, 04:17 AM | [View Code](java/submission-2131171920.java) |
 
 ## Solution Structure
 
 ```text
 first-unique-character-in-a-string/
-├── java/
+└── java/
 └── README.md
-        
+```

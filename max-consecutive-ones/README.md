@@ -38,18 +38,18 @@
 | Problem Number | 485 |
 | Difficulty | Easy |
 | Submissions | 1 |
-| Languages | java |
+| Languages | Java |
 
 ## Submission History
 
-| Submission | Language | Status | Runtime | Memory | Date |
-|---|---|---|---|---|---|
-| [2016818735](java/submission-2016818735.java) | java | Accepted | 3 | 52572000 | 2026-05-30 05:43:33 |
+| Submission | Language | Status | Runtime | Memory | Date | Code |
+|---|---|---|---:|---:|---|---|
+| [2016818735](https://leetcode.com/submissions/detail/2016818735/) | Java | ✅ Accepted | 3 ms | 52.57 MB | 30 May 2026, 05:43 AM | [View Code](java/submission-2016818735.java) |
 
 ## Solution Structure
 
 ```text
 max-consecutive-ones/
-├── java/
+└── java/
 └── README.md
-        
+```

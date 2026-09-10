@@ -51,18 +51,18 @@
 | Problem Number | 236 |
 | Difficulty | Medium |
 | Submissions | 1 |
-| Languages | cpp |
+| Languages | C++ |
 
 ## Submission History
 
-| Submission | Language | Status | Runtime | Memory | Date |
-|---|---|---|---|---|---|
-| [1864063975](cpp/submission-1864063975.cpp) | cpp | Accepted | 12 | 17344000 | 2025-12-24 15:07:08 |
+| Submission | Language | Status | Runtime | Memory | Date | Code |
+|---|---|---|---:|---:|---|---|
+| [1864063975](https://leetcode.com/submissions/detail/1864063975/) | C++ | ✅ Accepted | 12 ms | 17.34 MB | 24 Dec 2025, 03:07 PM | [View Code](cpp/submission-1864063975.cpp) |
 
 ## Solution Structure
 
 ```text
 lowest-common-ancestor-of-a-binary-tree/
-├── cpp/
+└── cpp/
 └── README.md
-        
+```

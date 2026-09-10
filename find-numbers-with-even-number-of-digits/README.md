@@ -46,18 +46,18 @@ Only 1771 contains an even number of digits.
 | Problem Number | 1295 |
 | Difficulty | Easy |
 | Submissions | 1 |
-| Languages | java |
+| Languages | Java |
 
 ## Submission History
 
-| Submission | Language | Status | Runtime | Memory | Date |
-|---|---|---|---|---|---|
-| [1995285864](java/submission-1995285864.java) | java | Accepted | 1 | 44360000 | 2026-05-05 02:13:40 |
+| Submission | Language | Status | Runtime | Memory | Date | Code |
+|---|---|---|---:|---:|---|---|
+| [1995285864](https://leetcode.com/submissions/detail/1995285864/) | Java | ✅ Accepted | 1 ms | 44.36 MB | 05 May 2026, 02:13 AM | [View Code](java/submission-1995285864.java) |
 
 ## Solution Structure
 
 ```text
 find-numbers-with-even-number-of-digits/
-├── java/
+└── java/
 └── README.md
-        
+```

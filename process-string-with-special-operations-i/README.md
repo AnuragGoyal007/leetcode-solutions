@@ -132,18 +132,18 @@
 | Problem Number | 3612 |
 | Difficulty | Medium |
 | Submissions | 1 |
-| Languages | java |
+| Languages | Java |
 
 ## Submission History
 
-| Submission | Language | Status | Runtime | Memory | Date |
-|---|---|---|---|---|---|
-| [2034566949](java/submission-2034566949.java) | java | Accepted | 4 | 54888000 | 2026-06-16 09:15:55 |
+| Submission | Language | Status | Runtime | Memory | Date | Code |
+|---|---|---|---:|---:|---|---|
+| [2034566949](https://leetcode.com/submissions/detail/2034566949/) | Java | ✅ Accepted | 4 ms | 54.89 MB | 16 Jun 2026, 09:15 AM | [View Code](java/submission-2034566949.java) |
 
 ## Solution Structure
 
 ```text
 process-string-with-special-operations-i/
-├── java/
+└── java/
 └── README.md
-        
+```

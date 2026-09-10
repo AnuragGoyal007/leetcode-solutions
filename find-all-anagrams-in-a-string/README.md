@@ -44,18 +44,18 @@ The substring with start index = 2 is &quot;ab&quot;, which is an anagram of &qu
 | Problem Number | 438 |
 | Difficulty | Medium |
 | Submissions | 1 |
-| Languages | java |
+| Languages | Java |
 
 ## Submission History
 
-| Submission | Language | Status | Runtime | Memory | Date |
-|---|---|---|---|---|---|
-| [2133840052](java/submission-2133840052.java) | java | Accepted | 11 | 46760000 | 2026-09-07 17:22:14 |
+| Submission | Language | Status | Runtime | Memory | Date | Code |
+|---|---|---|---:|---:|---|---|
+| [2133840052](https://leetcode.com/submissions/detail/2133840052/) | Java | ✅ Accepted | 11 ms | 46.76 MB | 07 Sep 2026, 05:22 PM | [View Code](java/submission-2133840052.java) |
 
 ## Solution Structure
 
 ```text
 find-all-anagrams-in-a-string/
-├── java/
+└── java/
 └── README.md
-        
+```

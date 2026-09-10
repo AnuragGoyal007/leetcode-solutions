@@ -41,18 +41,18 @@
 | Problem Number | 876 |
 | Difficulty | Easy |
 | Submissions | 1 |
-| Languages | cpp |
+| Languages | C++ |
 
 ## Submission History
 
-| Submission | Language | Status | Runtime | Memory | Date |
-|---|---|---|---|---|---|
-| [1812156431](cpp/submission-1812156431.cpp) | cpp | Accepted | 0 | 9980000 | 2025-10-26 16:55:17 |
+| Submission | Language | Status | Runtime | Memory | Date | Code |
+|---|---|---|---:|---:|---|---|
+| [1812156431](https://leetcode.com/submissions/detail/1812156431/) | C++ | ✅ Accepted | 0 ms | 9.98 MB | 26 Oct 2025, 04:55 PM | [View Code](cpp/submission-1812156431.cpp) |
 
 ## Solution Structure
 
 ```text
 middle-of-the-linked-list/
-├── cpp/
+└── cpp/
 └── README.md
-        
+```

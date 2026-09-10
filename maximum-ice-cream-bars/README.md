@@ -57,18 +57,18 @@
 | Problem Number | 1833 |
 | Difficulty | Medium |
 | Submissions | 1 |
-| Languages | java |
+| Languages | Java |
 
 ## Submission History
 
-| Submission | Language | Status | Runtime | Memory | Date |
-|---|---|---|---|---|---|
-| [2041162921](java/submission-2041162921.java) | java | Accepted | 36 | 83944000 | 2026-06-21 21:30:18 |
+| Submission | Language | Status | Runtime | Memory | Date | Code |
+|---|---|---|---:|---:|---|---|
+| [2041162921](https://leetcode.com/submissions/detail/2041162921/) | Java | ✅ Accepted | 36 ms | 83.94 MB | 21 Jun 2026, 09:30 PM | [View Code](java/submission-2041162921.java) |
 
 ## Solution Structure
 
 ```text
 maximum-ice-cream-bars/
-├── java/
+└── java/
 └── README.md
-        
+```

@@ -45,20 +45,20 @@
 | Problem Number | 25 |
 | Difficulty | Hard |
 | Submissions | 3 |
-| Languages | java |
+| Languages | Java |
 
 ## Submission History
 
-| Submission | Language | Status | Runtime | Memory | Date |
-|---|---|---|---|---|---|
-| [2093929697](java/submission-2093929697.java) | java | Wrong Answer | 0 | 46076000 | 2026-08-04 17:27:20 |
-| [2093931105](java/submission-2093931105.java) | java | Wrong Answer | 0 | 46276000 | 2026-08-04 17:28:45 |
-| [2093932476](java/submission-2093932476.java) | java | Accepted | 0 | 46660000 | 2026-08-04 17:30:12 |
+| Submission | Language | Status | Runtime | Memory | Date | Code |
+|---|---|---|---:|---:|---|---|
+| [2093929697](https://leetcode.com/submissions/detail/2093929697/) | Java | ❌ Wrong Answer | 0 ms | 46.08 MB | 04 Aug 2026, 05:27 PM | [View Code](java/submission-2093929697.java) |
+| [2093931105](https://leetcode.com/submissions/detail/2093931105/) | Java | ❌ Wrong Answer | 0 ms | 46.28 MB | 04 Aug 2026, 05:28 PM | [View Code](java/submission-2093931105.java) |
+| [2093932476](https://leetcode.com/submissions/detail/2093932476/) | Java | ✅ Accepted | 0 ms | 46.66 MB | 04 Aug 2026, 05:30 PM | [View Code](java/submission-2093932476.java) |
 
 ## Solution Structure
 
 ```text
 reverse-nodes-in-k-group/
-├── java/
+└── java/
 └── README.md
-        
+```

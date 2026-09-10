@@ -50,18 +50,18 @@
 | Problem Number | 136 |
 | Difficulty | Easy |
 | Submissions | 1 |
-| Languages | cpp |
+| Languages | C++ |
 
 ## Submission History
 
-| Submission | Language | Status | Runtime | Memory | Date |
-|---|---|---|---|---|---|
-| [1700250615](cpp/submission-1700250615.cpp) | cpp | Accepted | 0 | 20848000 | 2025-07-16 21:17:21 |
+| Submission | Language | Status | Runtime | Memory | Date | Code |
+|---|---|---|---:|---:|---|---|
+| [1700250615](https://leetcode.com/submissions/detail/1700250615/) | C++ | ✅ Accepted | 0 ms | 20.85 MB | 16 Jul 2025, 09:17 PM | [View Code](cpp/submission-1700250615.cpp) |
 
 ## Solution Structure
 
 ```text
 single-number/
-├── cpp/
+└── cpp/
 └── README.md
-        
+```

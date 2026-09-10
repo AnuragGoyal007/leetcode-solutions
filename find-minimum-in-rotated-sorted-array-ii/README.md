@@ -48,19 +48,19 @@
 | Problem Number | 154 |
 | Difficulty | Hard |
 | Submissions | 2 |
-| Languages | java |
+| Languages | Java |
 
 ## Submission History
 
-| Submission | Language | Status | Runtime | Memory | Date |
-|---|---|---|---|---|---|
-| [2004859511](java/submission-2004859511.java) | java | Wrong Answer | 0 | 45028000 | 2026-05-17 00:14:13 |
-| [2004863946](java/submission-2004863946.java) | java | Accepted | 0 | 44576000 | 2026-05-17 00:21:02 |
+| Submission | Language | Status | Runtime | Memory | Date | Code |
+|---|---|---|---:|---:|---|---|
+| [2004859511](https://leetcode.com/submissions/detail/2004859511/) | Java | ❌ Wrong Answer | 0 ms | 45.03 MB | 17 May 2026, 12:14 AM | [View Code](java/submission-2004859511.java) |
+| [2004863946](https://leetcode.com/submissions/detail/2004863946/) | Java | ✅ Accepted | 0 ms | 44.58 MB | 17 May 2026, 12:21 AM | [View Code](java/submission-2004863946.java) |
 
 ## Solution Structure
 
 ```text
 find-minimum-in-rotated-sorted-array-ii/
-├── java/
+└── java/
 └── README.md
-        
+```

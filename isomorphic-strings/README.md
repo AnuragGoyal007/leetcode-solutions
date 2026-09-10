@@ -65,20 +65,20 @@
 | Problem Number | 205 |
 | Difficulty | Easy |
 | Submissions | 3 |
-| Languages | cpp |
+| Languages | C++ |
 
 ## Submission History
 
-| Submission | Language | Status | Runtime | Memory | Date |
-|---|---|---|---|---|---|
-| [1308301733](cpp/submission-1308301733.cpp) | cpp | Wrong Answer | 6 | 7976000 | 2024-07-03 19:20:33 |
-| [1308303039](cpp/submission-1308303039.cpp) | cpp | Wrong Answer | 6 | 8268000 | 2024-07-03 19:21:53 |
-| [1308303238](cpp/submission-1308303238.cpp) | cpp | Wrong Answer | 3 | 8220000 | 2024-07-03 19:22:05 |
+| Submission | Language | Status | Runtime | Memory | Date | Code |
+|---|---|---|---:|---:|---|---|
+| [1308301733](https://leetcode.com/submissions/detail/1308301733/) | C++ | ❌ Wrong Answer | 6 ms | 7.98 MB | 03 Jul 2024, 07:20 PM | [View Code](cpp/submission-1308301733.cpp) |
+| [1308303039](https://leetcode.com/submissions/detail/1308303039/) | C++ | ❌ Wrong Answer | 6 ms | 8.27 MB | 03 Jul 2024, 07:21 PM | [View Code](cpp/submission-1308303039.cpp) |
+| [1308303238](https://leetcode.com/submissions/detail/1308303238/) | C++ | ❌ Wrong Answer | 3 ms | 8.22 MB | 03 Jul 2024, 07:22 PM | [View Code](cpp/submission-1308303238.cpp) |
 
 ## Solution Structure
 
 ```text
 isomorphic-strings/
-├── cpp/
+└── cpp/
 └── README.md
-        
+```

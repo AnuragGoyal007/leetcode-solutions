@@ -61,18 +61,18 @@ Similarly You cannot jump from index 3 to index 2 or index 1.
 | Problem Number | 1340 |
 | Difficulty | Hard |
 | Submissions | 1 |
-| Languages | java |
+| Languages | Java |
 
 ## Submission History
 
-| Submission | Language | Status | Runtime | Memory | Date |
-|---|---|---|---|---|---|
-| [2011504304](java/submission-2011504304.java) | java | Accepted | 10 | 46268000 | 2026-05-24 12:44:03 |
+| Submission | Language | Status | Runtime | Memory | Date | Code |
+|---|---|---|---:|---:|---|---|
+| [2011504304](https://leetcode.com/submissions/detail/2011504304/) | Java | ✅ Accepted | 10 ms | 46.27 MB | 24 May 2026, 12:44 PM | [View Code](java/submission-2011504304.java) |
 
 ## Solution Structure
 
 ```text
 jump-game-v/
-├── java/
+└── java/
 └── README.md
-        
+```

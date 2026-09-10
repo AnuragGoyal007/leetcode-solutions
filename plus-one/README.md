@@ -56,18 +56,18 @@ Thus, the result should be [1,0].
 | Problem Number | 66 |
 | Difficulty | Easy |
 | Submissions | 1 |
-| Languages | cpp |
+| Languages | C++ |
 
 ## Submission History
 
-| Submission | Language | Status | Runtime | Memory | Date |
-|---|---|---|---|---|---|
-| [1872371984](cpp/submission-1872371984.cpp) | cpp | Accepted | 0 | 11340000 | 2026-01-02 23:46:04 |
+| Submission | Language | Status | Runtime | Memory | Date | Code |
+|---|---|---|---:|---:|---|---|
+| [1872371984](https://leetcode.com/submissions/detail/1872371984/) | C++ | ✅ Accepted | 0 ms | 11.34 MB | 02 Jan 2026, 11:46 PM | [View Code](cpp/submission-1872371984.cpp) |
 
 ## Solution Structure
 
 ```text
 plus-one/
-├── cpp/
+└── cpp/
 └── README.md
-        
+```

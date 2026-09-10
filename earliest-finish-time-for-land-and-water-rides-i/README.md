@@ -117,18 +117,18 @@
 | Problem Number | 3633 |
 | Difficulty | Easy |
 | Submissions | 1 |
-| Languages | java |
+| Languages | Java |
 
 ## Submission History
 
-| Submission | Language | Status | Runtime | Memory | Date |
-|---|---|---|---|---|---|
-| [2019611493](java/submission-2019611493.java) | java | Accepted | 3 | 46928000 | 2026-06-02 06:14:43 |
+| Submission | Language | Status | Runtime | Memory | Date | Code |
+|---|---|---|---:|---:|---|---|
+| [2019611493](https://leetcode.com/submissions/detail/2019611493/) | Java | ✅ Accepted | 3 ms | 46.93 MB | 02 Jun 2026, 06:14 AM | [View Code](java/submission-2019611493.java) |
 
 ## Solution Structure
 
 ```text
 earliest-finish-time-for-land-and-water-rides-i/
-├── java/
+└── java/
 └── README.md
-        
+```

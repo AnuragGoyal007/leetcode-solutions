@@ -52,18 +52,18 @@ Note that &#39;A&#39; and &#39;a&#39; are treated as two different characters.
 | Problem Number | 451 |
 | Difficulty | Medium |
 | Submissions | 1 |
-| Languages | java |
+| Languages | Java |
 
 ## Submission History
 
-| Submission | Language | Status | Runtime | Memory | Date |
-|---|---|---|---|---|---|
-| [2118336118](java/submission-2118336118.java) | java | Accepted | 13 | 46704000 | 2026-08-24 16:28:27 |
+| Submission | Language | Status | Runtime | Memory | Date | Code |
+|---|---|---|---:|---:|---|---|
+| [2118336118](https://leetcode.com/submissions/detail/2118336118/) | Java | ✅ Accepted | 13 ms | 46.70 MB | 24 Aug 2026, 04:28 PM | [View Code](java/submission-2118336118.java) |
 
 ## Solution Structure
 
 ```text
 sort-characters-by-frequency/
-├── java/
+└── java/
 └── README.md
-        
+```

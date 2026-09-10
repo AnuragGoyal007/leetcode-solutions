@@ -57,18 +57,18 @@ Step 4) 1 is odd; subtract 1 and obtain 0.
 | Problem Number | 1342 |
 | Difficulty | Easy |
 | Submissions | 1 |
-| Languages | java |
+| Languages | Java |
 
 ## Submission History
 
-| Submission | Language | Status | Runtime | Memory | Date |
-|---|---|---|---|---|---|
-| [1993076201](java/submission-1993076201.java) | java | Accepted | 0 | 41812000 | 2026-05-02 11:36:57 |
+| Submission | Language | Status | Runtime | Memory | Date | Code |
+|---|---|---|---:|---:|---|---|
+| [1993076201](https://leetcode.com/submissions/detail/1993076201/) | Java | ✅ Accepted | 0 ms | 41.81 MB | 02 May 2026, 11:36 AM | [View Code](java/submission-1993076201.java) |
 
 ## Solution Structure
 
 ```text
 number-of-steps-to-reduce-a-number-to-zero/
-├── java/
+└── java/
 └── README.md
-        
+```

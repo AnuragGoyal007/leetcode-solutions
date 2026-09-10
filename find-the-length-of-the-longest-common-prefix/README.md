@@ -52,18 +52,18 @@ Note that common prefixes between elements of the same array do not count.
 | Problem Number | 3043 |
 | Difficulty | Medium |
 | Submissions | 1 |
-| Languages | java |
+| Languages | Java |
 
 ## Submission History
 
-| Submission | Language | Status | Runtime | Memory | Date |
-|---|---|---|---|---|---|
-| [2009135323](java/submission-2009135323.java) | java | Accepted | 66 | 80772000 | 2026-05-21 20:35:06 |
+| Submission | Language | Status | Runtime | Memory | Date | Code |
+|---|---|---|---:|---:|---|---|
+| [2009135323](https://leetcode.com/submissions/detail/2009135323/) | Java | ✅ Accepted | 66 ms | 80.77 MB | 21 May 2026, 08:35 PM | [View Code](java/submission-2009135323.java) |
 
 ## Solution Structure
 
 ```text
 find-the-length-of-the-longest-common-prefix/
-├── java/
+└── java/
 └── README.md
-        
+```

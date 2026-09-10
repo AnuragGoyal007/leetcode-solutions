@@ -47,18 +47,18 @@
 | Problem Number | 3020 |
 | Difficulty | Medium |
 | Submissions | 1 |
-| Languages | java |
+| Languages | Java |
 
 ## Submission History
 
-| Submission | Language | Status | Runtime | Memory | Date |
-|---|---|---|---|---|---|
-| [2047486195](java/submission-2047486195.java) | java | Accepted | 45 | 65880000 | 2026-06-27 11:36:53 |
+| Submission | Language | Status | Runtime | Memory | Date | Code |
+|---|---|---|---:|---:|---|---|
+| [2047486195](https://leetcode.com/submissions/detail/2047486195/) | Java | ✅ Accepted | 45 ms | 65.88 MB | 27 Jun 2026, 11:36 AM | [View Code](java/submission-2047486195.java) |
 
 ## Solution Structure
 
 ```text
 find-the-maximum-number-of-elements-in-subset/
-├── java/
+└── java/
 └── README.md
-        
+```

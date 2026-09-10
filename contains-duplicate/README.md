@@ -55,18 +55,18 @@
 | Problem Number | 217 |
 | Difficulty | Easy |
 | Submissions | 1 |
-| Languages | cpp |
+| Languages | C++ |
 
 ## Submission History
 
-| Submission | Language | Status | Runtime | Memory | Date |
-|---|---|---|---|---|---|
-| [1709392649](cpp/submission-1709392649.cpp) | cpp | Accepted | 19 | 70980000 | 2025-07-24 12:40:02 |
+| Submission | Language | Status | Runtime | Memory | Date | Code |
+|---|---|---|---:|---:|---|---|
+| [1709392649](https://leetcode.com/submissions/detail/1709392649/) | C++ | ✅ Accepted | 19 ms | 70.98 MB | 24 Jul 2025, 12:40 PM | [View Code](cpp/submission-1709392649.cpp) |
 
 ## Solution Structure
 
 ```text
 contains-duplicate/
-├── cpp/
+└── cpp/
 └── README.md
-        
+```

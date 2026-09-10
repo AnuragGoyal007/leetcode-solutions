@@ -46,18 +46,18 @@
 | Problem Number | 1344 |
 | Difficulty | Medium |
 | Submissions | 1 |
-| Languages | java |
+| Languages | Java |
 
 ## Submission History
 
-| Submission | Language | Status | Runtime | Memory | Date |
-|---|---|---|---|---|---|
-| [2037017167](java/submission-2037017167.java) | java | Accepted | 0 | 45080000 | 2026-06-18 09:44:37 |
+| Submission | Language | Status | Runtime | Memory | Date | Code |
+|---|---|---|---:|---:|---|---|
+| [2037017167](https://leetcode.com/submissions/detail/2037017167/) | Java | ✅ Accepted | 0 ms | 45.08 MB | 18 Jun 2026, 09:44 AM | [View Code](java/submission-2037017167.java) |
 
 ## Solution Structure
 
 ```text
 angle-between-hands-of-a-clock/
-├── java/
+└── java/
 └── README.md
-        
+```

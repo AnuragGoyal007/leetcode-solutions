@@ -63,22 +63,22 @@
 | Problem Number | 523 |
 | Difficulty | Medium |
 | Submissions | 5 |
-| Languages | java |
+| Languages | Java |
 
 ## Submission History
 
-| Submission | Language | Status | Runtime | Memory | Date |
-|---|---|---|---|---|---|
-| [2065207542](java/submission-2065207542.java) | java | Wrong Answer | 3811 | 83428000 | 2026-07-12 21:59:58 |
-| [2065209073](java/submission-2065209073.java) | java | Time Limit Exceeded | 3809 | 83412000 | 2026-07-12 22:01:16 |
-| [2065296081](java/submission-2065296081.java) | java | Time Limit Exceeded | 3909 | 83428000 | 2026-07-12 23:15:34 |
-| [2065515098](java/submission-2065515098.java) | java | Wrong Answer | 8 | 110640000 | 2026-07-13 06:16:05 |
-| [2065515866](java/submission-2065515866.java) | java | Accepted | 22 | 139712000 | 2026-07-13 06:18:35 |
+| Submission | Language | Status | Runtime | Memory | Date | Code |
+|---|---|---|---:|---:|---|---|
+| [2065207542](https://leetcode.com/submissions/detail/2065207542/) | Java | ❌ Wrong Answer | 3811 ms | 83.43 MB | 12 Jul 2026, 09:59 PM | [View Code](java/submission-2065207542.java) |
+| [2065209073](https://leetcode.com/submissions/detail/2065209073/) | Java | ❌ Time Limit Exceeded | 3809 ms | 83.41 MB | 12 Jul 2026, 10:01 PM | [View Code](java/submission-2065209073.java) |
+| [2065296081](https://leetcode.com/submissions/detail/2065296081/) | Java | ❌ Time Limit Exceeded | 3909 ms | 83.43 MB | 12 Jul 2026, 11:15 PM | [View Code](java/submission-2065296081.java) |
+| [2065515098](https://leetcode.com/submissions/detail/2065515098/) | Java | ❌ Wrong Answer | 8 ms | 110.64 MB | 13 Jul 2026, 06:16 AM | [View Code](java/submission-2065515098.java) |
+| [2065515866](https://leetcode.com/submissions/detail/2065515866/) | Java | ✅ Accepted | 22 ms | 139.71 MB | 13 Jul 2026, 06:18 AM | [View Code](java/submission-2065515866.java) |
 
 ## Solution Structure
 
 ```text
 continuous-subarray-sum/
-├── java/
+└── java/
 └── README.md
-        
+```

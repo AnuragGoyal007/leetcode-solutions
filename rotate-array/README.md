@@ -53,20 +53,20 @@ rotate 2 steps to the right: [3,99,-1,-100]
 | Problem Number | 189 |
 | Difficulty | Medium |
 | Submissions | 2 |
-| Languages | cpp, java |
+| Languages | C++, Java |
 
 ## Submission History
 
-| Submission | Language | Status | Runtime | Memory | Date |
-|---|---|---|---|---|---|
-| [1855962529](cpp/submission-1855962529.cpp) | cpp | Accepted | 0 | 29572000 | 2025-12-15 11:22:01 |
-| [2098058056](java/submission-2098058056.java) | java | Accepted | 1 | 61244000 | 2026-08-07 20:02:59 |
+| Submission | Language | Status | Runtime | Memory | Date | Code |
+|---|---|---|---:|---:|---|---|
+| [1855962529](https://leetcode.com/submissions/detail/1855962529/) | C++ | ✅ Accepted | 0 ms | 29.57 MB | 15 Dec 2025, 11:22 AM | [View Code](cpp/submission-1855962529.cpp) |
+| [2098058056](https://leetcode.com/submissions/detail/2098058056/) | Java | ✅ Accepted | 1 ms | 61.24 MB | 07 Aug 2026, 08:02 PM | [View Code](java/submission-2098058056.java) |
 
 ## Solution Structure
 
 ```text
 rotate-array/
 ├── cpp/
-├── java/
+└── java/
 └── README.md
-        
+```

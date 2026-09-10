@@ -43,18 +43,18 @@ Result = 32 - 11 = 21
 | Problem Number | 1281 |
 | Difficulty | Easy |
 | Submissions | 1 |
-| Languages | java |
+| Languages | Java |
 
 ## Submission History
 
-| Submission | Language | Status | Runtime | Memory | Date |
-|---|---|---|---|---|---|
-| [2032804845](java/submission-2032804845.java) | java | Accepted | 0 | 42164000 | 2026-06-14 17:58:57 |
+| Submission | Language | Status | Runtime | Memory | Date | Code |
+|---|---|---|---:|---:|---|---|
+| [2032804845](https://leetcode.com/submissions/detail/2032804845/) | Java | ✅ Accepted | 0 ms | 42.16 MB | 14 Jun 2026, 05:58 PM | [View Code](java/submission-2032804845.java) |
 
 ## Solution Structure
 
 ```text
 subtract-the-product-and-sum-of-digits-of-an-integer/
-├── java/
+└── java/
 └── README.md
-        
+```

@@ -54,18 +54,18 @@ These are the only two combinations.
 | Problem Number | 39 |
 | Difficulty | Medium |
 | Submissions | 1 |
-| Languages | java |
+| Languages | Java |
 
 ## Submission History
 
-| Submission | Language | Status | Runtime | Memory | Date |
-|---|---|---|---|---|---|
-| [2135160490](java/submission-2135160490.java) | java | Accepted | 2 | 45408000 | 2026-09-08 19:13:37 |
+| Submission | Language | Status | Runtime | Memory | Date | Code |
+|---|---|---|---:|---:|---|---|
+| [2135160490](https://leetcode.com/submissions/detail/2135160490/) | Java | ✅ Accepted | 2 ms | 45.41 MB | 08 Sep 2026, 07:13 PM | [View Code](java/submission-2135160490.java) |
 
 ## Solution Structure
 
 ```text
 combination-sum/
-├── java/
+└── java/
 └── README.md
-        
+```

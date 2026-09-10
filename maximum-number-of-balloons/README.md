@@ -53,18 +53,18 @@
 | Problem Number | 1189 |
 | Difficulty | Easy |
 | Submissions | 1 |
-| Languages | java |
+| Languages | Java |
 
 ## Submission History
 
-| Submission | Language | Status | Runtime | Memory | Date |
-|---|---|---|---|---|---|
-| [2042144253](java/submission-2042144253.java) | java | Accepted | 2 | 42732000 | 2026-06-22 17:48:44 |
+| Submission | Language | Status | Runtime | Memory | Date | Code |
+|---|---|---|---:|---:|---|---|
+| [2042144253](https://leetcode.com/submissions/detail/2042144253/) | Java | ✅ Accepted | 2 ms | 42.73 MB | 22 Jun 2026, 05:48 PM | [View Code](java/submission-2042144253.java) |
 
 ## Solution Structure
 
 ```text
 maximum-number-of-balloons/
-├── java/
+└── java/
 └── README.md
-        
+```

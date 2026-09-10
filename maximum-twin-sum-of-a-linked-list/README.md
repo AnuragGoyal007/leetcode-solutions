@@ -63,18 +63,18 @@ There is only one node with a twin in the linked list having twin sum of 1 + 100
 | Problem Number | 2130 |
 | Difficulty | Medium |
 | Submissions | 1 |
-| Languages | java |
+| Languages | Java |
 
 ## Submission History
 
-| Submission | Language | Status | Runtime | Memory | Date |
-|---|---|---|---|---|---|
-| [2032802285](java/submission-2032802285.java) | java | Accepted | 9 | 115500000 | 2026-06-14 17:55:53 |
+| Submission | Language | Status | Runtime | Memory | Date | Code |
+|---|---|---|---:|---:|---|---|
+| [2032802285](https://leetcode.com/submissions/detail/2032802285/) | Java | ✅ Accepted | 9 ms | 115.50 MB | 14 Jun 2026, 05:55 PM | [View Code](java/submission-2032802285.java) |
 
 ## Solution Structure
 
 ```text
 maximum-twin-sum-of-a-linked-list/
-├── java/
+└── java/
 └── README.md
-        
+```

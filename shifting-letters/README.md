@@ -53,18 +53,18 @@ After shifting the first 3 letters of s by 9, we have &quot;rpl&quot;, the answe
 | Problem Number | 848 |
 | Difficulty | Medium |
 | Submissions | 1 |
-| Languages | java |
+| Languages | Java |
 
 ## Submission History
 
-| Submission | Language | Status | Runtime | Memory | Date |
-|---|---|---|---|---|---|
-| [2103449984](java/submission-2103449984.java) | java | Accepted | 7 | 71712000 | 2026-08-12 02:59:42 |
+| Submission | Language | Status | Runtime | Memory | Date | Code |
+|---|---|---|---:|---:|---|---|
+| [2103449984](https://leetcode.com/submissions/detail/2103449984/) | Java | ✅ Accepted | 7 ms | 71.71 MB | 12 Aug 2026, 02:59 AM | [View Code](java/submission-2103449984.java) |
 
 ## Solution Structure
 
 ```text
 shifting-letters/
-├── java/
+└── java/
 └── README.md
-        
+```

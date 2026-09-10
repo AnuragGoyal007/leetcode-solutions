@@ -64,19 +64,19 @@ It does not matter what you leave beyond the returned k (hence they are undersco
 | Problem Number | 26 |
 | Difficulty | Easy |
 | Submissions | 2 |
-| Languages | cpp |
+| Languages | C++ |
 
 ## Submission History
 
-| Submission | Language | Status | Runtime | Memory | Date |
-|---|---|---|---|---|---|
-| [1574302779](cpp/submission-1574302779.cpp) | cpp | Runtime Error | 0 | 8452000 | 2025-03-15 14:41:10 |
-| [1574303652](cpp/submission-1574303652.cpp) | cpp | Accepted | 0 | 22660000 | 2025-03-15 14:42:23 |
+| Submission | Language | Status | Runtime | Memory | Date | Code |
+|---|---|---|---:|---:|---|---|
+| [1574302779](https://leetcode.com/submissions/detail/1574302779/) | C++ | ❌ Runtime Error | 0 ms | 8.45 MB | 15 Mar 2025, 02:41 PM | [View Code](cpp/submission-1574302779.cpp) |
+| [1574303652](https://leetcode.com/submissions/detail/1574303652/) | C++ | ✅ Accepted | 0 ms | 22.66 MB | 15 Mar 2025, 02:42 PM | [View Code](cpp/submission-1574303652.cpp) |
 
 ## Solution Structure
 
 ```text
 remove-duplicates-from-sorted-array/
-├── cpp/
+└── cpp/
 └── README.md
-        
+```

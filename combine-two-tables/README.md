@@ -82,18 +82,18 @@ addressId = 1 contains information about the address of personId = 2.
 | Problem Number | 175 |
 | Difficulty | Easy |
 | Submissions | 1 |
-| Languages | mysql |
+| Languages | MySQL |
 
 ## Submission History
 
-| Submission | Language | Status | Runtime | Memory | Date |
-|---|---|---|---|---|---|
-| [1918025113](mysql/submission-1918025113.sql) | mysql | Accepted | 395 | 0 | 2026-02-13 19:04:11 |
+| Submission | Language | Status | Runtime | Memory | Date | Code |
+|---|---|---|---:|---:|---|---|
+| [1918025113](https://leetcode.com/submissions/detail/1918025113/) | MySQL | ✅ Accepted | 395 ms | 0.00 MB | 13 Feb 2026, 07:04 PM | [View Code](mysql/submission-1918025113.sql) |
 
 ## Solution Structure
 
 ```text
 combine-two-tables/
-├── mysql/
+└── mysql/
 └── README.md
-        
+```

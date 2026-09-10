@@ -49,18 +49,18 @@ The answer is the sum of divisors of 21 only.
 | Problem Number | 1390 |
 | Difficulty | Medium |
 | Submissions | 1 |
-| Languages | cpp |
+| Languages | C++ |
 
 ## Submission History
 
-| Submission | Language | Status | Runtime | Memory | Date |
-|---|---|---|---|---|---|
-| [1874578506](cpp/submission-1874578506.cpp) | cpp | Accepted | 12 | 16172000 | 2026-01-05 00:32:36 |
+| Submission | Language | Status | Runtime | Memory | Date | Code |
+|---|---|---|---:|---:|---|---|
+| [1874578506](https://leetcode.com/submissions/detail/1874578506/) | C++ | ✅ Accepted | 12 ms | 16.17 MB | 05 Jan 2026, 12:32 AM | [View Code](cpp/submission-1874578506.cpp) |
 
 ## Solution Structure
 
 ```text
 four-divisors/
-├── cpp/
+└── cpp/
 └── README.md
-        
+```

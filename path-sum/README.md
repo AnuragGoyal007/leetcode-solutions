@@ -53,18 +53,18 @@ There is no root-to-leaf path with sum = 5.
 | Problem Number | 112 |
 | Difficulty | Easy |
 | Submissions | 1 |
-| Languages | cpp |
+| Languages | C++ |
 
 ## Submission History
 
-| Submission | Language | Status | Runtime | Memory | Date |
-|---|---|---|---|---|---|
-| [1865206883](cpp/submission-1865206883.cpp) | cpp | Accepted | 0 | 21508000 | 2025-12-25 23:08:16 |
+| Submission | Language | Status | Runtime | Memory | Date | Code |
+|---|---|---|---:|---:|---|---|
+| [1865206883](https://leetcode.com/submissions/detail/1865206883/) | C++ | ✅ Accepted | 0 ms | 21.51 MB | 25 Dec 2025, 11:08 PM | [View Code](cpp/submission-1865206883.cpp) |
 
 ## Solution Structure
 
 ```text
 path-sum/
-├── cpp/
+└── cpp/
 └── README.md
-        
+```

@@ -44,20 +44,20 @@
 | Problem Number | 110 |
 | Difficulty | Easy |
 | Submissions | 2 |
-| Languages | cpp, java |
+| Languages | C++, Java |
 
 ## Submission History
 
-| Submission | Language | Status | Runtime | Memory | Date |
-|---|---|---|---|---|---|
-| [1862195900](cpp/submission-1862195900.cpp) | cpp | Accepted | 0 | 23140000 | 2025-12-22 13:21:16 |
-| [2124307037](java/submission-2124307037.java) | java | Accepted | 0 | 45632000 | 2026-08-30 01:17:30 |
+| Submission | Language | Status | Runtime | Memory | Date | Code |
+|---|---|---|---:|---:|---|---|
+| [1862195900](https://leetcode.com/submissions/detail/1862195900/) | C++ | ✅ Accepted | 0 ms | 23.14 MB | 22 Dec 2025, 01:21 PM | [View Code](cpp/submission-1862195900.cpp) |
+| [2124307037](https://leetcode.com/submissions/detail/2124307037/) | Java | ✅ Accepted | 0 ms | 45.63 MB | 30 Aug 2026, 01:17 AM | [View Code](java/submission-2124307037.java) |
 
 ## Solution Structure
 
 ```text
 balanced-binary-tree/
 ├── cpp/
-├── java/
+└── java/
 └── README.md
-        
+```

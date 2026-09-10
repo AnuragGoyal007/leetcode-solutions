@@ -41,18 +41,18 @@ Bolded numbers were flipped from 0 to 1. The longest subarray is underlined.
 | Problem Number | 1004 |
 | Difficulty | Medium |
 | Submissions | 1 |
-| Languages | java |
+| Languages | Java |
 
 ## Submission History
 
-| Submission | Language | Status | Runtime | Memory | Date |
-|---|---|---|---|---|---|
-| [2119622268](java/submission-2119622268.java) | java | Accepted | 4 | 52184000 | 2026-08-25 17:53:12 |
+| Submission | Language | Status | Runtime | Memory | Date | Code |
+|---|---|---|---:|---:|---|---|
+| [2119622268](https://leetcode.com/submissions/detail/2119622268/) | Java | ✅ Accepted | 4 ms | 52.18 MB | 25 Aug 2026, 05:53 PM | [View Code](java/submission-2119622268.java) |
 
 ## Solution Structure
 
 ```text
 max-consecutive-ones-iii/
-├── java/
+└── java/
 └── README.md
-        
+```

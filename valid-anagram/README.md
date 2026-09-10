@@ -42,18 +42,18 @@
 | Problem Number | 242 |
 | Difficulty | Easy |
 | Submissions | 1 |
-| Languages | cpp |
+| Languages | C++ |
 
 ## Submission History
 
-| Submission | Language | Status | Runtime | Memory | Date |
-|---|---|---|---|---|---|
-| [1306518901](cpp/submission-1306518901.cpp) | cpp | Accepted | 8 | 8540000 | 2024-07-02 08:48:12 |
+| Submission | Language | Status | Runtime | Memory | Date | Code |
+|---|---|---|---:|---:|---|---|
+| [1306518901](https://leetcode.com/submissions/detail/1306518901/) | C++ | ✅ Accepted | 8 ms | 8.54 MB | 02 Jul 2024, 08:48 AM | [View Code](cpp/submission-1306518901.cpp) |
 
 ## Solution Structure
 
 ```text
 valid-anagram/
-├── cpp/
+└── cpp/
 └── README.md
-        
+```

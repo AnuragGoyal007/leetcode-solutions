@@ -48,18 +48,18 @@
 | Problem Number | 74 |
 | Difficulty | Medium |
 | Submissions | 1 |
-| Languages | java |
+| Languages | Java |
 
 ## Submission History
 
-| Submission | Language | Status | Runtime | Memory | Date |
-|---|---|---|---|---|---|
-| [1996181004](java/submission-1996181004.java) | java | Accepted | 0 | 44108000 | 2026-05-06 03:18:39 |
+| Submission | Language | Status | Runtime | Memory | Date | Code |
+|---|---|---|---:|---:|---|---|
+| [1996181004](https://leetcode.com/submissions/detail/1996181004/) | Java | ✅ Accepted | 0 ms | 44.11 MB | 06 May 2026, 03:18 AM | [View Code](java/submission-1996181004.java) |
 
 ## Solution Structure
 
 ```text
 search-a-2d-matrix/
-├── java/
+└── java/
 └── README.md
-        
+```

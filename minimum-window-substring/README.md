@@ -55,18 +55,18 @@ Since the largest window of s only has one &#39;a&#39;, return empty string.
 | Problem Number | 76 |
 | Difficulty | Hard |
 | Submissions | 1 |
-| Languages | java |
+| Languages | Java |
 
 ## Submission History
 
-| Submission | Language | Status | Runtime | Memory | Date |
-|---|---|---|---|---|---|
-| [2120846590](java/submission-2120846590.java) | java | Accepted | 3 | 45440000 | 2026-08-26 19:08:23 |
+| Submission | Language | Status | Runtime | Memory | Date | Code |
+|---|---|---|---:|---:|---|---|
+| [2120846590](https://leetcode.com/submissions/detail/2120846590/) | Java | ✅ Accepted | 3 ms | 45.44 MB | 26 Aug 2026, 07:08 PM | [View Code](java/submission-2120846590.java) |
 
 ## Solution Structure
 
 ```text
 minimum-window-substring/
-├── java/
+└── java/
 └── README.md
-        
+```

@@ -49,18 +49,18 @@ In the second step, move from index 3 to index 5.
 | Problem Number | 1871 |
 | Difficulty | Medium |
 | Submissions | 1 |
-| Languages | java |
+| Languages | Java |
 
 ## Submission History
 
-| Submission | Language | Status | Runtime | Memory | Date |
-|---|---|---|---|---|---|
-| [2012453656](java/submission-2012453656.java) | java | Accepted | 9 | 47892000 | 2026-05-25 14:52:32 |
+| Submission | Language | Status | Runtime | Memory | Date | Code |
+|---|---|---|---:|---:|---|---|
+| [2012453656](https://leetcode.com/submissions/detail/2012453656/) | Java | ✅ Accepted | 9 ms | 47.89 MB | 25 May 2026, 02:52 PM | [View Code](java/submission-2012453656.java) |
 
 ## Solution Structure
 
 ```text
 jump-game-vii/
-├── java/
+└── java/
 └── README.md
-        
+```

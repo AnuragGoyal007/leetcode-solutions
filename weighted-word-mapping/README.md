@@ -80,18 +80,18 @@
 | Problem Number | 3838 |
 | Difficulty | Easy |
 | Submissions | 1 |
-| Languages | java |
+| Languages | Java |
 
 ## Submission History
 
-| Submission | Language | Status | Runtime | Memory | Date |
-|---|---|---|---|---|---|
-| [2031519861](java/submission-2031519861.java) | java | Accepted | 2 | 46416000 | 2026-06-13 13:10:02 |
+| Submission | Language | Status | Runtime | Memory | Date | Code |
+|---|---|---|---:|---:|---|---|
+| [2031519861](https://leetcode.com/submissions/detail/2031519861/) | Java | ✅ Accepted | 2 ms | 46.42 MB | 13 Jun 2026, 01:10 PM | [View Code](java/submission-2031519861.java) |
 
 ## Solution Structure
 
 ```text
 weighted-word-mapping/
-├── java/
+└── java/
 └── README.md
-        
+```

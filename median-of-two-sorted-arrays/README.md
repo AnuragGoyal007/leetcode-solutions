@@ -45,18 +45,18 @@
 | Problem Number | 4 |
 | Difficulty | Hard |
 | Submissions | 1 |
-| Languages | cpp |
+| Languages | C++ |
 
 ## Submission History
 
-| Submission | Language | Status | Runtime | Memory | Date |
-|---|---|---|---|---|---|
-| [1849885550](cpp/submission-1849885550.cpp) | cpp | Accepted | 0 | 95680000 | 2025-12-08 12:05:23 |
+| Submission | Language | Status | Runtime | Memory | Date | Code |
+|---|---|---|---:|---:|---|---|
+| [1849885550](https://leetcode.com/submissions/detail/1849885550/) | C++ | ✅ Accepted | 0 ms | 95.68 MB | 08 Dec 2025, 12:05 PM | [View Code](cpp/submission-1849885550.cpp) |
 
 ## Solution Structure
 
 ```text
 median-of-two-sorted-arrays/
-├── cpp/
+└── cpp/
 └── README.md
-        
+```

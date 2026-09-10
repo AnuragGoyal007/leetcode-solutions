@@ -41,19 +41,19 @@
 | Problem Number | 111 |
 | Difficulty | Easy |
 | Submissions | 2 |
-| Languages | cpp |
+| Languages | C++ |
 
 ## Submission History
 
-| Submission | Language | Status | Runtime | Memory | Date |
-|---|---|---|---|---|---|
-| [1861783265](cpp/submission-1861783265.cpp) | cpp | Accepted | 9 | 146888000 | 2025-12-21 23:33:33 |
-| [1861846749](cpp/submission-1861846749.cpp) | cpp | Accepted | 0 | 147000000 | 2025-12-22 01:11:22 |
+| Submission | Language | Status | Runtime | Memory | Date | Code |
+|---|---|---|---:|---:|---|---|
+| [1861783265](https://leetcode.com/submissions/detail/1861783265/) | C++ | ✅ Accepted | 9 ms | 146.89 MB | 21 Dec 2025, 11:33 PM | [View Code](cpp/submission-1861783265.cpp) |
+| [1861846749](https://leetcode.com/submissions/detail/1861846749/) | C++ | ✅ Accepted | 0 ms | 147.00 MB | 22 Dec 2025, 01:11 AM | [View Code](cpp/submission-1861846749.cpp) |
 
 ## Solution Structure
 
 ```text
 minimum-depth-of-binary-tree/
-├── cpp/
+└── cpp/
 └── README.md
-        
+```

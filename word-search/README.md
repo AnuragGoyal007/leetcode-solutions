@@ -52,18 +52,18 @@
 | Problem Number | 79 |
 | Difficulty | Medium |
 | Submissions | 1 |
-| Languages | java |
+| Languages | Java |
 
 ## Submission History
 
-| Submission | Language | Status | Runtime | Memory | Date |
-|---|---|---|---|---|---|
-| [2109913354](java/submission-2109913354.java) | java | Accepted | 128 | 43132000 | 2026-08-17 14:27:10 |
+| Submission | Language | Status | Runtime | Memory | Date | Code |
+|---|---|---|---:|---:|---|---|
+| [2109913354](https://leetcode.com/submissions/detail/2109913354/) | Java | ✅ Accepted | 128 ms | 43.13 MB | 17 Aug 2026, 02:27 PM | [View Code](java/submission-2109913354.java) |
 
 ## Solution Structure
 
 ```text
 word-search/
-├── java/
+└── java/
 └── README.md
-        
+```

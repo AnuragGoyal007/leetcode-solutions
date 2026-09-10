@@ -32,20 +32,20 @@
 | Problem Number | 90 |
 | Difficulty | Medium |
 | Submissions | 2 |
-| Languages | cpp, java |
+| Languages | C++, Java |
 
 ## Submission History
 
-| Submission | Language | Status | Runtime | Memory | Date |
-|---|---|---|---|---|---|
-| [1922589409](cpp/submission-1922589409.cpp) | cpp | Accepted | 3 | 10468000 | 2026-02-18 01:53:49 |
-| [2077175668](java/submission-2077175668.java) | java | Accepted | 3 | 45312000 | 2026-07-22 19:17:05 |
+| Submission | Language | Status | Runtime | Memory | Date | Code |
+|---|---|---|---:|---:|---|---|
+| [1922589409](https://leetcode.com/submissions/detail/1922589409/) | C++ | ✅ Accepted | 3 ms | 10.47 MB | 18 Feb 2026, 01:53 AM | [View Code](cpp/submission-1922589409.cpp) |
+| [2077175668](https://leetcode.com/submissions/detail/2077175668/) | Java | ✅ Accepted | 3 ms | 45.31 MB | 22 Jul 2026, 07:17 PM | [View Code](java/submission-2077175668.java) |
 
 ## Solution Structure
 
 ```text
 subsets-ii/
 ├── cpp/
-├── java/
+└── java/
 └── README.md
-        
+```

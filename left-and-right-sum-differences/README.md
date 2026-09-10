@@ -50,18 +50,18 @@ The array answer is [|0 - 0|] = [0].
 | Problem Number | 2574 |
 | Difficulty | Easy |
 | Submissions | 1 |
-| Languages | java |
+| Languages | Java |
 
 ## Submission History
 
-| Submission | Language | Status | Runtime | Memory | Date |
-|---|---|---|---|---|---|
-| [2023913686](java/submission-2023913686.java) | java | Accepted | 2 | 46724000 | 2026-06-06 11:51:55 |
+| Submission | Language | Status | Runtime | Memory | Date | Code |
+|---|---|---|---:|---:|---|---|
+| [2023913686](https://leetcode.com/submissions/detail/2023913686/) | Java | ✅ Accepted | 2 ms | 46.72 MB | 06 Jun 2026, 11:51 AM | [View Code](java/submission-2023913686.java) |
 
 ## Solution Structure
 
 ```text
 left-and-right-sum-differences/
-├── java/
+└── java/
 └── README.md
-        
+```

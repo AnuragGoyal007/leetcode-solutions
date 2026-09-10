@@ -48,19 +48,19 @@ Notice that the answer must be a substring, &quot;pwke&quot; is a subsequence an
 | Problem Number | 3 |
 | Difficulty | Medium |
 | Submissions | 2 |
-| Languages | java |
+| Languages | Java |
 
 ## Submission History
 
-| Submission | Language | Status | Runtime | Memory | Date |
-|---|---|---|---|---|---|
-| [2084019592](java/submission-2084019592.java) | java | Accepted | 6 | 46680000 | 2026-07-28 06:20:01 |
-| [2117090579](java/submission-2117090579.java) | java | Accepted | 8 | 47860000 | 2026-08-23 13:26:01 |
+| Submission | Language | Status | Runtime | Memory | Date | Code |
+|---|---|---|---:|---:|---|---|
+| [2084019592](https://leetcode.com/submissions/detail/2084019592/) | Java | ✅ Accepted | 6 ms | 46.68 MB | 28 Jul 2026, 06:20 AM | [View Code](java/submission-2084019592.java) |
+| [2117090579](https://leetcode.com/submissions/detail/2117090579/) | Java | ✅ Accepted | 8 ms | 47.86 MB | 23 Aug 2026, 01:26 PM | [View Code](java/submission-2117090579.java) |
 
 ## Solution Structure
 
 ```text
 longest-substring-without-repeating-characters/
-├── java/
+└── java/
 └── README.md
-        
+```

@@ -60,21 +60,21 @@ Node 0 with value 2 is the only node remaining after removing node 1.</pre>
 | Problem Number | 2095 |
 | Difficulty | Medium |
 | Submissions | 3 |
-| Languages | cpp, java |
+| Languages | C++, Java |
 
 ## Submission History
 
-| Submission | Language | Status | Runtime | Memory | Date |
-|---|---|---|---|---|---|
-| [1812163670](cpp/submission-1812163670.cpp) | cpp | Accepted | 4 | 311908000 | 2025-10-26 17:06:23 |
-| [1847589787](cpp/submission-1847589787.cpp) | cpp | Accepted | 7 | 312060000 | 2025-12-05 17:51:54 |
-| [2033500501](java/submission-2033500501.java) | java | Accepted | 3 | 202612000 | 2026-06-15 11:14:18 |
+| Submission | Language | Status | Runtime | Memory | Date | Code |
+|---|---|---|---:|---:|---|---|
+| [1812163670](https://leetcode.com/submissions/detail/1812163670/) | C++ | ✅ Accepted | 4 ms | 311.91 MB | 26 Oct 2025, 05:06 PM | [View Code](cpp/submission-1812163670.cpp) |
+| [1847589787](https://leetcode.com/submissions/detail/1847589787/) | C++ | ✅ Accepted | 7 ms | 312.06 MB | 05 Dec 2025, 05:51 PM | [View Code](cpp/submission-1847589787.cpp) |
+| [2033500501](https://leetcode.com/submissions/detail/2033500501/) | Java | ✅ Accepted | 3 ms | 202.61 MB | 15 Jun 2026, 11:14 AM | [View Code](java/submission-2033500501.java) |
 
 ## Solution Structure
 
 ```text
 delete-the-middle-node-of-a-linked-list/
 ├── cpp/
-├── java/
+└── java/
 └── README.md
-        
+```

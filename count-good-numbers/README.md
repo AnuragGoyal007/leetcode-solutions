@@ -52,18 +52,18 @@
 | Problem Number | 1922 |
 | Difficulty | Medium |
 | Submissions | 1 |
-| Languages | java |
+| Languages | Java |
 
 ## Submission History
 
-| Submission | Language | Status | Runtime | Memory | Date |
-|---|---|---|---|---|---|
-| [2117054141](java/submission-2117054141.java) | java | Accepted | 0 | 42028000 | 2026-08-23 12:44:07 |
+| Submission | Language | Status | Runtime | Memory | Date | Code |
+|---|---|---|---:|---:|---|---|
+| [2117054141](https://leetcode.com/submissions/detail/2117054141/) | Java | ✅ Accepted | 0 ms | 42.03 MB | 23 Aug 2026, 12:44 PM | [View Code](java/submission-2117054141.java) |
 
 ## Solution Structure
 
 ```text
 count-good-numbers/
-├── java/
+└── java/
 └── README.md
-        
+```

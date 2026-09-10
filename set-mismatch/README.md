@@ -34,18 +34,18 @@
 | Problem Number | 645 |
 | Difficulty | Easy |
 | Submissions | 1 |
-| Languages | java |
+| Languages | Java |
 
 ## Submission History
 
-| Submission | Language | Status | Runtime | Memory | Date |
-|---|---|---|---|---|---|
-| [2006661415](java/submission-2006661415.java) | java | Accepted | 4 | 47560000 | 2026-05-19 00:04:22 |
+| Submission | Language | Status | Runtime | Memory | Date | Code |
+|---|---|---|---:|---:|---|---|
+| [2006661415](https://leetcode.com/submissions/detail/2006661415/) | Java | ✅ Accepted | 4 ms | 47.56 MB | 19 May 2026, 12:04 AM | [View Code](java/submission-2006661415.java) |
 
 ## Solution Structure
 
 ```text
 set-mismatch/
-├── java/
+└── java/
 └── README.md
-        
+```

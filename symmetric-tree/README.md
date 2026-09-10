@@ -39,18 +39,18 @@
 | Problem Number | 101 |
 | Difficulty | Easy |
 | Submissions | 1 |
-| Languages | cpp |
+| Languages | C++ |
 
 ## Submission History
 
-| Submission | Language | Status | Runtime | Memory | Date |
-|---|---|---|---|---|---|
-| [1863682736](cpp/submission-1863682736.cpp) | cpp | Accepted | 0 | 18560000 | 2025-12-24 03:15:43 |
+| Submission | Language | Status | Runtime | Memory | Date | Code |
+|---|---|---|---:|---:|---|---|
+| [1863682736](https://leetcode.com/submissions/detail/1863682736/) | C++ | ✅ Accepted | 0 ms | 18.56 MB | 24 Dec 2025, 03:15 AM | [View Code](cpp/submission-1863682736.cpp) |
 
 ## Solution Structure
 
 ```text
 symmetric-tree/
-├── cpp/
+└── cpp/
 └── README.md
-        
+```

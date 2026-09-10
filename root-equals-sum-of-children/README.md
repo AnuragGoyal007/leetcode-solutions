@@ -43,18 +43,18 @@
 | Problem Number | 2236 |
 | Difficulty | Easy |
 | Submissions | 1 |
-| Languages | cpp |
+| Languages | C++ |
 
 ## Submission History
 
-| Submission | Language | Status | Runtime | Memory | Date |
-|---|---|---|---|---|---|
-| [1864868558](cpp/submission-1864868558.cpp) | cpp | Accepted | 0 | 14900000 | 2025-12-25 15:21:12 |
+| Submission | Language | Status | Runtime | Memory | Date | Code |
+|---|---|---|---:|---:|---|---|
+| [1864868558](https://leetcode.com/submissions/detail/1864868558/) | C++ | ✅ Accepted | 0 ms | 14.90 MB | 25 Dec 2025, 03:21 PM | [View Code](cpp/submission-1864868558.cpp) |
 
 ## Solution Structure
 
 ```text
 root-equals-sum-of-children/
-├── cpp/
+└── cpp/
 └── README.md
-        
+```

@@ -44,18 +44,18 @@
 | Problem Number | 867 |
 | Difficulty | Easy |
 | Submissions | 1 |
-| Languages | cpp |
+| Languages | C++ |
 
 ## Submission History
 
-| Submission | Language | Status | Runtime | Memory | Date |
-|---|---|---|---|---|---|
-| [1711517174](cpp/submission-1711517174.cpp) | cpp | Accepted | 0 | 15000000 | 2025-07-26 03:02:13 |
+| Submission | Language | Status | Runtime | Memory | Date | Code |
+|---|---|---|---:|---:|---|---|
+| [1711517174](https://leetcode.com/submissions/detail/1711517174/) | C++ | ✅ Accepted | 0 ms | 15.00 MB | 26 Jul 2025, 03:02 AM | [View Code](cpp/submission-1711517174.cpp) |
 
 ## Solution Structure
 
 ```text
 transpose-matrix/
-├── cpp/
+└── cpp/
 └── README.md
-        
+```

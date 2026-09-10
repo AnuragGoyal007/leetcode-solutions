@@ -83,18 +83,18 @@ In the range <code>[198, 202]</code>:
 | Problem Number | 3751 |
 | Difficulty | Medium |
 | Submissions | 1 |
-| Languages | java |
+| Languages | Java |
 
 ## Submission History
 
-| Submission | Language | Status | Runtime | Memory | Date |
-|---|---|---|---|---|---|
-| [2021833237](java/submission-2021833237.java) | java | Accepted | 30 | 46396000 | 2026-06-04 09:46:34 |
+| Submission | Language | Status | Runtime | Memory | Date | Code |
+|---|---|---|---:|---:|---|---|
+| [2021833237](https://leetcode.com/submissions/detail/2021833237/) | Java | ✅ Accepted | 30 ms | 46.40 MB | 04 Jun 2026, 09:46 AM | [View Code](java/submission-2021833237.java) |
 
 ## Solution Structure
 
 ```text
 total-waviness-of-numbers-in-range-i/
-├── java/
+└── java/
 └── README.md
-        
+```

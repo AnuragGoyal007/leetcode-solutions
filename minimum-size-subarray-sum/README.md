@@ -48,20 +48,20 @@
 | Problem Number | 209 |
 | Difficulty | Medium |
 | Submissions | 2 |
-| Languages | cpp, java |
+| Languages | C++, Java |
 
 ## Submission History
 
-| Submission | Language | Status | Runtime | Memory | Date |
-|---|---|---|---|---|---|
-| [1716641190](cpp/submission-1716641190.cpp) | cpp | Accepted | 0 | 32224000 | 2025-07-30 10:50:10 |
-| [2065538776](java/submission-2065538776.java) | java | Accepted | 2 | 69284000 | 2026-07-13 07:25:28 |
+| Submission | Language | Status | Runtime | Memory | Date | Code |
+|---|---|---|---:|---:|---|---|
+| [1716641190](https://leetcode.com/submissions/detail/1716641190/) | C++ | ✅ Accepted | 0 ms | 32.22 MB | 30 Jul 2025, 10:50 AM | [View Code](cpp/submission-1716641190.cpp) |
+| [2065538776](https://leetcode.com/submissions/detail/2065538776/) | Java | ✅ Accepted | 2 ms | 69.28 MB | 13 Jul 2026, 07:25 AM | [View Code](java/submission-2065538776.java) |
 
 ## Solution Structure
 
 ```text
 minimum-size-subarray-sum/
 ├── cpp/
-├── java/
+└── java/
 └── README.md
-        
+```

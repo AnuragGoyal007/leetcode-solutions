@@ -42,18 +42,18 @@
 | Problem Number | 1732 |
 | Difficulty | Easy |
 | Submissions | 1 |
-| Languages | java |
+| Languages | Java |
 
 ## Submission History
 
-| Submission | Language | Status | Runtime | Memory | Date |
-|---|---|---|---|---|---|
-| [2038190732](java/submission-2038190732.java) | java | Accepted | 0 | 42824000 | 2026-06-19 09:31:58 |
+| Submission | Language | Status | Runtime | Memory | Date | Code |
+|---|---|---|---:|---:|---|---|
+| [2038190732](https://leetcode.com/submissions/detail/2038190732/) | Java | ✅ Accepted | 0 ms | 42.82 MB | 19 Jun 2026, 09:31 AM | [View Code](java/submission-2038190732.java) |
 
 ## Solution Structure
 
 ```text
 find-the-highest-altitude/
-├── java/
+└── java/
 └── README.md
-        
+```

@@ -44,18 +44,18 @@
 | Problem Number | 69 |
 | Difficulty | Easy |
 | Submissions | 1 |
-| Languages | python |
+| Languages | Python |
 
 ## Submission History
 
-| Submission | Language | Status | Runtime | Memory | Date |
-|---|---|---|---|---|---|
-| [1339240625](python/submission-1339240625.py) | python | Accepted | 30 | 11520000 | 2024-07-31 12:06:24 |
+| Submission | Language | Status | Runtime | Memory | Date | Code |
+|---|---|---|---:|---:|---|---|
+| [1339240625](https://leetcode.com/submissions/detail/1339240625/) | Python | ✅ Accepted | 30 ms | 11.52 MB | 31 Jul 2024, 12:06 PM | [View Code](python/submission-1339240625.py) |
 
 ## Solution Structure
 
 ```text
 sqrtx/
-├── python/
+└── python/
 └── README.md
-        
+```

@@ -36,18 +36,18 @@
 | Problem Number | 796 |
 | Difficulty | Easy |
 | Submissions | 1 |
-| Languages | java |
+| Languages | Java |
 
 ## Submission History
 
-| Submission | Language | Status | Runtime | Memory | Date |
-|---|---|---|---|---|---|
-| [1994466135](java/submission-1994466135.java) | java | Accepted | 0 | 42604000 | 2026-05-04 01:09:35 |
+| Submission | Language | Status | Runtime | Memory | Date | Code |
+|---|---|---|---:|---:|---|---|
+| [1994466135](https://leetcode.com/submissions/detail/1994466135/) | Java | ✅ Accepted | 0 ms | 42.60 MB | 04 May 2026, 01:09 AM | [View Code](java/submission-1994466135.java) |
 
 ## Solution Structure
 
 ```text
 rotate-string/
-├── java/
+└── java/
 └── README.md
-        
+```

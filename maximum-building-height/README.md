@@ -66,18 +66,18 @@ We can build the buildings with heights [0,1,2,3,3,4,4,5,4,3], and the tallest b
 | Problem Number | 1840 |
 | Difficulty | Hard |
 | Submissions | 1 |
-| Languages | java |
+| Languages | Java |
 
 ## Submission History
 
-| Submission | Language | Status | Runtime | Memory | Date |
-|---|---|---|---|---|---|
-| [2039282522](java/submission-2039282522.java) | java | Accepted | 49 | 119784000 | 2026-06-20 09:10:59 |
+| Submission | Language | Status | Runtime | Memory | Date | Code |
+|---|---|---|---:|---:|---|---|
+| [2039282522](https://leetcode.com/submissions/detail/2039282522/) | Java | ✅ Accepted | 49 ms | 119.78 MB | 20 Jun 2026, 09:10 AM | [View Code](java/submission-2039282522.java) |
 
 ## Solution Structure
 
 ```text
 maximum-building-height/
-├── java/
+└── java/
 └── README.md
-        
+```

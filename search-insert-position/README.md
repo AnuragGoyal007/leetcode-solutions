@@ -48,19 +48,19 @@
 | Problem Number | 35 |
 | Difficulty | Easy |
 | Submissions | 2 |
-| Languages | java |
+| Languages | Java |
 
 ## Submission History
 
-| Submission | Language | Status | Runtime | Memory | Date |
-|---|---|---|---|---|---|
-| [1958183183](java/submission-1958183183.java) | java | Accepted | 0 | 44580000 | 2026-03-25 01:16:32 |
-| [2006987547](java/submission-2006987547.java) | java | Accepted | 0 | 44500000 | 2026-05-19 11:32:15 |
+| Submission | Language | Status | Runtime | Memory | Date | Code |
+|---|---|---|---:|---:|---|---|
+| [1958183183](https://leetcode.com/submissions/detail/1958183183/) | Java | ✅ Accepted | 0 ms | 44.58 MB | 25 Mar 2026, 01:16 AM | [View Code](java/submission-1958183183.java) |
+| [2006987547](https://leetcode.com/submissions/detail/2006987547/) | Java | ✅ Accepted | 0 ms | 44.50 MB | 19 May 2026, 11:32 AM | [View Code](java/submission-2006987547.java) |
 
 ## Solution Structure
 
 ```text
 search-insert-position/
-├── java/
+└── java/
 └── README.md
-        
+```

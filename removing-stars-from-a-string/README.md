@@ -59,18 +59,18 @@ There are no more stars, so we return &quot;lecoe&quot;.</pre>
 | Problem Number | 2390 |
 | Difficulty | Medium |
 | Submissions | 1 |
-| Languages | java |
+| Languages | Java |
 
 ## Submission History
 
-| Submission | Language | Status | Runtime | Memory | Date |
-|---|---|---|---|---|---|
-| [2045551619](java/submission-2045551619.java) | java | Accepted | 74 | 48004000 | 2026-06-25 14:14:24 |
+| Submission | Language | Status | Runtime | Memory | Date | Code |
+|---|---|---|---:|---:|---|---|
+| [2045551619](https://leetcode.com/submissions/detail/2045551619/) | Java | ✅ Accepted | 74 ms | 48.00 MB | 25 Jun 2026, 02:14 PM | [View Code](java/submission-2045551619.java) |
 
 ## Solution Structure
 
 ```text
 removing-stars-from-a-string/
-├── java/
+└── java/
 └── README.md
-        
+```

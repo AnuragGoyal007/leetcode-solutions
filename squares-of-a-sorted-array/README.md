@@ -42,18 +42,18 @@ After sorting, it becomes [0,1,9,16,100].
 | Problem Number | 977 |
 | Difficulty | Easy |
 | Submissions | 1 |
-| Languages | cpp |
+| Languages | C++ |
 
 ## Submission History
 
-| Submission | Language | Status | Runtime | Memory | Date |
-|---|---|---|---|---|---|
-| [1946488519](cpp/submission-1946488519.cpp) | cpp | Accepted | 6 | 30188000 | 2026-03-13 04:05:17 |
+| Submission | Language | Status | Runtime | Memory | Date | Code |
+|---|---|---|---:|---:|---|---|
+| [1946488519](https://leetcode.com/submissions/detail/1946488519/) | C++ | ✅ Accepted | 6 ms | 30.19 MB | 13 Mar 2026, 04:05 AM | [View Code](cpp/submission-1946488519.cpp) |
 
 ## Solution Structure
 
 ```text
 squares-of-a-sorted-array/
-├── cpp/
+└── cpp/
 └── README.md
-        
+```

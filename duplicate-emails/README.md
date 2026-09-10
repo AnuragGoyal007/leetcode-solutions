@@ -55,18 +55,18 @@ Person table:
 | Problem Number | 182 |
 | Difficulty | Easy |
 | Submissions | 1 |
-| Languages | mysql |
+| Languages | MySQL |
 
 ## Submission History
 
-| Submission | Language | Status | Runtime | Memory | Date |
-|---|---|---|---|---|---|
-| [1915957034](mysql/submission-1915957034.sql) | mysql | Accepted | 425 | 0 | 2026-02-11 21:01:01 |
+| Submission | Language | Status | Runtime | Memory | Date | Code |
+|---|---|---|---:|---:|---|---|
+| [1915957034](https://leetcode.com/submissions/detail/1915957034/) | MySQL | ✅ Accepted | 425 ms | 0.00 MB | 11 Feb 2026, 09:01 PM | [View Code](mysql/submission-1915957034.sql) |
 
 ## Solution Structure
 
 ```text
 duplicate-emails/
-├── mysql/
+└── mysql/
 └── README.md
-        
+```

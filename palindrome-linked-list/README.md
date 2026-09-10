@@ -39,18 +39,18 @@
 | Problem Number | 234 |
 | Difficulty | Easy |
 | Submissions | 1 |
-| Languages | java |
+| Languages | Java |
 
 ## Submission History
 
-| Submission | Language | Status | Runtime | Memory | Date |
-|---|---|---|---|---|---|
-| [2093877597](java/submission-2093877597.java) | java | Accepted | 8 | 95744000 | 2026-08-04 16:32:30 |
+| Submission | Language | Status | Runtime | Memory | Date | Code |
+|---|---|---|---:|---:|---|---|
+| [2093877597](https://leetcode.com/submissions/detail/2093877597/) | Java | ✅ Accepted | 8 ms | 95.74 MB | 04 Aug 2026, 04:32 PM | [View Code](java/submission-2093877597.java) |
 
 ## Solution Structure
 
 ```text
 palindrome-linked-list/
-├── java/
+└── java/
 └── README.md
-        
+```

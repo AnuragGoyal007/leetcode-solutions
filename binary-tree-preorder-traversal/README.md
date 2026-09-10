@@ -66,18 +66,18 @@
 | Problem Number | 144 |
 | Difficulty | Easy |
 | Submissions | 1 |
-| Languages | cpp |
+| Languages | C++ |
 
 ## Submission History
 
-| Submission | Language | Status | Runtime | Memory | Date |
-|---|---|---|---|---|---|
-| [1861719976](cpp/submission-1861719976.cpp) | cpp | Accepted | 0 | 10976000 | 2025-12-21 22:16:07 |
+| Submission | Language | Status | Runtime | Memory | Date | Code |
+|---|---|---|---:|---:|---|---|
+| [1861719976](https://leetcode.com/submissions/detail/1861719976/) | C++ | ✅ Accepted | 0 ms | 10.98 MB | 21 Dec 2025, 10:16 PM | [View Code](cpp/submission-1861719976.cpp) |
 
 ## Solution Structure
 
 ```text
 binary-tree-preorder-traversal/
-├── cpp/
+└── cpp/
 └── README.md
-        
+```

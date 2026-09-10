@@ -42,20 +42,20 @@
 | Problem Number | 543 |
 | Difficulty | Easy |
 | Submissions | 2 |
-| Languages | cpp, java |
+| Languages | C++, Java |
 
 ## Submission History
 
-| Submission | Language | Status | Runtime | Memory | Date |
-|---|---|---|---|---|---|
-| [1862210875](cpp/submission-1862210875.cpp) | cpp | Accepted | 0 | 23544000 | 2025-12-22 13:43:39 |
-| [2126021738](java/submission-2126021738.java) | java | Accepted | 0 | 47084000 | 2026-08-31 16:44:33 |
+| Submission | Language | Status | Runtime | Memory | Date | Code |
+|---|---|---|---:|---:|---|---|
+| [1862210875](https://leetcode.com/submissions/detail/1862210875/) | C++ | ✅ Accepted | 0 ms | 23.54 MB | 22 Dec 2025, 01:43 PM | [View Code](cpp/submission-1862210875.cpp) |
+| [2126021738](https://leetcode.com/submissions/detail/2126021738/) | Java | ✅ Accepted | 0 ms | 47.08 MB | 31 Aug 2026, 04:44 PM | [View Code](java/submission-2126021738.java) |
 
 ## Solution Structure
 
 ```text
 diameter-of-binary-tree/
 ├── cpp/
-├── java/
+└── java/
 └── README.md
-        
+```

@@ -69,18 +69,18 @@ The largest element in <code>arr is 3.</code>
 | Problem Number | 1846 |
 | Difficulty | Medium |
 | Submissions | 1 |
-| Languages | java |
+| Languages | Java |
 
 ## Submission History
 
-| Submission | Language | Status | Runtime | Memory | Date |
-|---|---|---|---|---|---|
-| [2048746432](java/submission-2048746432.java) | java | Accepted | 11 | 77664000 | 2026-06-28 14:09:00 |
+| Submission | Language | Status | Runtime | Memory | Date | Code |
+|---|---|---|---:|---:|---|---|
+| [2048746432](https://leetcode.com/submissions/detail/2048746432/) | Java | ✅ Accepted | 11 ms | 77.66 MB | 28 Jun 2026, 02:09 PM | [View Code](java/submission-2048746432.java) |
 
 ## Solution Structure
 
 ```text
 maximum-element-after-decreasing-and-rearranging/
-├── java/
+└── java/
 └── README.md
-        
+```

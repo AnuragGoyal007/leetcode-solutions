@@ -39,18 +39,18 @@
 | Problem Number | 34 |
 | Difficulty | Medium |
 | Submissions | 1 |
-| Languages | java |
+| Languages | Java |
 
 ## Submission History
 
-| Submission | Language | Status | Runtime | Memory | Date |
-|---|---|---|---|---|---|
-| [2007323780](java/submission-2007323780.java) | java | Accepted | 0 | 48212000 | 2026-05-19 19:00:15 |
+| Submission | Language | Status | Runtime | Memory | Date | Code |
+|---|---|---|---:|---:|---|---|
+| [2007323780](https://leetcode.com/submissions/detail/2007323780/) | Java | ✅ Accepted | 0 ms | 48.21 MB | 19 May 2026, 07:00 PM | [View Code](java/submission-2007323780.java) |
 
 ## Solution Structure
 
 ```text
 find-first-and-last-position-of-element-in-sorted-array/
-├── java/
+└── java/
 └── README.md
-        
+```

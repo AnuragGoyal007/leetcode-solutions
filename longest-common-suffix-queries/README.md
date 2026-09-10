@@ -68,18 +68,18 @@
 | Problem Number | 3093 |
 | Difficulty | Hard |
 | Submissions | 1 |
-| Languages | java |
+| Languages | Java |
 
 ## Submission History
 
-| Submission | Language | Status | Runtime | Memory | Date |
-|---|---|---|---|---|---|
-| [2015442889](java/submission-2015442889.java) | java | Accepted | 51 | 284188000 | 2026-05-28 17:15:38 |
+| Submission | Language | Status | Runtime | Memory | Date | Code |
+|---|---|---|---:|---:|---|---|
+| [2015442889](https://leetcode.com/submissions/detail/2015442889/) | Java | ✅ Accepted | 51 ms | 284.19 MB | 28 May 2026, 05:15 PM | [View Code](java/submission-2015442889.java) |
 
 ## Solution Structure
 
 ```text
 longest-common-suffix-queries/
-├── java/
+└── java/
 └── README.md
-        
+```

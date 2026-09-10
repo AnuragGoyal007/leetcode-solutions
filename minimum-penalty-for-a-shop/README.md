@@ -68,18 +68,18 @@ Closing the shop at 2<sup>nd</sup> or 4<sup>th</sup> hour gives a minimum penalt
 | Problem Number | 2483 |
 | Difficulty | Medium |
 | Submissions | 1 |
-| Languages | cpp |
+| Languages | C++ |
 
 ## Submission History
 
-| Submission | Language | Status | Runtime | Memory | Date |
-|---|---|---|---|---|---|
-| [1866204472](cpp/submission-1866204472.cpp) | cpp | Accepted | 0 | 13412000 | 2025-12-27 05:02:45 |
+| Submission | Language | Status | Runtime | Memory | Date | Code |
+|---|---|---|---:|---:|---|---|
+| [1866204472](https://leetcode.com/submissions/detail/1866204472/) | C++ | ✅ Accepted | 0 ms | 13.41 MB | 27 Dec 2025, 05:02 AM | [View Code](cpp/submission-1866204472.cpp) |
 
 ## Solution Structure
 
 ```text
 minimum-penalty-for-a-shop/
-├── cpp/
+└── cpp/
 └── README.md
-        
+```

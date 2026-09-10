@@ -48,18 +48,18 @@ Finally, shift the characters from index 1 to index 1 forward. Now s = &quot;cat
 | Problem Number | 2381 |
 | Difficulty | Medium |
 | Submissions | 1 |
-| Languages | java |
+| Languages | Java |
 
 ## Submission History
 
-| Submission | Language | Status | Runtime | Memory | Date |
-|---|---|---|---|---|---|
-| [2068659837](java/submission-2068659837.java) | java | Accepted | 6 | 115900000 | 2026-07-15 19:07:03 |
+| Submission | Language | Status | Runtime | Memory | Date | Code |
+|---|---|---|---:|---:|---|---|
+| [2068659837](https://leetcode.com/submissions/detail/2068659837/) | Java | ✅ Accepted | 6 ms | 115.90 MB | 15 Jul 2026, 07:07 PM | [View Code](java/submission-2068659837.java) |
 
 ## Solution Structure
 
 ```text
 shifting-letters-ii/
-├── java/
+└── java/
 └── README.md
-        
+```

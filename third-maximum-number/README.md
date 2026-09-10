@@ -60,19 +60,19 @@ The third distinct maximum is 1.
 | Problem Number | 414 |
 | Difficulty | Easy |
 | Submissions | 2 |
-| Languages | java |
+| Languages | Java |
 
 ## Submission History
 
-| Submission | Language | Status | Runtime | Memory | Date |
-|---|---|---|---|---|---|
-| [1976660329](java/submission-1976660329.java) | java | Wrong Answer | 1 | 44688000 | 2026-04-12 23:51:44 |
-| [1976778034](java/submission-1976778034.java) | java | Accepted | 3 | 44516000 | 2026-04-13 03:27:20 |
+| Submission | Language | Status | Runtime | Memory | Date | Code |
+|---|---|---|---:|---:|---|---|
+| [1976660329](https://leetcode.com/submissions/detail/1976660329/) | Java | ❌ Wrong Answer | 1 ms | 44.69 MB | 12 Apr 2026, 11:51 PM | [View Code](java/submission-1976660329.java) |
+| [1976778034](https://leetcode.com/submissions/detail/1976778034/) | Java | ✅ Accepted | 3 ms | 44.52 MB | 13 Apr 2026, 03:27 AM | [View Code](java/submission-1976778034.java) |
 
 ## Solution Structure
 
 ```text
 third-maximum-number/
-├── java/
+└── java/
 └── README.md
-        
+```

@@ -38,22 +38,22 @@
 | Problem Number | 61 |
 | Difficulty | Medium |
 | Submissions | 5 |
-| Languages | java |
+| Languages | Java |
 
 ## Submission History
 
-| Submission | Language | Status | Runtime | Memory | Date |
-|---|---|---|---|---|---|
-| [1995695899](java/submission-1995695899.java) | java | Accepted | 0 | 44224000 | 2026-05-05 15:21:20 |
-| [2094758931](java/submission-2094758931.java) | java | Time Limit Exceeded | 3942 | 42332000 | 2026-08-05 09:25:43 |
-| [2094760780](java/submission-2094760780.java) | java | Time Limit Exceeded | 3596 | 42276000 | 2026-08-05 09:27:43 |
-| [2094761303](java/submission-2094761303.java) | java | Time Limit Exceeded | 3846 | 42376000 | 2026-08-05 09:28:14 |
-| [2094772310](java/submission-2094772310.java) | java | Accepted | 0 | 44276000 | 2026-08-05 09:39:39 |
+| Submission | Language | Status | Runtime | Memory | Date | Code |
+|---|---|---|---:|---:|---|---|
+| [1995695899](https://leetcode.com/submissions/detail/1995695899/) | Java | ✅ Accepted | 0 ms | 44.22 MB | 05 May 2026, 03:21 PM | [View Code](java/submission-1995695899.java) |
+| [2094758931](https://leetcode.com/submissions/detail/2094758931/) | Java | ❌ Time Limit Exceeded | 3942 ms | 42.33 MB | 05 Aug 2026, 09:25 AM | [View Code](java/submission-2094758931.java) |
+| [2094760780](https://leetcode.com/submissions/detail/2094760780/) | Java | ❌ Time Limit Exceeded | 3596 ms | 42.28 MB | 05 Aug 2026, 09:27 AM | [View Code](java/submission-2094760780.java) |
+| [2094761303](https://leetcode.com/submissions/detail/2094761303/) | Java | ❌ Time Limit Exceeded | 3846 ms | 42.38 MB | 05 Aug 2026, 09:28 AM | [View Code](java/submission-2094761303.java) |
+| [2094772310](https://leetcode.com/submissions/detail/2094772310/) | Java | ✅ Accepted | 0 ms | 44.28 MB | 05 Aug 2026, 09:39 AM | [View Code](java/submission-2094772310.java) |
 
 ## Solution Structure
 
 ```text
 rotate-list/
-├── java/
+└── java/
 └── README.md
-        
+```

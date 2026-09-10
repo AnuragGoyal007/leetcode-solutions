@@ -45,20 +45,20 @@
 | Problem Number | 37 |
 | Difficulty | Hard |
 | Submissions | 2 |
-| Languages | cpp, java |
+| Languages | C++, Java |
 
 ## Submission History
 
-| Submission | Language | Status | Runtime | Memory | Date |
-|---|---|---|---|---|---|
-| [1924850820](cpp/submission-1924850820.cpp) | cpp | Accepted | 223 | 8816000 | 2026-02-20 04:25:46 |
-| [2110062031](java/submission-2110062031.java) | java | Accepted | 202 | 42980000 | 2026-08-17 16:58:25 |
+| Submission | Language | Status | Runtime | Memory | Date | Code |
+|---|---|---|---:|---:|---|---|
+| [1924850820](https://leetcode.com/submissions/detail/1924850820/) | C++ | ✅ Accepted | 223 ms | 8.82 MB | 20 Feb 2026, 04:25 AM | [View Code](cpp/submission-1924850820.cpp) |
+| [2110062031](https://leetcode.com/submissions/detail/2110062031/) | Java | ✅ Accepted | 202 ms | 42.98 MB | 17 Aug 2026, 04:58 PM | [View Code](java/submission-2110062031.java) |
 
 ## Solution Structure
 
 ```text
 sudoku-solver/
 ├── cpp/
-├── java/
+└── java/
 └── README.md
-        
+```

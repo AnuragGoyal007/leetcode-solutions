@@ -55,18 +55,18 @@ index 0 -&gt; index 4 -&gt; index 1 -&gt; index 3
 | Problem Number | 1306 |
 | Difficulty | Medium |
 | Submissions | 1 |
-| Languages | java |
+| Languages | Java |
 
 ## Submission History
 
-| Submission | Language | Status | Runtime | Memory | Date |
-|---|---|---|---|---|---|
-| [2005460179](java/submission-2005460179.java) | java | Accepted | 9 | 48476000 | 2026-05-17 16:12:34 |
+| Submission | Language | Status | Runtime | Memory | Date | Code |
+|---|---|---|---:|---:|---|---|
+| [2005460179](https://leetcode.com/submissions/detail/2005460179/) | Java | ✅ Accepted | 9 ms | 48.48 MB | 17 May 2026, 04:12 PM | [View Code](java/submission-2005460179.java) |
 
 ## Solution Structure
 
 ```text
 jump-game-iii/
-├── java/
+└── java/
 └── README.md
-        
+```

@@ -43,18 +43,18 @@
 | Problem Number | 328 |
 | Difficulty | Medium |
 | Submissions | 1 |
-| Languages | java |
+| Languages | Java |
 
 ## Submission History
 
-| Submission | Language | Status | Runtime | Memory | Date |
-|---|---|---|---|---|---|
-| [2093907048](java/submission-2093907048.java) | java | Accepted | 0 | 46572000 | 2026-08-04 17:03:41 |
+| Submission | Language | Status | Runtime | Memory | Date | Code |
+|---|---|---|---:|---:|---|---|
+| [2093907048](https://leetcode.com/submissions/detail/2093907048/) | Java | ✅ Accepted | 0 ms | 46.57 MB | 04 Aug 2026, 05:03 PM | [View Code](java/submission-2093907048.java) |
 
 ## Solution Structure
 
 ```text
 odd-even-linked-list/
-├── java/
+└── java/
 └── README.md
-        
+```

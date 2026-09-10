@@ -63,18 +63,18 @@ bank.withdraw(10, 50);   // return false, it is invalid because account 10 does 
 | Problem Number | 2043 |
 | Difficulty | Medium |
 | Submissions | 1 |
-| Languages | cpp |
+| Languages | C++ |
 
 ## Submission History
 
-| Submission | Language | Status | Runtime | Memory | Date |
-|---|---|---|---|---|---|
-| [1812391642](cpp/submission-1812391642.cpp) | cpp | Accepted | 24 | 123652000 | 2025-10-26 22:04:20 |
+| Submission | Language | Status | Runtime | Memory | Date | Code |
+|---|---|---|---:|---:|---|---|
+| [1812391642](https://leetcode.com/submissions/detail/1812391642/) | C++ | ✅ Accepted | 24 ms | 123.65 MB | 26 Oct 2025, 10:04 PM | [View Code](cpp/submission-1812391642.cpp) |
 
 ## Solution Structure
 
 ```text
 simple-bank-system/
-├── cpp/
+└── cpp/
 └── README.md
-        
+```

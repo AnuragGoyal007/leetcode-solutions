@@ -48,18 +48,18 @@ It is possible to distribute the apples as the total capacity is greater than or
 | Problem Number | 3074 |
 | Difficulty | Easy |
 | Submissions | 1 |
-| Languages | cpp |
+| Languages | C++ |
 
 ## Submission History
 
-| Submission | Language | Status | Runtime | Memory | Date |
-|---|---|---|---|---|---|
-| [1864079660](cpp/submission-1864079660.cpp) | cpp | Accepted | 0 | 33156000 | 2025-12-24 15:29:20 |
+| Submission | Language | Status | Runtime | Memory | Date | Code |
+|---|---|---|---:|---:|---|---|
+| [1864079660](https://leetcode.com/submissions/detail/1864079660/) | C++ | ✅ Accepted | 0 ms | 33.16 MB | 24 Dec 2025, 03:29 PM | [View Code](cpp/submission-1864079660.cpp) |
 
 ## Solution Structure
 
 ```text
 apple-redistribution-into-boxes/
-├── cpp/
+└── cpp/
 └── README.md
-        
+```

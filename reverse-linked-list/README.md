@@ -47,18 +47,18 @@
 | Problem Number | 206 |
 | Difficulty | Easy |
 | Submissions | 1 |
-| Languages | cpp |
+| Languages | C++ |
 
 ## Submission History
 
-| Submission | Language | Status | Runtime | Memory | Date |
-|---|---|---|---|---|---|
-| [1739553004](cpp/submission-1739553004.cpp) | cpp | Accepted | 0 | 13164000 | 2025-08-18 17:15:36 |
+| Submission | Language | Status | Runtime | Memory | Date | Code |
+|---|---|---|---:|---:|---|---|
+| [1739553004](https://leetcode.com/submissions/detail/1739553004/) | C++ | ✅ Accepted | 0 ms | 13.16 MB | 18 Aug 2025, 05:15 PM | [View Code](cpp/submission-1739553004.cpp) |
 
 ## Solution Structure
 
 ```text
 reverse-linked-list/
-├── cpp/
+└── cpp/
 └── README.md
-        
+```

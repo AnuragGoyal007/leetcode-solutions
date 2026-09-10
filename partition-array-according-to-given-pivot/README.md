@@ -58,18 +58,18 @@ The relative ordering of the elements less than and greater than pivot is also m
 | Problem Number | 2161 |
 | Difficulty | Medium |
 | Submissions | 1 |
-| Languages | java |
+| Languages | Java |
 
 ## Submission History
 
-| Submission | Language | Status | Runtime | Memory | Date |
-|---|---|---|---|---|---|
-| [2026005375](java/submission-2026005375.java) | java | Accepted | 4 | 159816000 | 2026-06-08 11:39:15 |
+| Submission | Language | Status | Runtime | Memory | Date | Code |
+|---|---|---|---:|---:|---|---|
+| [2026005375](https://leetcode.com/submissions/detail/2026005375/) | Java | ✅ Accepted | 4 ms | 159.82 MB | 08 Jun 2026, 11:39 AM | [View Code](java/submission-2026005375.java) |
 
 ## Solution Structure
 
 ```text
 partition-array-according-to-given-pivot/
-├── java/
+└── java/
 └── README.md
-        
+```

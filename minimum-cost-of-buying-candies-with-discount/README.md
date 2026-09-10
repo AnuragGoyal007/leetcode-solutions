@@ -64,18 +64,18 @@ Hence, the minimum cost to buy all candies is 5 + 5 = 10.
 | Problem Number | 2144 |
 | Difficulty | Easy |
 | Submissions | 1 |
-| Languages | java |
+| Languages | Java |
 
 ## Submission History
 
-| Submission | Language | Status | Runtime | Memory | Date |
-|---|---|---|---|---|---|
-| [2019050505](java/submission-2019050505.java) | java | Accepted | 6 | 44344000 | 2026-06-01 16:56:00 |
+| Submission | Language | Status | Runtime | Memory | Date | Code |
+|---|---|---|---:|---:|---|---|
+| [2019050505](https://leetcode.com/submissions/detail/2019050505/) | Java | ✅ Accepted | 6 ms | 44.34 MB | 01 Jun 2026, 04:56 PM | [View Code](java/submission-2019050505.java) |
 
 ## Solution Structure
 
 ```text
 minimum-cost-of-buying-candies-with-discount/
-├── java/
+└── java/
 └── README.md
-        
+```

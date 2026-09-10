@@ -61,20 +61,20 @@ myQueue.empty(); // return false
 | Problem Number | 232 |
 | Difficulty | Easy |
 | Submissions | 2 |
-| Languages | cpp, java |
+| Languages | C++, Java |
 
 ## Submission History
 
-| Submission | Language | Status | Runtime | Memory | Date |
-|---|---|---|---|---|---|
-| [1876630908](cpp/submission-1876630908.cpp) | cpp | Accepted | 0 | 9600000 | 2026-01-06 21:29:39 |
-| [2032894321](java/submission-2032894321.java) | java | Accepted | 1 | 42780000 | 2026-06-14 19:46:18 |
+| Submission | Language | Status | Runtime | Memory | Date | Code |
+|---|---|---|---:|---:|---|---|
+| [1876630908](https://leetcode.com/submissions/detail/1876630908/) | C++ | ✅ Accepted | 0 ms | 9.60 MB | 06 Jan 2026, 09:29 PM | [View Code](cpp/submission-1876630908.cpp) |
+| [2032894321](https://leetcode.com/submissions/detail/2032894321/) | Java | ✅ Accepted | 1 ms | 42.78 MB | 14 Jun 2026, 07:46 PM | [View Code](java/submission-2032894321.java) |
 
 ## Solution Structure
 
 ```text
 implement-queue-using-stacks/
 ├── cpp/
-├── java/
+└── java/
 └── README.md
-        
+```

@@ -56,18 +56,18 @@ The 2nd customer is the richest with a wealth of 10.</pre>
 | Problem Number | 1672 |
 | Difficulty | Easy |
 | Submissions | 1 |
-| Languages | java |
+| Languages | Java |
 
 ## Submission History
 
-| Submission | Language | Status | Runtime | Memory | Date |
-|---|---|---|---|---|---|
-| [1995290660](java/submission-1995290660.java) | java | Accepted | 0 | 44028000 | 2026-05-05 02:25:59 |
+| Submission | Language | Status | Runtime | Memory | Date | Code |
+|---|---|---|---:|---:|---|---|
+| [1995290660](https://leetcode.com/submissions/detail/1995290660/) | Java | ✅ Accepted | 0 ms | 44.03 MB | 05 May 2026, 02:25 AM | [View Code](java/submission-1995290660.java) |
 
 ## Solution Structure
 
 ```text
 richest-customer-wealth/
-├── java/
+└── java/
 └── README.md
-        
+```

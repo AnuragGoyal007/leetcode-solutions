@@ -52,18 +52,18 @@
 | Problem Number | 852 |
 | Difficulty | Medium |
 | Submissions | 1 |
-| Languages | java |
+| Languages | Java |
 
 ## Submission History
 
-| Submission | Language | Status | Runtime | Memory | Date |
-|---|---|---|---|---|---|
-| [2009186670](java/submission-2009186670.java) | java | Accepted | 0 | 80372000 | 2026-05-21 21:42:37 |
+| Submission | Language | Status | Runtime | Memory | Date | Code |
+|---|---|---|---:|---:|---|---|
+| [2009186670](https://leetcode.com/submissions/detail/2009186670/) | Java | ✅ Accepted | 0 ms | 80.37 MB | 21 May 2026, 09:42 PM | [View Code](java/submission-2009186670.java) |
 
 ## Solution Structure
 
 ```text
 peak-index-in-a-mountain-array/
-├── java/
+└── java/
 └── README.md
-        
+```

@@ -39,18 +39,18 @@
 | Problem Number | 54 |
 | Difficulty | Medium |
 | Submissions | 1 |
-| Languages | java |
+| Languages | Java |
 
 ## Submission History
 
-| Submission | Language | Status | Runtime | Memory | Date |
-|---|---|---|---|---|---|
-| [1996976461](java/submission-1996976461.java) | java | Accepted | 0 | 42908000 | 2026-05-07 06:05:29 |
+| Submission | Language | Status | Runtime | Memory | Date | Code |
+|---|---|---|---:|---:|---|---|
+| [1996976461](https://leetcode.com/submissions/detail/1996976461/) | Java | ✅ Accepted | 0 ms | 42.91 MB | 07 May 2026, 06:05 AM | [View Code](java/submission-1996976461.java) |
 
 ## Solution Structure
 
 ```text
 spiral-matrix/
-├── java/
+└── java/
 └── README.md
-        
+```

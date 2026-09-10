@@ -53,21 +53,21 @@
 | Problem Number | 1 |
 | Difficulty | Easy |
 | Submissions | 3 |
-| Languages | cpp, java |
+| Languages | C++, Java |
 
 ## Submission History
 
-| Submission | Language | Status | Runtime | Memory | Date |
-|---|---|---|---|---|---|
-| [1339183535](cpp/submission-1339183535.cpp) | cpp | Compile Error | 0 | 0 | 2024-07-31 11:04:12 |
-| [1339195924](cpp/submission-1339195924.cpp) | cpp | Accepted | 4 | 14296000 | 2024-07-31 11:18:26 |
-| [2098095694](java/submission-2098095694.java) | java | Accepted | 38 | 47040000 | 2026-08-07 20:38:02 |
+| Submission | Language | Status | Runtime | Memory | Date | Code |
+|---|---|---|---:|---:|---|---|
+| [1339183535](https://leetcode.com/submissions/detail/1339183535/) | C++ | ❌ Compile Error | 0 ms | 0.00 MB | 31 Jul 2024, 11:04 AM | [View Code](cpp/submission-1339183535.cpp) |
+| [1339195924](https://leetcode.com/submissions/detail/1339195924/) | C++ | ✅ Accepted | 4 ms | 14.30 MB | 31 Jul 2024, 11:18 AM | [View Code](cpp/submission-1339195924.cpp) |
+| [2098095694](https://leetcode.com/submissions/detail/2098095694/) | Java | ✅ Accepted | 38 ms | 47.04 MB | 07 Aug 2026, 08:38 PM | [View Code](java/submission-2098095694.java) |
 
 ## Solution Structure
 
 ```text
 two-sum/
 ├── cpp/
-├── java/
+└── java/
 └── README.md
-        
+```

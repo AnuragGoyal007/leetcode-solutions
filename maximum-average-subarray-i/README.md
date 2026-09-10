@@ -41,20 +41,20 @@
 | Problem Number | 643 |
 | Difficulty | Easy |
 | Submissions | 2 |
-| Languages | cpp, java |
+| Languages | C++, Java |
 
 ## Submission History
 
-| Submission | Language | Status | Runtime | Memory | Date |
-|---|---|---|---|---|---|
-| [1713118250](cpp/submission-1713118250.cpp) | cpp | Accepted | 0 | 113660000 | 2025-07-27 13:46:30 |
-| [2070051092](java/submission-2070051092.java) | java | Accepted | 4 | 69468000 | 2026-07-16 20:57:51 |
+| Submission | Language | Status | Runtime | Memory | Date | Code |
+|---|---|---|---:|---:|---|---|
+| [1713118250](https://leetcode.com/submissions/detail/1713118250/) | C++ | ✅ Accepted | 0 ms | 113.66 MB | 27 Jul 2025, 01:46 PM | [View Code](cpp/submission-1713118250.cpp) |
+| [2070051092](https://leetcode.com/submissions/detail/2070051092/) | Java | ✅ Accepted | 4 ms | 69.47 MB | 16 Jul 2026, 08:57 PM | [View Code](java/submission-2070051092.java) |
 
 ## Solution Structure
 
 ```text
 maximum-average-subarray-i/
 ├── cpp/
-├── java/
+└── java/
 └── README.md
-        
+```

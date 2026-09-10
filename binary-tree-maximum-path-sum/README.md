@@ -43,20 +43,20 @@
 | Problem Number | 124 |
 | Difficulty | Hard |
 | Submissions | 2 |
-| Languages | cpp, java |
+| Languages | C++, Java |
 
 ## Submission History
 
-| Submission | Language | Status | Runtime | Memory | Date |
-|---|---|---|---|---|---|
-| [1862239646](cpp/submission-1862239646.cpp) | cpp | Accepted | 0 | 27932000 | 2025-12-22 14:26:11 |
-| [2126030471](java/submission-2126030471.java) | java | Accepted | 0 | 46764000 | 2026-08-31 16:55:19 |
+| Submission | Language | Status | Runtime | Memory | Date | Code |
+|---|---|---|---:|---:|---|---|
+| [1862239646](https://leetcode.com/submissions/detail/1862239646/) | C++ | ✅ Accepted | 0 ms | 27.93 MB | 22 Dec 2025, 02:26 PM | [View Code](cpp/submission-1862239646.cpp) |
+| [2126030471](https://leetcode.com/submissions/detail/2126030471/) | Java | ✅ Accepted | 0 ms | 46.76 MB | 31 Aug 2026, 04:55 PM | [View Code](java/submission-2126030471.java) |
 
 ## Solution Structure
 
 ```text
 binary-tree-maximum-path-sum/
 ├── cpp/
-├── java/
+└── java/
 └── README.md
-        
+```

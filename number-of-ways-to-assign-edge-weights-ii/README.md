@@ -75,18 +75,18 @@
 | Problem Number | 3559 |
 | Difficulty | Hard |
 | Submissions | 1 |
-| Languages | java |
+| Languages | Java |
 
 ## Submission History
 
-| Submission | Language | Status | Runtime | Memory | Date |
-|---|---|---|---|---|---|
-| [2030576521](java/submission-2030576521.java) | java | Accepted | 131 | 296528000 | 2026-06-12 13:47:53 |
+| Submission | Language | Status | Runtime | Memory | Date | Code |
+|---|---|---|---:|---:|---|---|
+| [2030576521](https://leetcode.com/submissions/detail/2030576521/) | Java | ✅ Accepted | 131 ms | 296.53 MB | 12 Jun 2026, 01:47 PM | [View Code](java/submission-2030576521.java) |
 
 ## Solution Structure
 
 ```text
 number-of-ways-to-assign-edge-weights-ii/
-├── java/
+└── java/
 └── README.md
-        
+```

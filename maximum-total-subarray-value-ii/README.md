@@ -71,18 +71,18 @@
 | Problem Number | 3691 |
 | Difficulty | Hard |
 | Submissions | 1 |
-| Languages | java |
+| Languages | Java |
 
 ## Submission History
 
-| Submission | Language | Status | Runtime | Memory | Date |
-|---|---|---|---|---|---|
-| [2028227325](java/submission-2028227325.java) | java | Accepted | 475 | 239280000 | 2026-06-10 11:14:14 |
+| Submission | Language | Status | Runtime | Memory | Date | Code |
+|---|---|---|---:|---:|---|---|
+| [2028227325](https://leetcode.com/submissions/detail/2028227325/) | Java | ✅ Accepted | 475 ms | 239.28 MB | 10 Jun 2026, 11:14 AM | [View Code](java/submission-2028227325.java) |
 
 ## Solution Structure
 
 ```text
 maximum-total-subarray-value-ii/
-├── java/
+└── java/
 └── README.md
-        
+```

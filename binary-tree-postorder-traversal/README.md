@@ -65,18 +65,18 @@
 | Problem Number | 145 |
 | Difficulty | Easy |
 | Submissions | 1 |
-| Languages | cpp |
+| Languages | C++ |
 
 ## Submission History
 
-| Submission | Language | Status | Runtime | Memory | Date |
-|---|---|---|---|---|---|
-| [1861721631](cpp/submission-1861721631.cpp) | cpp | Accepted | 0 | 11020000 | 2025-12-21 22:18:13 |
+| Submission | Language | Status | Runtime | Memory | Date | Code |
+|---|---|---|---:|---:|---|---|
+| [1861721631](https://leetcode.com/submissions/detail/1861721631/) | C++ | ✅ Accepted | 0 ms | 11.02 MB | 21 Dec 2025, 10:18 PM | [View Code](cpp/submission-1861721631.cpp) |
 
 ## Solution Structure
 
 ```text
 binary-tree-postorder-traversal/
-├── cpp/
+└── cpp/
 └── README.md
-        
+```

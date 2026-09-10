@@ -44,18 +44,18 @@
 | Problem Number | 102 |
 | Difficulty | Medium |
 | Submissions | 1 |
-| Languages | cpp |
+| Languages | C++ |
 
 ## Submission History
 
-| Submission | Language | Status | Runtime | Memory | Date |
-|---|---|---|---|---|---|
-| [1863342794](cpp/submission-1863342794.cpp) | cpp | Accepted | 3 | 17232000 | 2025-12-23 19:16:10 |
+| Submission | Language | Status | Runtime | Memory | Date | Code |
+|---|---|---|---:|---:|---|---|
+| [1863342794](https://leetcode.com/submissions/detail/1863342794/) | C++ | ✅ Accepted | 3 ms | 17.23 MB | 23 Dec 2025, 07:16 PM | [View Code](cpp/submission-1863342794.cpp) |
 
 ## Solution Structure
 
 ```text
 binary-tree-level-order-traversal/
-├── cpp/
+└── cpp/
 └── README.md
-        
+```

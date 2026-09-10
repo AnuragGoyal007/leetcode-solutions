@@ -52,18 +52,18 @@ For nums[4]=3 there exist three smaller numbers than it (1, 2 and 2).
 | Problem Number | 1365 |
 | Difficulty | Easy |
 | Submissions | 1 |
-| Languages | java |
+| Languages | Java |
 
 ## Submission History
 
-| Submission | Language | Status | Runtime | Memory | Date |
-|---|---|---|---|---|---|
-| [2120113831](java/submission-2120113831.java) | java | Accepted | 8 | 45456000 | 2026-08-26 01:03:52 |
+| Submission | Language | Status | Runtime | Memory | Date | Code |
+|---|---|---|---:|---:|---|---|
+| [2120113831](https://leetcode.com/submissions/detail/2120113831/) | Java | ✅ Accepted | 8 ms | 45.46 MB | 26 Aug 2026, 01:03 AM | [View Code](java/submission-2120113831.java) |
 
 ## Solution Structure
 
 ```text
 how-many-numbers-are-smaller-than-the-current-number/
-├── java/
+└── java/
 └── README.md
-        
+```

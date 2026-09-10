@@ -53,19 +53,19 @@
 | Problem Number | 662 |
 | Difficulty | Medium |
 | Submissions | 2 |
-| Languages | cpp |
+| Languages | C++ |
 
 ## Submission History
 
-| Submission | Language | Status | Runtime | Memory | Date |
-|---|---|---|---|---|---|
-| [1864852983](cpp/submission-1864852983.cpp) | cpp | Runtime Error | 3 | 19736000 | 2025-12-25 14:56:53 |
-| [1864853905](cpp/submission-1864853905.cpp) | cpp | Accepted | 0 | 19644000 | 2025-12-25 14:58:24 |
+| Submission | Language | Status | Runtime | Memory | Date | Code |
+|---|---|---|---:|---:|---|---|
+| [1864852983](https://leetcode.com/submissions/detail/1864852983/) | C++ | ❌ Runtime Error | 3 ms | 19.74 MB | 25 Dec 2025, 02:56 PM | [View Code](cpp/submission-1864852983.cpp) |
+| [1864853905](https://leetcode.com/submissions/detail/1864853905/) | C++ | ✅ Accepted | 0 ms | 19.64 MB | 25 Dec 2025, 02:58 PM | [View Code](cpp/submission-1864853905.cpp) |
 
 ## Solution Structure
 
 ```text
 maximum-width-of-binary-tree/
-├── cpp/
+└── cpp/
 └── README.md
-        
+```

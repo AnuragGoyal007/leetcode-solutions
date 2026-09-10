@@ -61,18 +61,18 @@ myStack.empty(); // return False
 | Problem Number | 225 |
 | Difficulty | Easy |
 | Submissions | 1 |
-| Languages | cpp |
+| Languages | C++ |
 
 ## Submission History
 
-| Submission | Language | Status | Runtime | Memory | Date |
-|---|---|---|---|---|---|
-| [1847595217](cpp/submission-1847595217.cpp) | cpp | Accepted | 0 | 9596000 | 2025-12-05 18:01:40 |
+| Submission | Language | Status | Runtime | Memory | Date | Code |
+|---|---|---|---:|---:|---|---|
+| [1847595217](https://leetcode.com/submissions/detail/1847595217/) | C++ | ✅ Accepted | 0 ms | 9.60 MB | 05 Dec 2025, 06:01 PM | [View Code](cpp/submission-1847595217.cpp) |
 
 ## Solution Structure
 
 ```text
 implement-stack-using-queues/
-├── cpp/
+└── cpp/
 └── README.md
-        
+```

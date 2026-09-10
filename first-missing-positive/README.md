@@ -49,19 +49,19 @@
 | Problem Number | 41 |
 | Difficulty | Hard |
 | Submissions | 2 |
-| Languages | java |
+| Languages | Java |
 
 ## Submission History
 
-| Submission | Language | Status | Runtime | Memory | Date |
-|---|---|---|---|---|---|
-| [2006670286](java/submission-2006670286.java) | java | Wrong Answer | 2 | 71316000 | 2026-05-19 00:15:58 |
-| [2006670829](java/submission-2006670829.java) | java | Accepted | 2 | 71552000 | 2026-05-19 00:16:43 |
+| Submission | Language | Status | Runtime | Memory | Date | Code |
+|---|---|---|---:|---:|---|---|
+| [2006670286](https://leetcode.com/submissions/detail/2006670286/) | Java | ❌ Wrong Answer | 2 ms | 71.32 MB | 19 May 2026, 12:15 AM | [View Code](java/submission-2006670286.java) |
+| [2006670829](https://leetcode.com/submissions/detail/2006670829/) | Java | ✅ Accepted | 2 ms | 71.55 MB | 19 May 2026, 12:16 AM | [View Code](java/submission-2006670829.java) |
 
 ## Solution Structure
 
 ```text
 first-missing-positive/
-├── java/
+└── java/
 └── README.md
-        
+```

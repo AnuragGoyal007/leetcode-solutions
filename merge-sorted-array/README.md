@@ -61,18 +61,18 @@ Note that because m = 0, there are no elements in nums1. The 0 is only there to 
 | Problem Number | 88 |
 | Difficulty | Easy |
 | Submissions | 1 |
-| Languages | cpp |
+| Languages | C++ |
 
 ## Submission History
 
-| Submission | Language | Status | Runtime | Memory | Date |
-|---|---|---|---|---|---|
-| [1849836447](cpp/submission-1849836447.cpp) | cpp | Accepted | 0 | 12196000 | 2025-12-08 11:01:42 |
+| Submission | Language | Status | Runtime | Memory | Date | Code |
+|---|---|---|---:|---:|---|---|
+| [1849836447](https://leetcode.com/submissions/detail/1849836447/) | C++ | ✅ Accepted | 0 ms | 12.20 MB | 08 Dec 2025, 11:01 AM | [View Code](cpp/submission-1849836447.cpp) |
 
 ## Solution Structure
 
 ```text
 merge-sorted-array/
-├── cpp/
+└── cpp/
 └── README.md
-        
+```

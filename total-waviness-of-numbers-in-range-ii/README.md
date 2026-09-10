@@ -85,18 +85,18 @@ Return the total sum of waviness for all numbers in the range <code>[num1, num2]
 | Problem Number | 3753 |
 | Difficulty | Hard |
 | Submissions | 1 |
-| Languages | java |
+| Languages | Java |
 
 ## Submission History
 
-| Submission | Language | Status | Runtime | Memory | Date |
-|---|---|---|---|---|---|
-| [2023422169](java/submission-2023422169.java) | java | Accepted | 23 | 42772000 | 2026-06-05 21:15:19 |
+| Submission | Language | Status | Runtime | Memory | Date | Code |
+|---|---|---|---:|---:|---|---|
+| [2023422169](https://leetcode.com/submissions/detail/2023422169/) | Java | ✅ Accepted | 23 ms | 42.77 MB | 05 Jun 2026, 09:15 PM | [View Code](java/submission-2023422169.java) |
 
 ## Solution Structure
 
 ```text
 total-waviness-of-numbers-in-range-ii/
-├── java/
+└── java/
 └── README.md
-        
+```

@@ -46,20 +46,20 @@
 | Problem Number | 1480 |
 | Difficulty | Easy |
 | Submissions | 2 |
-| Languages | cpp, java |
+| Languages | C++, Java |
 
 ## Submission History
 
-| Submission | Language | Status | Runtime | Memory | Date |
-|---|---|---|---|---|---|
-| [1710259973](cpp/submission-1710259973.cpp) | cpp | Accepted | 0 | 12576000 | 2025-07-25 03:38:25 |
-| [2060519467](java/submission-2060519467.java) | java | Accepted | 0 | 44540000 | 2026-07-08 18:28:44 |
+| Submission | Language | Status | Runtime | Memory | Date | Code |
+|---|---|---|---:|---:|---|---|
+| [1710259973](https://leetcode.com/submissions/detail/1710259973/) | C++ | ✅ Accepted | 0 ms | 12.58 MB | 25 Jul 2025, 03:38 AM | [View Code](cpp/submission-1710259973.cpp) |
+| [2060519467](https://leetcode.com/submissions/detail/2060519467/) | Java | ✅ Accepted | 0 ms | 44.54 MB | 08 Jul 2026, 06:28 PM | [View Code](java/submission-2060519467.java) |
 
 ## Solution Structure
 
 ```text
 running-sum-of-1d-array/
 ├── cpp/
-├── java/
+└── java/
 └── README.md
-        
+```

@@ -56,18 +56,18 @@ The maximum occupancy is 5, which never exceeds capacity = 5.
 | Problem Number | 1094 |
 | Difficulty | Medium |
 | Submissions | 1 |
-| Languages | java |
+| Languages | Java |
 
 ## Submission History
 
-| Submission | Language | Status | Runtime | Memory | Date |
-|---|---|---|---|---|---|
-| [2066093953](java/submission-2066093953.java) | java | Accepted | 2 | 46336000 | 2026-07-13 17:35:21 |
+| Submission | Language | Status | Runtime | Memory | Date | Code |
+|---|---|---|---:|---:|---|---|
+| [2066093953](https://leetcode.com/submissions/detail/2066093953/) | Java | ✅ Accepted | 2 ms | 46.34 MB | 13 Jul 2026, 05:35 PM | [View Code](java/submission-2066093953.java) |
 
 ## Solution Structure
 
 ```text
 car-pooling/
-├── java/
+└── java/
 └── README.md
-        
+```

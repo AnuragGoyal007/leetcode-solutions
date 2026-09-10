@@ -43,21 +43,21 @@
 | Problem Number | 704 |
 | Difficulty | Easy |
 | Submissions | 3 |
-| Languages | cpp, java |
+| Languages | C++, Java |
 
 ## Submission History
 
-| Submission | Language | Status | Runtime | Memory | Date |
-|---|---|---|---|---|---|
-| [1709243562](cpp/submission-1709243562.cpp) | cpp | Accepted | 0 | 31268000 | 2025-07-24 10:11:52 |
-| [1716375507](cpp/submission-1716375507.cpp) | cpp | Accepted | 0 | 31336000 | 2025-07-30 03:12:30 |
-| [2054540712](java/submission-2054540712.java) | java | Accepted | 0 | 48464000 | 2026-07-03 15:55:06 |
+| Submission | Language | Status | Runtime | Memory | Date | Code |
+|---|---|---|---:|---:|---|---|
+| [1709243562](https://leetcode.com/submissions/detail/1709243562/) | C++ | ✅ Accepted | 0 ms | 31.27 MB | 24 Jul 2025, 10:11 AM | [View Code](cpp/submission-1709243562.cpp) |
+| [1716375507](https://leetcode.com/submissions/detail/1716375507/) | C++ | ✅ Accepted | 0 ms | 31.34 MB | 30 Jul 2025, 03:12 AM | [View Code](cpp/submission-1716375507.cpp) |
+| [2054540712](https://leetcode.com/submissions/detail/2054540712/) | Java | ✅ Accepted | 0 ms | 48.46 MB | 03 Jul 2026, 03:55 PM | [View Code](java/submission-2054540712.java) |
 
 ## Solution Structure
 
 ```text
 binary-search/
 ├── cpp/
-├── java/
+└── java/
 └── README.md
-        
+```

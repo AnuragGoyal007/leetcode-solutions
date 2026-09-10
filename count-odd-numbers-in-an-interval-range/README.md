@@ -35,18 +35,18 @@
 | Problem Number | 1523 |
 | Difficulty | Easy |
 | Submissions | 1 |
-| Languages | cpp |
+| Languages | C++ |
 
 ## Submission History
 
-| Submission | Language | Status | Runtime | Memory | Date |
-|---|---|---|---|---|---|
-| [1864083021](cpp/submission-1864083021.cpp) | cpp | Accepted | 1708 | 7720000 | 2025-12-24 15:34:24 |
+| Submission | Language | Status | Runtime | Memory | Date | Code |
+|---|---|---|---:|---:|---|---|
+| [1864083021](https://leetcode.com/submissions/detail/1864083021/) | C++ | ✅ Accepted | 1708 ms | 7.72 MB | 24 Dec 2025, 03:34 PM | [View Code](cpp/submission-1864083021.cpp) |
 
 ## Solution Structure
 
 ```text
 count-odd-numbers-in-an-interval-range/
-├── cpp/
+└── cpp/
 └── README.md
-        
+```

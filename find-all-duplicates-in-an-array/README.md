@@ -37,18 +37,18 @@
 | Problem Number | 442 |
 | Difficulty | Medium |
 | Submissions | 1 |
-| Languages | java |
+| Languages | Java |
 
 ## Submission History
 
-| Submission | Language | Status | Runtime | Memory | Date |
-|---|---|---|---|---|---|
-| [2006645251](java/submission-2006645251.java) | java | Accepted | 8 | 57784000 | 2026-05-18 23:46:40 |
+| Submission | Language | Status | Runtime | Memory | Date | Code |
+|---|---|---|---:|---:|---|---|
+| [2006645251](https://leetcode.com/submissions/detail/2006645251/) | Java | ✅ Accepted | 8 ms | 57.78 MB | 18 May 2026, 11:46 PM | [View Code](java/submission-2006645251.java) |
 
 ## Solution Structure
 
 ```text
 find-all-duplicates-in-an-array/
-├── java/
+└── java/
 └── README.md
-        
+```

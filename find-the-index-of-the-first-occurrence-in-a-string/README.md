@@ -40,18 +40,18 @@ The first occurrence is at index 0, so we return 0.
 | Problem Number | 28 |
 | Difficulty | Easy |
 | Submissions | 1 |
-| Languages | java |
+| Languages | Java |
 
 ## Submission History
 
-| Submission | Language | Status | Runtime | Memory | Date |
-|---|---|---|---|---|---|
-| [2030959105](java/submission-2030959105.java) | java | Accepted | 1 | 43152000 | 2026-06-12 21:14:12 |
+| Submission | Language | Status | Runtime | Memory | Date | Code |
+|---|---|---|---:|---:|---|---|
+| [2030959105](https://leetcode.com/submissions/detail/2030959105/) | Java | ✅ Accepted | 1 ms | 43.15 MB | 12 Jun 2026, 09:14 PM | [View Code](java/submission-2030959105.java) |
 
 ## Solution Structure
 
 ```text
 find-the-index-of-the-first-occurrence-in-a-string/
-├── java/
+└── java/
 └── README.md
-        
+```

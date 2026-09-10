@@ -53,18 +53,18 @@
 | Problem Number | 575 |
 | Difficulty | Easy |
 | Submissions | 1 |
-| Languages | cpp |
+| Languages | C++ |
 
 ## Submission History
 
-| Submission | Language | Status | Runtime | Memory | Date |
-|---|---|---|---|---|---|
-| [1716664368](cpp/submission-1716664368.cpp) | cpp | Accepted | 98 | 119908000 | 2025-07-30 11:12:01 |
+| Submission | Language | Status | Runtime | Memory | Date | Code |
+|---|---|---|---:|---:|---|---|
+| [1716664368](https://leetcode.com/submissions/detail/1716664368/) | C++ | ✅ Accepted | 98 ms | 119.91 MB | 30 Jul 2025, 11:12 AM | [View Code](cpp/submission-1716664368.cpp) |
 
 ## Solution Structure
 
 ```text
 distribute-candies/
-├── cpp/
+└── cpp/
 └── README.md
-        
+```

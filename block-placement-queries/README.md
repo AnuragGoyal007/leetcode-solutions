@@ -67,19 +67,19 @@
 | Problem Number | 3161 |
 | Difficulty | Hard |
 | Submissions | 2 |
-| Languages | java |
+| Languages | Java |
 
 ## Submission History
 
-| Submission | Language | Status | Runtime | Memory | Date |
-|---|---|---|---|---|---|
-| [2016817192](java/submission-2016817192.java) | java | Time Limit Exceeded | 3922 | 282216000 | 2026-05-30 05:36:06 |
-| [2016817479](java/submission-2016817479.java) | java | Accepted | 477 | 282592000 | 2026-05-30 05:37:27 |
+| Submission | Language | Status | Runtime | Memory | Date | Code |
+|---|---|---|---:|---:|---|---|
+| [2016817192](https://leetcode.com/submissions/detail/2016817192/) | Java | ❌ Time Limit Exceeded | 3922 ms | 282.22 MB | 30 May 2026, 05:36 AM | [View Code](java/submission-2016817192.java) |
+| [2016817479](https://leetcode.com/submissions/detail/2016817479/) | Java | ✅ Accepted | 477 ms | 282.59 MB | 30 May 2026, 05:37 AM | [View Code](java/submission-2016817479.java) |
 
 ## Solution Structure
 
 ```text
 block-placement-queries/
-├── java/
+└── java/
 └── README.md
-        
+```

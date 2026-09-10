@@ -44,18 +44,18 @@ So we return the level with the maximum sum which is level 2.
 | Problem Number | 1161 |
 | Difficulty | Medium |
 | Submissions | 1 |
-| Languages | cpp |
+| Languages | C++ |
 
 ## Submission History
 
-| Submission | Language | Status | Runtime | Memory | Date |
-|---|---|---|---|---|---|
-| [1876238947](cpp/submission-1876238947.cpp) | cpp | Accepted | 4 | 109536000 | 2026-01-06 14:25:56 |
+| Submission | Language | Status | Runtime | Memory | Date | Code |
+|---|---|---|---:|---:|---|---|
+| [1876238947](https://leetcode.com/submissions/detail/1876238947/) | C++ | ✅ Accepted | 4 ms | 109.54 MB | 06 Jan 2026, 02:25 PM | [View Code](cpp/submission-1876238947.cpp) |
 
 ## Solution Structure
 
 ```text
 maximum-level-sum-of-a-binary-tree/
-├── cpp/
+└── cpp/
 └── README.md
-        
+```

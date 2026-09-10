@@ -40,19 +40,19 @@
 | Problem Number | 48 |
 | Difficulty | Medium |
 | Submissions | 2 |
-| Languages | java |
+| Languages | Java |
 
 ## Submission History
 
-| Submission | Language | Status | Runtime | Memory | Date |
-|---|---|---|---|---|---|
-| [1994919363](java/submission-1994919363.java) | java | Accepted | 0 | 43848000 | 2026-05-04 17:14:50 |
-| [2114062452](java/submission-2114062452.java) | java | Accepted | 0 | 43532000 | 2026-08-20 20:24:23 |
+| Submission | Language | Status | Runtime | Memory | Date | Code |
+|---|---|---|---:|---:|---|---|
+| [1994919363](https://leetcode.com/submissions/detail/1994919363/) | Java | ✅ Accepted | 0 ms | 43.85 MB | 04 May 2026, 05:14 PM | [View Code](java/submission-1994919363.java) |
+| [2114062452](https://leetcode.com/submissions/detail/2114062452/) | Java | ✅ Accepted | 0 ms | 43.53 MB | 20 Aug 2026, 08:24 PM | [View Code](java/submission-2114062452.java) |
 
 ## Solution Structure
 
 ```text
 rotate-image/
-├── java/
+└── java/
 └── README.md
-        
+```

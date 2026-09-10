@@ -53,20 +53,20 @@ F(n) = F(n - 1) + F(n - 2), for n &gt; 1.
 | Problem Number | 509 |
 | Difficulty | Easy |
 | Submissions | 2 |
-| Languages | cpp, java |
+| Languages | C++, Java |
 
 ## Submission History
 
-| Submission | Language | Status | Runtime | Memory | Date |
-|---|---|---|---|---|---|
-| [1570249276](cpp/submission-1570249276.cpp) | cpp | Accepted | 10 | 7748000 | 2025-03-11 18:30:38 |
-| [1921528674](java/submission-1921528674.java) | java | Accepted | 9 | 42396000 | 2026-02-17 03:22:13 |
+| Submission | Language | Status | Runtime | Memory | Date | Code |
+|---|---|---|---:|---:|---|---|
+| [1570249276](https://leetcode.com/submissions/detail/1570249276/) | C++ | ✅ Accepted | 10 ms | 7.75 MB | 11 Mar 2025, 06:30 PM | [View Code](cpp/submission-1570249276.cpp) |
+| [1921528674](https://leetcode.com/submissions/detail/1921528674/) | Java | ✅ Accepted | 9 ms | 42.40 MB | 17 Feb 2026, 03:22 AM | [View Code](java/submission-1921528674.java) |
 
 ## Solution Structure
 
 ```text
 fibonacci-number/
 ├── cpp/
-├── java/
+└── java/
 └── README.md
-        
+```

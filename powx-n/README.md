@@ -48,20 +48,20 @@
 | Problem Number | 50 |
 | Difficulty | Medium |
 | Submissions | 3 |
-| Languages | java |
+| Languages | Java |
 
 ## Submission History
 
-| Submission | Language | Status | Runtime | Memory | Date |
-|---|---|---|---|---|---|
-| [2116994116](java/submission-2116994116.java) | java | Runtime Error | 315 | 375036000 | 2026-08-23 11:43:23 |
-| [2116995725](java/submission-2116995725.java) | java | Runtime Error | 352 | 375076000 | 2026-08-23 11:45:02 |
-| [2116997677](java/submission-2116997677.java) | java | Accepted | 0 | 47932000 | 2026-08-23 11:46:56 |
+| Submission | Language | Status | Runtime | Memory | Date | Code |
+|---|---|---|---:|---:|---|---|
+| [2116994116](https://leetcode.com/submissions/detail/2116994116/) | Java | ❌ Runtime Error | 315 ms | 375.04 MB | 23 Aug 2026, 11:43 AM | [View Code](java/submission-2116994116.java) |
+| [2116995725](https://leetcode.com/submissions/detail/2116995725/) | Java | ❌ Runtime Error | 352 ms | 375.08 MB | 23 Aug 2026, 11:45 AM | [View Code](java/submission-2116995725.java) |
+| [2116997677](https://leetcode.com/submissions/detail/2116997677/) | Java | ✅ Accepted | 0 ms | 47.93 MB | 23 Aug 2026, 11:46 AM | [View Code](java/submission-2116997677.java) |
 
 ## Solution Structure
 
 ```text
 powx-n/
-├── java/
+└── java/
 └── README.md
-        
+```

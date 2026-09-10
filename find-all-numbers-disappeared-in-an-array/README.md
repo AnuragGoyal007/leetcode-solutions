@@ -34,18 +34,18 @@
 | Problem Number | 448 |
 | Difficulty | Easy |
 | Submissions | 1 |
-| Languages | java |
+| Languages | Java |
 
 ## Submission History
 
-| Submission | Language | Status | Runtime | Memory | Date |
-|---|---|---|---|---|---|
-| [2006619822](java/submission-2006619822.java) | java | Accepted | 8 | 67096000 | 2026-05-18 23:19:01 |
+| Submission | Language | Status | Runtime | Memory | Date | Code |
+|---|---|---|---:|---:|---|---|
+| [2006619822](https://leetcode.com/submissions/detail/2006619822/) | Java | ✅ Accepted | 8 ms | 67.10 MB | 18 May 2026, 11:19 PM | [View Code](java/submission-2006619822.java) |
 
 ## Solution Structure
 
 ```text
 find-all-numbers-disappeared-in-an-array/
-├── java/
+└── java/
 └── README.md
-        
+```

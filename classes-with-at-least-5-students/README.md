@@ -65,20 +65,20 @@ Courses table:
 | Problem Number | 596 |
 | Difficulty | Easy |
 | Submissions | 3 |
-| Languages | mysql |
+| Languages | MySQL |
 
 ## Submission History
 
-| Submission | Language | Status | Runtime | Memory | Date |
-|---|---|---|---|---|---|
-| [1916263621](mysql/submission-1916263621.sql) | mysql | Wrong Answer | 326 | 0 | 2026-02-12 01:24:26 |
-| [1916263761](mysql/submission-1916263761.sql) | mysql | Wrong Answer | 321 | 0 | 2026-02-12 01:24:39 |
-| [1971477347](mysql/submission-1971477347.sql) | mysql | Accepted | 307 | 0 | 2026-04-07 16:29:12 |
+| Submission | Language | Status | Runtime | Memory | Date | Code |
+|---|---|---|---:|---:|---|---|
+| [1916263621](https://leetcode.com/submissions/detail/1916263621/) | MySQL | ❌ Wrong Answer | 326 ms | 0.00 MB | 12 Feb 2026, 01:24 AM | [View Code](mysql/submission-1916263621.sql) |
+| [1916263761](https://leetcode.com/submissions/detail/1916263761/) | MySQL | ❌ Wrong Answer | 321 ms | 0.00 MB | 12 Feb 2026, 01:24 AM | [View Code](mysql/submission-1916263761.sql) |
+| [1971477347](https://leetcode.com/submissions/detail/1971477347/) | MySQL | ✅ Accepted | 307 ms | 0.00 MB | 07 Apr 2026, 04:29 PM | [View Code](mysql/submission-1971477347.sql) |
 
 ## Solution Structure
 
 ```text
 classes-with-at-least-5-students/
-├── mysql/
+└── mysql/
 └── README.md
-        
+```

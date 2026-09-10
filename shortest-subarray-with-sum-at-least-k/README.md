@@ -36,18 +36,18 @@
 | Problem Number | 862 |
 | Difficulty | Hard |
 | Submissions | 1 |
-| Languages | java |
+| Languages | Java |
 
 ## Submission History
 
-| Submission | Language | Status | Runtime | Memory | Date |
-|---|---|---|---|---|---|
-| [2065291500](java/submission-2065291500.java) | java | Time Limit Exceeded | 3457 | 52168000 | 2026-07-12 23:11:39 |
+| Submission | Language | Status | Runtime | Memory | Date | Code |
+|---|---|---|---:|---:|---|---|
+| [2065291500](https://leetcode.com/submissions/detail/2065291500/) | Java | ❌ Time Limit Exceeded | 3457 ms | 52.17 MB | 12 Jul 2026, 11:11 PM | [View Code](java/submission-2065291500.java) |
 
 ## Solution Structure
 
 ```text
 shortest-subarray-with-sum-at-least-k/
-├── java/
+└── java/
 └── README.md
-        
+```

@@ -54,18 +54,18 @@ Notice that element mat[1][1] = 5 is counted only once.
 | Problem Number | 1572 |
 | Difficulty | Easy |
 | Submissions | 1 |
-| Languages | java |
+| Languages | Java |
 
 ## Submission History
 
-| Submission | Language | Status | Runtime | Memory | Date |
-|---|---|---|---|---|---|
-| [2016820315](java/submission-2016820315.java) | java | Accepted | 0 | 46472000 | 2026-05-30 05:51:14 |
+| Submission | Language | Status | Runtime | Memory | Date | Code |
+|---|---|---|---:|---:|---|---|
+| [2016820315](https://leetcode.com/submissions/detail/2016820315/) | Java | ✅ Accepted | 0 ms | 46.47 MB | 30 May 2026, 05:51 AM | [View Code](java/submission-2016820315.java) |
 
 ## Solution Structure
 
 ```text
 matrix-diagonal-sum/
-├── java/
+└── java/
 └── README.md
-        
+```

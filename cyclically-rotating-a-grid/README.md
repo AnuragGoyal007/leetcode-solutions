@@ -51,18 +51,18 @@
 | Problem Number | 1914 |
 | Difficulty | Medium |
 | Submissions | 1 |
-| Languages | java |
+| Languages | Java |
 
 ## Submission History
 
-| Submission | Language | Status | Runtime | Memory | Date |
-|---|---|---|---|---|---|
-| [1999205446](java/submission-1999205446.java) | java | Accepted | 5 | 47172000 | 2026-05-10 01:40:12 |
+| Submission | Language | Status | Runtime | Memory | Date | Code |
+|---|---|---|---:|---:|---|---|
+| [1999205446](https://leetcode.com/submissions/detail/1999205446/) | Java | ✅ Accepted | 5 ms | 47.17 MB | 10 May 2026, 01:40 AM | [View Code](java/submission-1999205446.java) |
 
 ## Solution Structure
 
 ```text
 cyclically-rotating-a-grid/
-├── java/
+└── java/
 └── README.md
-        
+```

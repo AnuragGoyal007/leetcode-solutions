@@ -44,20 +44,20 @@
 | Problem Number | 103 |
 | Difficulty | Medium |
 | Submissions | 2 |
-| Languages | cpp, java |
+| Languages | C++, Java |
 
 ## Submission History
 
-| Submission | Language | Status | Runtime | Memory | Date |
-|---|---|---|---|---|---|
-| [1863326477](cpp/submission-1863326477.cpp) | cpp | Accepted | 2 | 15048000 | 2025-12-23 18:54:35 |
-| [2127033015](java/submission-2127033015.java) | java | Accepted | 1 | 43652000 | 2026-09-01 14:45:17 |
+| Submission | Language | Status | Runtime | Memory | Date | Code |
+|---|---|---|---:|---:|---|---|
+| [1863326477](https://leetcode.com/submissions/detail/1863326477/) | C++ | ✅ Accepted | 2 ms | 15.05 MB | 23 Dec 2025, 06:54 PM | [View Code](cpp/submission-1863326477.cpp) |
+| [2127033015](https://leetcode.com/submissions/detail/2127033015/) | Java | ✅ Accepted | 1 ms | 43.65 MB | 01 Sep 2026, 02:45 PM | [View Code](java/submission-2127033015.java) |
 
 ## Solution Structure
 
 ```text
 binary-tree-zigzag-level-order-traversal/
 ├── cpp/
-├── java/
+└── java/
 └── README.md
-        
+```

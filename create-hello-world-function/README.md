@@ -45,18 +45,18 @@ Any arguments could be passed to the function but it should still always return 
 | Problem Number | 2667 |
 | Difficulty | Easy |
 | Submissions | 1 |
-| Languages | javascript |
+| Languages | JavaScript |
 
 ## Submission History
 
-| Submission | Language | Status | Runtime | Memory | Date |
-|---|---|---|---|---|---|
-| [1995213789](javascript/submission-1995213789.js) | javascript | Accepted | 46 | 53600000 | 2026-05-04 23:58:59 |
+| Submission | Language | Status | Runtime | Memory | Date | Code |
+|---|---|---|---:|---:|---|---|
+| [1995213789](https://leetcode.com/submissions/detail/1995213789/) | JavaScript | ✅ Accepted | 46 ms | 53.60 MB | 04 May 2026, 11:58 PM | [View Code](javascript/submission-1995213789.js) |
 
 ## Solution Structure
 
 ```text
 create-hello-world-function/
-├── javascript/
+└── javascript/
 └── README.md
-        
+```

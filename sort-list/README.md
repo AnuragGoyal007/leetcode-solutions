@@ -47,18 +47,18 @@
 | Problem Number | 148 |
 | Difficulty | Medium |
 | Submissions | 1 |
-| Languages | java |
+| Languages | Java |
 
 ## Submission History
 
-| Submission | Language | Status | Runtime | Memory | Date |
-|---|---|---|---|---|---|
-| [2102154357](java/submission-2102154357.java) | java | Accepted | 9 | 59184000 | 2026-08-11 06:59:12 |
+| Submission | Language | Status | Runtime | Memory | Date | Code |
+|---|---|---|---:|---:|---|---|
+| [2102154357](https://leetcode.com/submissions/detail/2102154357/) | Java | ✅ Accepted | 9 ms | 59.18 MB | 11 Aug 2026, 06:59 AM | [View Code](java/submission-2102154357.java) |
 
 ## Solution Structure
 
 ```text
 sort-list/
-├── java/
+└── java/
 └── README.md
-        
+```

@@ -52,18 +52,18 @@ numArray.sumRange(0, 5); // return (-2) + 0 + 3 + (-5) + 2 + (-1) = -3
 | Problem Number | 303 |
 | Difficulty | Easy |
 | Submissions | 1 |
-| Languages | java |
+| Languages | Java |
 
 ## Submission History
 
-| Submission | Language | Status | Runtime | Memory | Date |
-|---|---|---|---|---|---|
-| [2061847721](java/submission-2061847721.java) | java | Accepted | 7 | 47636000 | 2026-07-09 20:15:16 |
+| Submission | Language | Status | Runtime | Memory | Date | Code |
+|---|---|---|---:|---:|---|---|
+| [2061847721](https://leetcode.com/submissions/detail/2061847721/) | Java | ✅ Accepted | 7 ms | 47.64 MB | 09 Jul 2026, 08:15 PM | [View Code](java/submission-2061847721.java) |
 
 ## Solution Structure
 
 ```text
 range-sum-query-immutable/
-├── java/
+└── java/
 └── README.md
-        
+```

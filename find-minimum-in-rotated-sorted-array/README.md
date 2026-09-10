@@ -61,22 +61,22 @@
 | Problem Number | 153 |
 | Difficulty | Medium |
 | Submissions | 4 |
-| Languages | cpp, java |
+| Languages | C++, Java |
 
 ## Submission History
 
-| Submission | Language | Status | Runtime | Memory | Date |
-|---|---|---|---|---|---|
-| [1699718604](cpp/submission-1699718604.cpp) | cpp | Accepted | 0 | 14016000 | 2025-07-16 12:14:19 |
-| [1716930556](cpp/submission-1716930556.cpp) | cpp | Accepted | 0 | 13992000 | 2025-07-30 15:35:57 |
-| [1847371412](cpp/submission-1847371412.cpp) | cpp | Accepted | 0 | 14196000 | 2025-12-05 11:55:16 |
-| [2004858308](java/submission-2004858308.java) | java | Accepted | 0 | 43764000 | 2026-05-17 00:12:27 |
+| Submission | Language | Status | Runtime | Memory | Date | Code |
+|---|---|---|---:|---:|---|---|
+| [1699718604](https://leetcode.com/submissions/detail/1699718604/) | C++ | ✅ Accepted | 0 ms | 14.02 MB | 16 Jul 2025, 12:14 PM | [View Code](cpp/submission-1699718604.cpp) |
+| [1716930556](https://leetcode.com/submissions/detail/1716930556/) | C++ | ✅ Accepted | 0 ms | 13.99 MB | 30 Jul 2025, 03:35 PM | [View Code](cpp/submission-1716930556.cpp) |
+| [1847371412](https://leetcode.com/submissions/detail/1847371412/) | C++ | ✅ Accepted | 0 ms | 14.20 MB | 05 Dec 2025, 11:55 AM | [View Code](cpp/submission-1847371412.cpp) |
+| [2004858308](https://leetcode.com/submissions/detail/2004858308/) | Java | ✅ Accepted | 0 ms | 43.76 MB | 17 May 2026, 12:12 AM | [View Code](java/submission-2004858308.java) |
 
 ## Solution Structure
 
 ```text
 find-minimum-in-rotated-sorted-array/
 ├── cpp/
-├── java/
+└── java/
 └── README.md
-        
+```

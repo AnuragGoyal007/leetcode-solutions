@@ -45,19 +45,19 @@
 | Problem Number | 7 |
 | Difficulty | Medium |
 | Submissions | 2 |
-| Languages | cpp |
+| Languages | C++ |
 
 ## Submission History
 
-| Submission | Language | Status | Runtime | Memory | Date |
-|---|---|---|---|---|---|
-| [1812897512](cpp/submission-1812897512.cpp) | cpp | Runtime Error | 0 | 8104000 | 2025-10-27 12:13:40 |
-| [1812898007](cpp/submission-1812898007.cpp) | cpp | Accepted | 2 | 8560000 | 2025-10-27 12:14:20 |
+| Submission | Language | Status | Runtime | Memory | Date | Code |
+|---|---|---|---:|---:|---|---|
+| [1812897512](https://leetcode.com/submissions/detail/1812897512/) | C++ | ❌ Runtime Error | 0 ms | 8.10 MB | 27 Oct 2025, 12:13 PM | [View Code](cpp/submission-1812897512.cpp) |
+| [1812898007](https://leetcode.com/submissions/detail/1812898007/) | C++ | ✅ Accepted | 2 ms | 8.56 MB | 27 Oct 2025, 12:14 PM | [View Code](cpp/submission-1812898007.cpp) |
 
 ## Solution Structure
 
 ```text
 reverse-integer/
-├── cpp/
+└── cpp/
 └── README.md
-        
+```

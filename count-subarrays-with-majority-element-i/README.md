@@ -74,18 +74,18 @@
 | Problem Number | 3737 |
 | Difficulty | Medium |
 | Submissions | 1 |
-| Languages | java |
+| Languages | Java |
 
 ## Submission History
 
-| Submission | Language | Status | Runtime | Memory | Date |
-|---|---|---|---|---|---|
-| [2045265764](java/submission-2045265764.java) | java | Accepted | 1 | 47136000 | 2026-06-25 10:00:26 |
+| Submission | Language | Status | Runtime | Memory | Date | Code |
+|---|---|---|---:|---:|---|---|
+| [2045265764](https://leetcode.com/submissions/detail/2045265764/) | Java | ✅ Accepted | 1 ms | 47.14 MB | 25 Jun 2026, 10:00 AM | [View Code](java/submission-2045265764.java) |
 
 ## Solution Structure
 
 ```text
 count-subarrays-with-majority-element-i/
-├── java/
+└── java/
 └── README.md
-        
+```

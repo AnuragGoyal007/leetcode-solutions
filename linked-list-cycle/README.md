@@ -55,20 +55,20 @@
 | Problem Number | 141 |
 | Difficulty | Easy |
 | Submissions | 2 |
-| Languages | cpp, java |
+| Languages | C++, Java |
 
 ## Submission History
 
-| Submission | Language | Status | Runtime | Memory | Date |
-|---|---|---|---|---|---|
-| [1941062893](cpp/submission-1941062893.cpp) | cpp | Accepted | 12 | 11764000 | 2026-03-07 23:34:34 |
-| [2094785538](java/submission-2094785538.java) | java | Accepted | 0 | 46036000 | 2026-08-05 09:53:12 |
+| Submission | Language | Status | Runtime | Memory | Date | Code |
+|---|---|---|---:|---:|---|---|
+| [1941062893](https://leetcode.com/submissions/detail/1941062893/) | C++ | ✅ Accepted | 12 ms | 11.76 MB | 07 Mar 2026, 11:34 PM | [View Code](cpp/submission-1941062893.cpp) |
+| [2094785538](https://leetcode.com/submissions/detail/2094785538/) | Java | ✅ Accepted | 0 ms | 46.04 MB | 05 Aug 2026, 09:53 AM | [View Code](java/submission-2094785538.java) |
 
 ## Solution Structure
 
 ```text
 linked-list-cycle/
 ├── cpp/
-├── java/
+└── java/
 └── README.md
-        
+```

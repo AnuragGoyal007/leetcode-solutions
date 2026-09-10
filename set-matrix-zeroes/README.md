@@ -50,19 +50,19 @@
 | Problem Number | 73 |
 | Difficulty | Medium |
 | Submissions | 2 |
-| Languages | java |
+| Languages | Java |
 
 ## Submission History
 
-| Submission | Language | Status | Runtime | Memory | Date |
-|---|---|---|---|---|---|
-| [2114048374](java/submission-2114048374.java) | java | Accepted | 1 | 47016000 | 2026-08-20 20:11:25 |
-| [2114050093](java/submission-2114050093.java) | java | Accepted | 1 | 47528000 | 2026-08-20 20:12:57 |
+| Submission | Language | Status | Runtime | Memory | Date | Code |
+|---|---|---|---:|---:|---|---|
+| [2114048374](https://leetcode.com/submissions/detail/2114048374/) | Java | ✅ Accepted | 1 ms | 47.02 MB | 20 Aug 2026, 08:11 PM | [View Code](java/submission-2114048374.java) |
+| [2114050093](https://leetcode.com/submissions/detail/2114050093/) | Java | ✅ Accepted | 1 ms | 47.53 MB | 20 Aug 2026, 08:12 PM | [View Code](java/submission-2114050093.java) |
 
 ## Solution Structure
 
 ```text
 set-matrix-zeroes/
-├── java/
+└── java/
 └── README.md
-        
+```

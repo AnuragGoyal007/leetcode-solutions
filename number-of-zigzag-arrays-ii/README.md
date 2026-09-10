@@ -76,23 +76,23 @@
 | Problem Number | 3700 |
 | Difficulty | Hard |
 | Submissions | 6 |
-| Languages | java |
+| Languages | Java |
 
 ## Submission History
 
-| Submission | Language | Status | Runtime | Memory | Date |
-|---|---|---|---|---|---|
-| [2044033990](java/submission-2044033990.java) | java | Timeout | - | - | 2026-06-24 09:21:51 |
-| [2044037035](java/submission-2044037035.java) | java | Timeout | - | - | 2026-06-24 09:24:47 |
-| [2044039261](java/submission-2044039261.java) | java | Timeout | - | - | 2026-06-24 09:26:49 |
-| [2044040843](java/submission-2044040843.java) | java | Timeout | - | - | 2026-06-24 09:28:20 |
-| [2044044562](java/submission-2044044562.java) | java | Timeout | - | - | 2026-06-24 09:31:58 |
-| [2044878346](java/submission-2044878346.java) | java | Accepted | 311 | 46944000 | 2026-06-24 22:36:08 |
+| Submission | Language | Status | Runtime | Memory | Date | Code |
+|---|---|---|---:|---:|---|---|
+| [2044033990](https://leetcode.com/submissions/detail/2044033990/) | Java | ❌ Timeout | - | - | 24 Jun 2026, 09:21 AM | [View Code](java/submission-2044033990.java) |
+| [2044037035](https://leetcode.com/submissions/detail/2044037035/) | Java | ❌ Timeout | - | - | 24 Jun 2026, 09:24 AM | [View Code](java/submission-2044037035.java) |
+| [2044039261](https://leetcode.com/submissions/detail/2044039261/) | Java | ❌ Timeout | - | - | 24 Jun 2026, 09:26 AM | [View Code](java/submission-2044039261.java) |
+| [2044040843](https://leetcode.com/submissions/detail/2044040843/) | Java | ❌ Timeout | - | - | 24 Jun 2026, 09:28 AM | [View Code](java/submission-2044040843.java) |
+| [2044044562](https://leetcode.com/submissions/detail/2044044562/) | Java | ❌ Timeout | - | - | 24 Jun 2026, 09:31 AM | [View Code](java/submission-2044044562.java) |
+| [2044878346](https://leetcode.com/submissions/detail/2044878346/) | Java | ✅ Accepted | 311 ms | 46.94 MB | 24 Jun 2026, 10:36 PM | [View Code](java/submission-2044878346.java) |
 
 ## Solution Structure
 
 ```text
 number-of-zigzag-arrays-ii/
-├── java/
+└── java/
 └── README.md
-        
+```

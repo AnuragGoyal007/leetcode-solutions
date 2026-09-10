@@ -41,20 +41,20 @@
 | Problem Number | 51 |
 | Difficulty | Hard |
 | Submissions | 2 |
-| Languages | cpp, java |
+| Languages | C++, Java |
 
 ## Submission History
 
-| Submission | Language | Status | Runtime | Memory | Date |
-|---|---|---|---|---|---|
-| [1922611028](cpp/submission-1922611028.cpp) | cpp | Accepted | 2 | 10224000 | 2026-02-18 02:39:16 |
-| [2135953604](java/submission-2135953604.java) | java | Accepted | 2 | 46664000 | 2026-09-09 11:37:45 |
+| Submission | Language | Status | Runtime | Memory | Date | Code |
+|---|---|---|---:|---:|---|---|
+| [1922611028](https://leetcode.com/submissions/detail/1922611028/) | C++ | ✅ Accepted | 2 ms | 10.22 MB | 18 Feb 2026, 02:39 AM | [View Code](cpp/submission-1922611028.cpp) |
+| [2135953604](https://leetcode.com/submissions/detail/2135953604/) | Java | ✅ Accepted | 2 ms | 46.66 MB | 09 Sep 2026, 11:37 AM | [View Code](java/submission-2135953604.java) |
 
 ## Solution Structure
 
 ```text
 n-queens/
 ├── cpp/
-├── java/
+└── java/
 └── README.md
-        
+```

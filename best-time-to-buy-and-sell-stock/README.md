@@ -44,18 +44,18 @@ Note that buying on day 2 and selling on day 1 is not allowed because you must b
 | Problem Number | 121 |
 | Difficulty | Easy |
 | Submissions | 1 |
-| Languages | java |
+| Languages | Java |
 
 ## Submission History
 
-| Submission | Language | Status | Runtime | Memory | Date |
-|---|---|---|---|---|---|
-| [2111353005](java/submission-2111353005.java) | java | Accepted | 2 | 94380000 | 2026-08-18 17:13:42 |
+| Submission | Language | Status | Runtime | Memory | Date | Code |
+|---|---|---|---:|---:|---|---|
+| [2111353005](https://leetcode.com/submissions/detail/2111353005/) | Java | ✅ Accepted | 2 ms | 94.38 MB | 18 Aug 2026, 05:13 PM | [View Code](java/submission-2111353005.java) |
 
 ## Solution Structure
 
 ```text
 best-time-to-buy-and-sell-stock/
-├── java/
+└── java/
 └── README.md
-        
+```

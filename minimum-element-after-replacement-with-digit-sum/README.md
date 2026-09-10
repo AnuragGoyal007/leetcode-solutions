@@ -63,18 +63,18 @@
 | Problem Number | 3300 |
 | Difficulty | Easy |
 | Submissions | 1 |
-| Languages | java |
+| Languages | Java |
 
 ## Submission History
 
-| Submission | Language | Status | Runtime | Memory | Date |
-|---|---|---|---|---|---|
-| [2016404876](java/submission-2016404876.java) | java | Accepted | 1 | 44808000 | 2026-05-29 17:43:30 |
+| Submission | Language | Status | Runtime | Memory | Date | Code |
+|---|---|---|---:|---:|---|---|
+| [2016404876](https://leetcode.com/submissions/detail/2016404876/) | Java | ✅ Accepted | 1 ms | 44.81 MB | 29 May 2026, 05:43 PM | [View Code](java/submission-2016404876.java) |
 
 ## Solution Structure
 
 ```text
 minimum-element-after-replacement-with-digit-sum/
-├── java/
+└── java/
 └── README.md
-        
+```

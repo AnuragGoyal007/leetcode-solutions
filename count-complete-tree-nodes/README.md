@@ -49,18 +49,18 @@
 | Problem Number | 222 |
 | Difficulty | Medium |
 | Submissions | 1 |
-| Languages | cpp |
+| Languages | C++ |
 
 ## Submission History
 
-| Submission | Language | Status | Runtime | Memory | Date |
-|---|---|---|---|---|---|
-| [1865220466](cpp/submission-1865220466.cpp) | cpp | Accepted | 0 | 31212000 | 2025-12-25 23:24:52 |
+| Submission | Language | Status | Runtime | Memory | Date | Code |
+|---|---|---|---:|---:|---|---|
+| [1865220466](https://leetcode.com/submissions/detail/1865220466/) | C++ | ✅ Accepted | 0 ms | 31.21 MB | 25 Dec 2025, 11:24 PM | [View Code](cpp/submission-1865220466.cpp) |
 
 ## Solution Structure
 
 ```text
 count-complete-tree-nodes/
-├── cpp/
+└── cpp/
 └── README.md
-        
+```

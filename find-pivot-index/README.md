@@ -62,18 +62,18 @@ Right sum = nums[1] + nums[2] = 1 + -1 = 0
 | Problem Number | 724 |
 | Difficulty | Easy |
 | Submissions | 1 |
-| Languages | java |
+| Languages | Java |
 
 ## Submission History
 
-| Submission | Language | Status | Runtime | Memory | Date |
-|---|---|---|---|---|---|
-| [2060534124](java/submission-2060534124.java) | java | Accepted | 1 | 47168000 | 2026-07-08 18:42:45 |
+| Submission | Language | Status | Runtime | Memory | Date | Code |
+|---|---|---|---:|---:|---|---|
+| [2060534124](https://leetcode.com/submissions/detail/2060534124/) | Java | ✅ Accepted | 1 ms | 47.17 MB | 08 Jul 2026, 06:42 PM | [View Code](java/submission-2060534124.java) |
 
 ## Solution Structure
 
 ```text
 find-pivot-index/
-├── java/
+└── java/
 └── README.md
-        
+```

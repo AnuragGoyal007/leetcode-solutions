@@ -67,18 +67,18 @@
 | Problem Number | 3658 |
 | Difficulty | Easy |
 | Submissions | 1 |
-| Languages | java |
+| Languages | Java |
 
 ## Submission History
 
-| Submission | Language | Status | Runtime | Memory | Date |
-|---|---|---|---|---|---|
-| [2069210339](java/submission-2069210339.java) | java | Accepted | 1 | 42404000 | 2026-07-16 07:06:19 |
+| Submission | Language | Status | Runtime | Memory | Date | Code |
+|---|---|---|---:|---:|---|---|
+| [2069210339](https://leetcode.com/submissions/detail/2069210339/) | Java | ✅ Accepted | 1 ms | 42.40 MB | 16 Jul 2026, 07:06 AM | [View Code](java/submission-2069210339.java) |
 
 ## Solution Structure
 
 ```text
 gcd-of-odd-and-even-sums/
-├── java/
+└── java/
 └── README.md
-        
+```

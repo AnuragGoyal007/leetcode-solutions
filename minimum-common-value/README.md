@@ -42,18 +42,18 @@
 | Problem Number | 2540 |
 | Difficulty | Easy |
 | Submissions | 1 |
-| Languages | java |
+| Languages | Java |
 
 ## Submission History
 
-| Submission | Language | Status | Runtime | Memory | Date |
-|---|---|---|---|---|---|
-| [2006943277](java/submission-2006943277.java) | java | Accepted | 2 | 79516000 | 2026-05-19 10:40:58 |
+| Submission | Language | Status | Runtime | Memory | Date | Code |
+|---|---|---|---:|---:|---|---|
+| [2006943277](https://leetcode.com/submissions/detail/2006943277/) | Java | ✅ Accepted | 2 ms | 79.52 MB | 19 May 2026, 10:40 AM | [View Code](java/submission-2006943277.java) |
 
 ## Solution Structure
 
 ```text
 minimum-common-value/
-├── java/
+└── java/
 └── README.md
-        
+```

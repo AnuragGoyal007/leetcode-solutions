@@ -36,20 +36,20 @@
 | Problem Number | 169 |
 | Difficulty | Easy |
 | Submissions | 2 |
-| Languages | cpp, java |
+| Languages | C++, Java |
 
 ## Submission History
 
-| Submission | Language | Status | Runtime | Memory | Date |
-|---|---|---|---|---|---|
-| [1715355055](cpp/submission-1715355055.cpp) | cpp | Accepted | 3 | 28368000 | 2025-07-29 10:55:33 |
-| [2096877340](java/submission-2096877340.java) | java | Accepted | 6 | 55884000 | 2026-08-06 20:58:20 |
+| Submission | Language | Status | Runtime | Memory | Date | Code |
+|---|---|---|---:|---:|---|---|
+| [1715355055](https://leetcode.com/submissions/detail/1715355055/) | C++ | ✅ Accepted | 3 ms | 28.37 MB | 29 Jul 2025, 10:55 AM | [View Code](cpp/submission-1715355055.cpp) |
+| [2096877340](https://leetcode.com/submissions/detail/2096877340/) | Java | ✅ Accepted | 6 ms | 55.88 MB | 06 Aug 2026, 08:58 PM | [View Code](java/submission-2096877340.java) |
 
 ## Solution Structure
 
 ```text
 majority-element/
 ├── cpp/
-├── java/
+└── java/
 └── README.md
-        
+```

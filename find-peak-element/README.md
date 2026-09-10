@@ -44,18 +44,18 @@
 | Problem Number | 162 |
 | Difficulty | Medium |
 | Submissions | 1 |
-| Languages | java |
+| Languages | Java |
 
 ## Submission History
 
-| Submission | Language | Status | Runtime | Memory | Date |
-|---|---|---|---|---|---|
-| [2006972277](java/submission-2006972277.java) | java | Accepted | 0 | 43628000 | 2026-05-19 11:15:12 |
+| Submission | Language | Status | Runtime | Memory | Date | Code |
+|---|---|---|---:|---:|---|---|
+| [2006972277](https://leetcode.com/submissions/detail/2006972277/) | Java | ✅ Accepted | 0 ms | 43.63 MB | 19 May 2026, 11:15 AM | [View Code](java/submission-2006972277.java) |
 
 ## Solution Structure
 
 ```text
 find-peak-element/
-├── java/
+└── java/
 └── README.md
-        
+```

@@ -51,18 +51,18 @@
 | Problem Number | 701 |
 | Difficulty | Medium |
 | Submissions | 1 |
-| Languages | cpp |
+| Languages | C++ |
 
 ## Submission History
 
-| Submission | Language | Status | Runtime | Memory | Date |
-|---|---|---|---|---|---|
-| [1866960899](cpp/submission-1866960899.cpp) | cpp | Accepted | 0 | 59236000 | 2025-12-28 01:49:18 |
+| Submission | Language | Status | Runtime | Memory | Date | Code |
+|---|---|---|---:|---:|---|---|
+| [1866960899](https://leetcode.com/submissions/detail/1866960899/) | C++ | ✅ Accepted | 0 ms | 59.24 MB | 28 Dec 2025, 01:49 AM | [View Code](cpp/submission-1866960899.cpp) |
 
 ## Solution Structure
 
 ```text
 insert-into-a-binary-search-tree/
-├── cpp/
+└── cpp/
 └── README.md
-        
+```

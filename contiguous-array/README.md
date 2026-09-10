@@ -47,20 +47,20 @@
 | Problem Number | 525 |
 | Difficulty | Medium |
 | Submissions | 3 |
-| Languages | java |
+| Languages | Java |
 
 ## Submission History
 
-| Submission | Language | Status | Runtime | Memory | Date |
-|---|---|---|---|---|---|
-| [2065275279](java/submission-2065275279.java) | java | Time Limit Exceeded | 3752 | 50192000 | 2026-07-12 22:57:56 |
-| [2065276574](java/submission-2065276574.java) | java | Time Limit Exceeded | 3756 | 50248000 | 2026-07-12 22:59:04 |
-| [2065516965](java/submission-2065516965.java) | java | Accepted | 23 | 65320000 | 2026-07-13 06:22:06 |
+| Submission | Language | Status | Runtime | Memory | Date | Code |
+|---|---|---|---:|---:|---|---|
+| [2065275279](https://leetcode.com/submissions/detail/2065275279/) | Java | ❌ Time Limit Exceeded | 3752 ms | 50.19 MB | 12 Jul 2026, 10:57 PM | [View Code](java/submission-2065275279.java) |
+| [2065276574](https://leetcode.com/submissions/detail/2065276574/) | Java | ❌ Time Limit Exceeded | 3756 ms | 50.25 MB | 12 Jul 2026, 10:59 PM | [View Code](java/submission-2065276574.java) |
+| [2065516965](https://leetcode.com/submissions/detail/2065516965/) | Java | ✅ Accepted | 23 ms | 65.32 MB | 13 Jul 2026, 06:22 AM | [View Code](java/submission-2065516965.java) |
 
 ## Solution Structure
 
 ```text
 contiguous-array/
-├── java/
+└── java/
 └── README.md
-        
+```

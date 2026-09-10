@@ -59,19 +59,19 @@ If we had started at the first tree, we would only pick from trees [1,2].
 | Problem Number | 904 |
 | Difficulty | Medium |
 | Submissions | 2 |
-| Languages | java |
+| Languages | Java |
 
 ## Submission History
 
-| Submission | Language | Status | Runtime | Memory | Date |
-|---|---|---|---|---|---|
-| [2084031003](java/submission-2084031003.java) | java | Accepted | 50 | 70664000 | 2026-07-28 06:49:23 |
-| [2119649174](java/submission-2119649174.java) | java | Accepted | 54 | 70720000 | 2026-08-25 18:23:43 |
+| Submission | Language | Status | Runtime | Memory | Date | Code |
+|---|---|---|---:|---:|---|---|
+| [2084031003](https://leetcode.com/submissions/detail/2084031003/) | Java | ✅ Accepted | 50 ms | 70.66 MB | 28 Jul 2026, 06:49 AM | [View Code](java/submission-2084031003.java) |
+| [2119649174](https://leetcode.com/submissions/detail/2119649174/) | Java | ✅ Accepted | 54 ms | 70.72 MB | 25 Aug 2026, 06:23 PM | [View Code](java/submission-2119649174.java) |
 
 ## Solution Structure
 
 ```text
 fruit-into-baskets/
-├── java/
+└── java/
 └── README.md
-        
+```

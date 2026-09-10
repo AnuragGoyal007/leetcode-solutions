@@ -58,18 +58,18 @@ Hence, answer = [10,25]
 | Problem Number | 1109 |
 | Difficulty | Medium |
 | Submissions | 1 |
-| Languages | java |
+| Languages | Java |
 
 ## Submission History
 
-| Submission | Language | Status | Runtime | Memory | Date |
-|---|---|---|---|---|---|
-| [2066107716](java/submission-2066107716.java) | java | Accepted | 854 | 84736000 | 2026-07-13 17:51:03 |
+| Submission | Language | Status | Runtime | Memory | Date | Code |
+|---|---|---|---:|---:|---|---|
+| [2066107716](https://leetcode.com/submissions/detail/2066107716/) | Java | ✅ Accepted | 854 ms | 84.74 MB | 13 Jul 2026, 05:51 PM | [View Code](java/submission-2066107716.java) |
 
 ## Solution Structure
 
 ```text
 corporate-flight-bookings/
-├── java/
+└── java/
 └── README.md
-        
+```

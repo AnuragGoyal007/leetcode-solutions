@@ -41,18 +41,18 @@
 | Problem Number | 14 |
 | Difficulty | Easy |
 | Submissions | 1 |
-| Languages | cpp |
+| Languages | C++ |
 
 ## Submission History
 
-| Submission | Language | Status | Runtime | Memory | Date |
-|---|---|---|---|---|---|
-| [1308290345](cpp/submission-1308290345.cpp) | cpp | Accepted | 6 | 11208000 | 2024-07-03 19:09:01 |
+| Submission | Language | Status | Runtime | Memory | Date | Code |
+|---|---|---|---:|---:|---|---|
+| [1308290345](https://leetcode.com/submissions/detail/1308290345/) | C++ | ✅ Accepted | 6 ms | 11.21 MB | 03 Jul 2024, 07:09 PM | [View Code](cpp/submission-1308290345.cpp) |
 
 ## Solution Structure
 
 ```text
 longest-common-prefix/
-├── cpp/
+└── cpp/
 └── README.md
-        
+```

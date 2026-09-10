@@ -43,18 +43,18 @@
 | Problem Number | 961 |
 | Difficulty | Easy |
 | Submissions | 1 |
-| Languages | cpp |
+| Languages | C++ |
 
 ## Submission History
 
-| Submission | Language | Status | Runtime | Memory | Date |
-|---|---|---|---|---|---|
-| [1872366747](cpp/submission-1872366747.cpp) | cpp | Accepted | 0 | 28468000 | 2026-01-02 23:41:21 |
+| Submission | Language | Status | Runtime | Memory | Date | Code |
+|---|---|---|---:|---:|---|---|
+| [1872366747](https://leetcode.com/submissions/detail/1872366747/) | C++ | ✅ Accepted | 0 ms | 28.47 MB | 02 Jan 2026, 11:41 PM | [View Code](cpp/submission-1872366747.cpp) |
 
 ## Solution Structure
 
 ```text
 n-repeated-element-in-size-2n-array/
-├── cpp/
+└── cpp/
 └── README.md
-        
+```

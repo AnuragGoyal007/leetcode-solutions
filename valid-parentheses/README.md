@@ -71,18 +71,18 @@
 | Problem Number | 20 |
 | Difficulty | Easy |
 | Submissions | 1 |
-| Languages | cpp |
+| Languages | C++ |
 
 ## Submission History
 
-| Submission | Language | Status | Runtime | Memory | Date |
-|---|---|---|---|---|---|
-| [1849851683](cpp/submission-1849851683.cpp) | cpp | Accepted | 2 | 9156000 | 2025-12-08 11:23:03 |
+| Submission | Language | Status | Runtime | Memory | Date | Code |
+|---|---|---|---:|---:|---|---|
+| [1849851683](https://leetcode.com/submissions/detail/1849851683/) | C++ | ✅ Accepted | 2 ms | 9.16 MB | 08 Dec 2025, 11:23 AM | [View Code](cpp/submission-1849851683.cpp) |
 
 ## Solution Structure
 
 ```text
 valid-parentheses/
-├── cpp/
+└── cpp/
 └── README.md
-        
+```

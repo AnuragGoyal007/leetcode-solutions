@@ -62,18 +62,18 @@ The sum of the happiness values of the selected children is 5.
 | Problem Number | 3075 |
 | Difficulty | Medium |
 | Submissions | 1 |
-| Languages | cpp |
+| Languages | C++ |
 
 ## Submission History
 
-| Submission | Language | Status | Runtime | Memory | Date |
-|---|---|---|---|---|---|
-| [1864902930](cpp/submission-1864902930.cpp) | cpp | Accepted | 162 | 107916000 | 2025-12-25 16:13:09 |
+| Submission | Language | Status | Runtime | Memory | Date | Code |
+|---|---|---|---:|---:|---|---|
+| [1864902930](https://leetcode.com/submissions/detail/1864902930/) | C++ | ✅ Accepted | 162 ms | 107.92 MB | 25 Dec 2025, 04:13 PM | [View Code](cpp/submission-1864902930.cpp) |
 
 ## Solution Structure
 
 ```text
 maximize-happiness-of-selected-children/
-├── cpp/
+└── cpp/
 └── README.md
-        
+```

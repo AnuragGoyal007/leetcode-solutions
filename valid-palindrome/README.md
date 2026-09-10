@@ -50,18 +50,18 @@ Since an empty string reads the same forward and backward, it is a palindrome.
 | Problem Number | 125 |
 | Difficulty | Easy |
 | Submissions | 1 |
-| Languages | cpp |
+| Languages | C++ |
 
 ## Submission History
 
-| Submission | Language | Status | Runtime | Memory | Date |
-|---|---|---|---|---|---|
-| [1570241444](cpp/submission-1570241444.cpp) | cpp | Accepted | 4 | 10004000 | 2025-03-11 18:20:50 |
+| Submission | Language | Status | Runtime | Memory | Date | Code |
+|---|---|---|---:|---:|---|---|
+| [1570241444](https://leetcode.com/submissions/detail/1570241444/) | C++ | ✅ Accepted | 4 ms | 10.00 MB | 11 Mar 2025, 06:20 PM | [View Code](cpp/submission-1570241444.cpp) |
 
 ## Solution Structure
 
 ```text
 valid-palindrome/
-├── cpp/
+└── cpp/
 └── README.md
-        
+```

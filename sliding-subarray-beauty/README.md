@@ -69,18 +69,18 @@ For <code>[0, -3]</code>, the 1<sup>st</sup> smallest negative integer is -3.</p
 | Problem Number | 2653 |
 | Difficulty | Medium |
 | Submissions | 1 |
-| Languages | java |
+| Languages | Java |
 
 ## Submission History
 
-| Submission | Language | Status | Runtime | Memory | Date |
-|---|---|---|---|---|---|
-| [2084037222](java/submission-2084037222.java) | java | Accepted | 30 | 183540000 | 2026-07-28 07:04:09 |
+| Submission | Language | Status | Runtime | Memory | Date | Code |
+|---|---|---|---:|---:|---|---|
+| [2084037222](https://leetcode.com/submissions/detail/2084037222/) | Java | ✅ Accepted | 30 ms | 183.54 MB | 28 Jul 2026, 07:04 AM | [View Code](java/submission-2084037222.java) |
 
 ## Solution Structure
 
 ```text
 sliding-subarray-beauty/
-├── java/
+└── java/
 └── README.md
-        
+```

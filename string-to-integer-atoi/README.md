@@ -123,18 +123,18 @@ Step 3: &quot;<u>0</u>-1&quot; (&quot;0&quot; is read in; reading stops because 
 | Problem Number | 8 |
 | Difficulty | Medium |
 | Submissions | 1 |
-| Languages | java |
+| Languages | Java |
 
 ## Submission History
 
-| Submission | Language | Status | Runtime | Memory | Date |
-|---|---|---|---|---|---|
-| [2116978218](java/submission-2116978218.java) | java | Accepted | 1 | 43704000 | 2026-08-23 11:27:14 |
+| Submission | Language | Status | Runtime | Memory | Date | Code |
+|---|---|---|---:|---:|---|---|
+| [2116978218](https://leetcode.com/submissions/detail/2116978218/) | Java | ✅ Accepted | 1 ms | 43.70 MB | 23 Aug 2026, 11:27 AM | [View Code](java/submission-2116978218.java) |
 
 ## Solution Structure
 
 ```text
 string-to-integer-atoi/
-├── java/
+└── java/
 └── README.md
-        
+```

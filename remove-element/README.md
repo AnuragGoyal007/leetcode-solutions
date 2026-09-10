@@ -71,19 +71,19 @@ It does not matter what you leave beyond the returned k (hence they are undersco
 | Problem Number | 27 |
 | Difficulty | Easy |
 | Submissions | 2 |
-| Languages | cpp |
+| Languages | C++ |
 
 ## Submission History
 
-| Submission | Language | Status | Runtime | Memory | Date |
-|---|---|---|---|---|---|
-| [1339234836](cpp/submission-1339234836.cpp) | cpp | Accepted | 0 | 10724000 | 2024-07-31 12:00:08 |
-| [1339235231](cpp/submission-1339235231.cpp) | cpp | Accepted | 2 | 10736000 | 2024-07-31 12:00:34 |
+| Submission | Language | Status | Runtime | Memory | Date | Code |
+|---|---|---|---:|---:|---|---|
+| [1339234836](https://leetcode.com/submissions/detail/1339234836/) | C++ | ✅ Accepted | 0 ms | 10.72 MB | 31 Jul 2024, 12:00 PM | [View Code](cpp/submission-1339234836.cpp) |
+| [1339235231](https://leetcode.com/submissions/detail/1339235231/) | C++ | ✅ Accepted | 2 ms | 10.74 MB | 31 Jul 2024, 12:00 PM | [View Code](cpp/submission-1339235231.cpp) |
 
 ## Solution Structure
 
 ```text
 remove-element/
-├── cpp/
+└── cpp/
 └── README.md
-        
+```

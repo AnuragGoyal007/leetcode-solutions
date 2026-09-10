@@ -59,18 +59,18 @@
 | Problem Number | 2784 |
 | Difficulty | Easy |
 | Submissions | 1 |
-| Languages | java |
+| Languages | Java |
 
 ## Submission History
 
-| Submission | Language | Status | Runtime | Memory | Date |
-|---|---|---|---|---|---|
-| [2004879699](java/submission-2004879699.java) | java | Accepted | 0 | 44348000 | 2026-05-17 00:46:21 |
+| Submission | Language | Status | Runtime | Memory | Date | Code |
+|---|---|---|---:|---:|---|---|
+| [2004879699](https://leetcode.com/submissions/detail/2004879699/) | Java | ✅ Accepted | 0 ms | 44.35 MB | 17 May 2026, 12:46 AM | [View Code](java/submission-2004879699.java) |
 
 ## Solution Structure
 
 ```text
 check-if-array-is-good/
-├── java/
+└── java/
 └── README.md
-        
+```

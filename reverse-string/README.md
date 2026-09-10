@@ -32,18 +32,18 @@
 | Problem Number | 344 |
 | Difficulty | Easy |
 | Submissions | 1 |
-| Languages | cpp |
+| Languages | C++ |
 
 ## Submission History
 
-| Submission | Language | Status | Runtime | Memory | Date |
-|---|---|---|---|---|---|
-| [1946484950](cpp/submission-1946484950.cpp) | cpp | Accepted | 0 | 27336000 | 2026-03-13 03:53:57 |
+| Submission | Language | Status | Runtime | Memory | Date | Code |
+|---|---|---|---:|---:|---|---|
+| [1946484950](https://leetcode.com/submissions/detail/1946484950/) | C++ | ✅ Accepted | 0 ms | 27.34 MB | 13 Mar 2026, 03:53 AM | [View Code](cpp/submission-1946484950.cpp) |
 
 ## Solution Structure
 
 ```text
 reverse-string/
-├── cpp/
+└── cpp/
 └── README.md
-        
+```

@@ -55,18 +55,18 @@
 | Problem Number | 1009 |
 | Difficulty | Easy |
 | Submissions | 1 |
-| Languages | cpp |
+| Languages | C++ |
 
 ## Submission History
 
-| Submission | Language | Status | Runtime | Memory | Date |
-|---|---|---|---|---|---|
-| [1946483152](cpp/submission-1946483152.cpp) | cpp | Accepted | 0 | 7924000 | 2026-03-13 03:48:33 |
+| Submission | Language | Status | Runtime | Memory | Date | Code |
+|---|---|---|---:|---:|---|---|
+| [1946483152](https://leetcode.com/submissions/detail/1946483152/) | C++ | ✅ Accepted | 0 ms | 7.92 MB | 13 Mar 2026, 03:48 AM | [View Code](cpp/submission-1946483152.cpp) |
 
 ## Solution Structure
 
 ```text
 complement-of-base-10-integer/
-├── cpp/
+└── cpp/
 └── README.md
-        
+```

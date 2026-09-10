@@ -70,18 +70,18 @@ M             1000</pre>
 | Problem Number | 13 |
 | Difficulty | Easy |
 | Submissions | 1 |
-| Languages | python |
+| Languages | Python |
 
 ## Submission History
 
-| Submission | Language | Status | Runtime | Memory | Date |
-|---|---|---|---|---|---|
-| [1340404191](python/submission-1340404191.py) | python | Accepted | 26 | 11840000 | 2024-08-01 12:42:04 |
+| Submission | Language | Status | Runtime | Memory | Date | Code |
+|---|---|---|---:|---:|---|---|
+| [1340404191](https://leetcode.com/submissions/detail/1340404191/) | Python | ✅ Accepted | 26 ms | 11.84 MB | 01 Aug 2024, 12:42 PM | [View Code](python/submission-1340404191.py) |
 
 ## Solution Structure
 
 ```text
 roman-to-integer/
-├── python/
+└── python/
 └── README.md
-        
+```

@@ -63,18 +63,18 @@
 | Problem Number | 199 |
 | Difficulty | Medium |
 | Submissions | 1 |
-| Languages | cpp |
+| Languages | C++ |
 
 ## Submission History
 
-| Submission | Language | Status | Runtime | Memory | Date |
-|---|---|---|---|---|---|
-| [1863675522](cpp/submission-1863675522.cpp) | cpp | Accepted | 0 | 14900000 | 2025-12-24 02:55:27 |
+| Submission | Language | Status | Runtime | Memory | Date | Code |
+|---|---|---|---:|---:|---|---|
+| [1863675522](https://leetcode.com/submissions/detail/1863675522/) | C++ | ✅ Accepted | 0 ms | 14.90 MB | 24 Dec 2025, 02:55 AM | [View Code](cpp/submission-1863675522.cpp) |
 
 ## Solution Structure
 
 ```text
 binary-tree-right-side-view/
-├── cpp/
+└── cpp/
 └── README.md
-        
+```

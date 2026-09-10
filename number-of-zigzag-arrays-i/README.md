@@ -76,18 +76,18 @@
 | Problem Number | 3699 |
 | Difficulty | Hard |
 | Submissions | 1 |
-| Languages | java |
+| Languages | Java |
 
 ## Submission History
 
-| Submission | Language | Status | Runtime | Memory | Date |
-|---|---|---|---|---|---|
-| [2043625732](java/submission-2043625732.java) | java | Accepted | 197 | 43888000 | 2026-06-23 21:58:02 |
+| Submission | Language | Status | Runtime | Memory | Date | Code |
+|---|---|---|---:|---:|---|---|
+| [2043625732](https://leetcode.com/submissions/detail/2043625732/) | Java | ✅ Accepted | 197 ms | 43.89 MB | 23 Jun 2026, 09:58 PM | [View Code](java/submission-2043625732.java) |
 
 ## Solution Structure
 
 ```text
 number-of-zigzag-arrays-i/
-├── java/
+└── java/
 └── README.md
-        
+```

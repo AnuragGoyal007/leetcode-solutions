@@ -60,18 +60,18 @@
 | Problem Number | 1967 |
 | Difficulty | Easy |
 | Submissions | 1 |
-| Languages | java |
+| Languages | Java |
 
 ## Submission History
 
-| Submission | Language | Status | Runtime | Memory | Date |
-|---|---|---|---|---|---|
-| [2049865239](java/submission-2049865239.java) | java | Accepted | 1 | 42640000 | 2026-06-29 14:56:24 |
+| Submission | Language | Status | Runtime | Memory | Date | Code |
+|---|---|---|---:|---:|---|---|
+| [2049865239](https://leetcode.com/submissions/detail/2049865239/) | Java | ✅ Accepted | 1 ms | 42.64 MB | 29 Jun 2026, 02:56 PM | [View Code](java/submission-2049865239.java) |
 
 ## Solution Structure
 
 ```text
 number-of-strings-that-appear-as-substrings-in-word/
-├── java/
+└── java/
 └── README.md
-        
+```

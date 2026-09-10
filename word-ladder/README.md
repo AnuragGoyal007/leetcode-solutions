@@ -52,19 +52,19 @@
 | Problem Number | 127 |
 | Difficulty | Hard |
 | Submissions | 2 |
-| Languages | java |
+| Languages | Java |
 
 ## Submission History
 
-| Submission | Language | Status | Runtime | Memory | Date |
-|---|---|---|---|---|---|
-| [2111145598](java/submission-2111145598.java) | java | Time Limit Exceeded | 3770 | 47092000 | 2026-08-18 13:57:02 |
-| [2111149905](java/submission-2111149905.java) | java | Accepted | 91 | 49404000 | 2026-08-18 14:01:43 |
+| Submission | Language | Status | Runtime | Memory | Date | Code |
+|---|---|---|---:|---:|---|---|
+| [2111145598](https://leetcode.com/submissions/detail/2111145598/) | Java | ❌ Time Limit Exceeded | 3770 ms | 47.09 MB | 18 Aug 2026, 01:57 PM | [View Code](java/submission-2111145598.java) |
+| [2111149905](https://leetcode.com/submissions/detail/2111149905/) | Java | ✅ Accepted | 91 ms | 49.40 MB | 18 Aug 2026, 02:01 PM | [View Code](java/submission-2111149905.java) |
 
 ## Solution Structure
 
 ```text
 word-ladder/
-├── java/
+└── java/
 └── README.md
-        
+```

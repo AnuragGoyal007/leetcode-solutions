@@ -197,19 +197,19 @@
 | Problem Number | 3614 |
 | Difficulty | Hard |
 | Submissions | 2 |
-| Languages | java |
+| Languages | Java |
 
 ## Submission History
 
-| Submission | Language | Status | Runtime | Memory | Date |
-|---|---|---|---|---|---|
-| [2036071487](java/submission-2036071487.java) | java | Compile Error | 0 | 0 | 2026-06-17 13:08:49 |
-| [2036077154](java/submission-2036077154.java) | java | Accepted | 33 | 48080000 | 2026-06-17 13:14:49 |
+| Submission | Language | Status | Runtime | Memory | Date | Code |
+|---|---|---|---:|---:|---|---|
+| [2036071487](https://leetcode.com/submissions/detail/2036071487/) | Java | ❌ Compile Error | 0 ms | 0.00 MB | 17 Jun 2026, 01:08 PM | [View Code](java/submission-2036071487.java) |
+| [2036077154](https://leetcode.com/submissions/detail/2036077154/) | Java | ✅ Accepted | 33 ms | 48.08 MB | 17 Jun 2026, 01:14 PM | [View Code](java/submission-2036077154.java) |
 
 ## Solution Structure
 
 ```text
 process-string-with-special-operations-ii/
-├── java/
+└── java/
 └── README.md
-        
+```

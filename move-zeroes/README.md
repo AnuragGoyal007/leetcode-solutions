@@ -34,20 +34,20 @@
 | Problem Number | 283 |
 | Difficulty | Easy |
 | Submissions | 2 |
-| Languages | cpp, java |
+| Languages | C++, Java |
 
 ## Submission History
 
-| Submission | Language | Status | Runtime | Memory | Date |
-|---|---|---|---|---|---|
-| [1712651636](cpp/submission-1712651636.cpp) | cpp | Accepted | 157 | 23884000 | 2025-07-27 04:16:37 |
-| [2071275470](java/submission-2071275470.java) | java | Accepted | 2 | 48048000 | 2026-07-17 21:03:06 |
+| Submission | Language | Status | Runtime | Memory | Date | Code |
+|---|---|---|---:|---:|---|---|
+| [1712651636](https://leetcode.com/submissions/detail/1712651636/) | C++ | ✅ Accepted | 157 ms | 23.88 MB | 27 Jul 2025, 04:16 AM | [View Code](cpp/submission-1712651636.cpp) |
+| [2071275470](https://leetcode.com/submissions/detail/2071275470/) | Java | ✅ Accepted | 2 ms | 48.05 MB | 17 Jul 2026, 09:03 PM | [View Code](java/submission-2071275470.java) |
 
 ## Solution Structure
 
 ```text
 move-zeroes/
 ├── cpp/
-├── java/
+└── java/
 └── README.md
-        
+```

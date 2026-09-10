@@ -53,18 +53,18 @@ The resulting binary tree is shown in the diagram.
 | Problem Number | 2196 |
 | Difficulty | Medium |
 | Submissions | 1 |
-| Languages | java |
+| Languages | Java |
 
 ## Submission History
 
-| Submission | Language | Status | Runtime | Memory | Date |
-|---|---|---|---|---|---|
-| [2025719088](java/submission-2025719088.java) | java | Accepted | 41 | 77164000 | 2026-06-08 01:58:58 |
+| Submission | Language | Status | Runtime | Memory | Date | Code |
+|---|---|---|---:|---:|---|---|
+| [2025719088](https://leetcode.com/submissions/detail/2025719088/) | Java | ✅ Accepted | 41 ms | 77.16 MB | 08 Jun 2026, 01:58 AM | [View Code](java/submission-2025719088.java) |
 
 ## Solution Structure
 
 ```text
 create-binary-tree-from-descriptions/
-├── java/
+└── java/
 └── README.md
-        
+```

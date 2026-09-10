@@ -59,18 +59,18 @@
 | Problem Number | 1345 |
 | Difficulty | Hard |
 | Submissions | 1 |
-| Languages | java |
+| Languages | Java |
 
 ## Submission History
 
-| Submission | Language | Status | Runtime | Memory | Date |
-|---|---|---|---|---|---|
-| [2006689910](java/submission-2006689910.java) | java | Accepted | 76 | 81512000 | 2026-05-19 00:44:34 |
+| Submission | Language | Status | Runtime | Memory | Date | Code |
+|---|---|---|---:|---:|---|---|
+| [2006689910](https://leetcode.com/submissions/detail/2006689910/) | Java | ✅ Accepted | 76 ms | 81.51 MB | 19 May 2026, 12:44 AM | [View Code](java/submission-2006689910.java) |
 
 ## Solution Structure
 
 ```text
 jump-game-iv/
-├── java/
+└── java/
 └── README.md
-        
+```

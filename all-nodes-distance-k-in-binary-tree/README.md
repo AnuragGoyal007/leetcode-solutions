@@ -43,18 +43,18 @@ Explanation: The nodes that are a distance 2 from the target node (with value 5)
 | Problem Number | 863 |
 | Difficulty | Medium |
 | Submissions | 1 |
-| Languages | cpp |
+| Languages | C++ |
 
 ## Submission History
 
-| Submission | Language | Status | Runtime | Memory | Date |
-|---|---|---|---|---|---|
-| [1864911624](cpp/submission-1864911624.cpp) | cpp | Accepted | 4 | 15536000 | 2025-12-25 16:26:14 |
+| Submission | Language | Status | Runtime | Memory | Date | Code |
+|---|---|---|---:|---:|---|---|
+| [1864911624](https://leetcode.com/submissions/detail/1864911624/) | C++ | ✅ Accepted | 4 ms | 15.54 MB | 25 Dec 2025, 04:26 PM | [View Code](cpp/submission-1864911624.cpp) |
 
 ## Solution Structure
 
 ```text
 all-nodes-distance-k-in-binary-tree/
-├── cpp/
+└── cpp/
 └── README.md
-        
+```

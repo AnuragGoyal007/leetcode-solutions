@@ -48,19 +48,19 @@
 | Problem Number | 9 |
 | Difficulty | Easy |
 | Submissions | 2 |
-| Languages | python |
+| Languages | Python |
 
 ## Submission History
 
-| Submission | Language | Status | Runtime | Memory | Date |
-|---|---|---|---|---|---|
-| [1341918868](python/submission-1341918868.py) | python | Accepted | 33 | 11748000 | 2024-08-02 19:46:41 |
-| [1376449663](python/submission-1376449663.py) | python | Runtime Error | 0 | 6888000 | 2024-09-02 18:01:31 |
+| Submission | Language | Status | Runtime | Memory | Date | Code |
+|---|---|---|---:|---:|---|---|
+| [1341918868](https://leetcode.com/submissions/detail/1341918868/) | Python | ✅ Accepted | 33 ms | 11.75 MB | 02 Aug 2024, 07:46 PM | [View Code](python/submission-1341918868.py) |
+| [1376449663](https://leetcode.com/submissions/detail/1376449663/) | Python | ❌ Runtime Error | 0 ms | 6.89 MB | 02 Sep 2024, 06:01 PM | [View Code](python/submission-1376449663.py) |
 
 ## Solution Structure
 
 ```text
 palindrome-number/
-├── python/
+└── python/
 └── README.md
-        
+```

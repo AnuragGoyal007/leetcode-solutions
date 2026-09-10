@@ -41,18 +41,18 @@
 | Problem Number | 700 |
 | Difficulty | Easy |
 | Submissions | 1 |
-| Languages | cpp |
+| Languages | C++ |
 
 ## Submission History
 
-| Submission | Language | Status | Runtime | Memory | Date |
-|---|---|---|---|---|---|
-| [1865882361](cpp/submission-1865882361.cpp) | cpp | Accepted | 0 | 35588000 | 2025-12-26 19:58:36 |
+| Submission | Language | Status | Runtime | Memory | Date | Code |
+|---|---|---|---:|---:|---|---|
+| [1865882361](https://leetcode.com/submissions/detail/1865882361/) | C++ | ✅ Accepted | 0 ms | 35.59 MB | 26 Dec 2025, 07:58 PM | [View Code](cpp/submission-1865882361.cpp) |
 
 ## Solution Structure
 
 ```text
 search-in-a-binary-search-tree/
-├── cpp/
+└── cpp/
 └── README.md
-        
+```

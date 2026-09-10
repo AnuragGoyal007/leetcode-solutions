@@ -52,18 +52,18 @@
 | Problem Number | 40 |
 | Difficulty | Medium |
 | Submissions | 1 |
-| Languages | java |
+| Languages | Java |
 
 ## Submission History
 
-| Submission | Language | Status | Runtime | Memory | Date |
-|---|---|---|---|---|---|
-| [2135238859](java/submission-2135238859.java) | java | Accepted | 5 | 45564000 | 2026-09-08 20:19:26 |
+| Submission | Language | Status | Runtime | Memory | Date | Code |
+|---|---|---|---:|---:|---|---|
+| [2135238859](https://leetcode.com/submissions/detail/2135238859/) | Java | ✅ Accepted | 5 ms | 45.56 MB | 08 Sep 2026, 08:19 PM | [View Code](java/submission-2135238859.java) |
 
 ## Solution Structure
 
 ```text
 combination-sum-ii/
-├── java/
+└── java/
 └── README.md
-        
+```

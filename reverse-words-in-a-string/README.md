@@ -56,19 +56,19 @@
 | Problem Number | 151 |
 | Difficulty | Medium |
 | Submissions | 2 |
-| Languages | java |
+| Languages | Java |
 
 ## Submission History
 
-| Submission | Language | Status | Runtime | Memory | Date |
-|---|---|---|---|---|---|
-| [2059739083](java/submission-2059739083.java) | java | Accepted | 7 | 43932000 | 2026-07-08 00:55:40 |
-| [2118369731](java/submission-2118369731.java) | java | Accepted | 4 | 44120000 | 2026-08-24 17:09:46 |
+| Submission | Language | Status | Runtime | Memory | Date | Code |
+|---|---|---|---:|---:|---|---|
+| [2059739083](https://leetcode.com/submissions/detail/2059739083/) | Java | ✅ Accepted | 7 ms | 43.93 MB | 08 Jul 2026, 12:55 AM | [View Code](java/submission-2059739083.java) |
+| [2118369731](https://leetcode.com/submissions/detail/2118369731/) | Java | ✅ Accepted | 4 ms | 44.12 MB | 24 Aug 2026, 05:09 PM | [View Code](java/submission-2118369731.java) |
 
 ## Solution Structure
 
 ```text
 reverse-words-in-a-string/
-├── java/
+└── java/
 └── README.md
-        
+```

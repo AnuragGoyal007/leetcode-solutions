@@ -50,22 +50,22 @@
 | Problem Number | 53 |
 | Difficulty | Medium |
 | Submissions | 4 |
-| Languages | cpp, java |
+| Languages | C++, Java |
 
 ## Submission History
 
-| Submission | Language | Status | Runtime | Memory | Date |
-|---|---|---|---|---|---|
-| [1711531221](cpp/submission-1711531221.cpp) | cpp | Wrong Answer | 3969 | 26616000 | 2025-07-26 03:34:30 |
-| [1711531857](cpp/submission-1711531857.cpp) | cpp | Time Limit Exceeded | 3970 | 33572000 | 2025-07-26 03:36:08 |
-| [1711533296](cpp/submission-1711533296.cpp) | cpp | Accepted | 0 | 71800000 | 2025-07-26 03:39:47 |
-| [2096830544](java/submission-2096830544.java) | java | Accepted | 1 | 77288000 | 2026-08-06 20:22:09 |
+| Submission | Language | Status | Runtime | Memory | Date | Code |
+|---|---|---|---:|---:|---|---|
+| [1711531221](https://leetcode.com/submissions/detail/1711531221/) | C++ | ❌ Wrong Answer | 3969 ms | 26.62 MB | 26 Jul 2025, 03:34 AM | [View Code](cpp/submission-1711531221.cpp) |
+| [1711531857](https://leetcode.com/submissions/detail/1711531857/) | C++ | ❌ Time Limit Exceeded | 3970 ms | 33.57 MB | 26 Jul 2025, 03:36 AM | [View Code](cpp/submission-1711531857.cpp) |
+| [1711533296](https://leetcode.com/submissions/detail/1711533296/) | C++ | ✅ Accepted | 0 ms | 71.80 MB | 26 Jul 2025, 03:39 AM | [View Code](cpp/submission-1711533296.cpp) |
+| [2096830544](https://leetcode.com/submissions/detail/2096830544/) | Java | ✅ Accepted | 1 ms | 77.29 MB | 06 Aug 2026, 08:22 PM | [View Code](java/submission-2096830544.java) |
 
 ## Solution Structure
 
 ```text
 maximum-subarray/
 ├── cpp/
-├── java/
+└── java/
 └── README.md
-        
+```

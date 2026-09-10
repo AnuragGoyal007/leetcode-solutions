@@ -46,18 +46,18 @@ The best way is to split it into [1,2,3] and [4,5], where the largest sum among 
 | Problem Number | 410 |
 | Difficulty | Hard |
 | Submissions | 1 |
-| Languages | java |
+| Languages | Java |
 
 ## Submission History
 
-| Submission | Language | Status | Runtime | Memory | Date |
-|---|---|---|---|---|---|
-| [2009834348](java/submission-2009834348.java) | java | Accepted | 2 | 42476000 | 2026-05-22 16:02:43 |
+| Submission | Language | Status | Runtime | Memory | Date | Code |
+|---|---|---|---:|---:|---|---|
+| [2009834348](https://leetcode.com/submissions/detail/2009834348/) | Java | ✅ Accepted | 2 ms | 42.48 MB | 22 May 2026, 04:02 PM | [View Code](java/submission-2009834348.java) |
 
 ## Solution Structure
 
 ```text
 split-array-largest-sum/
-├── java/
+└── java/
 └── README.md
-        
+```

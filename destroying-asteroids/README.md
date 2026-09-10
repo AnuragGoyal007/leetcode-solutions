@@ -52,19 +52,19 @@ This is less than 23, so a collision would not destroy the last asteroid.</pre>
 | Problem Number | 2126 |
 | Difficulty | Medium |
 | Submissions | 2 |
-| Languages | java |
+| Languages | Java |
 
 ## Submission History
 
-| Submission | Language | Status | Runtime | Memory | Date |
-|---|---|---|---|---|---|
-| [2017985853](java/submission-2017985853.java) | java | Wrong Answer | 26 | 107448000 | 2026-05-31 14:04:37 |
-| [2017986613](java/submission-2017986613.java) | java | Accepted | 25 | 107360000 | 2026-05-31 14:05:46 |
+| Submission | Language | Status | Runtime | Memory | Date | Code |
+|---|---|---|---:|---:|---|---|
+| [2017985853](https://leetcode.com/submissions/detail/2017985853/) | Java | ❌ Wrong Answer | 26 ms | 107.45 MB | 31 May 2026, 02:04 PM | [View Code](java/submission-2017985853.java) |
+| [2017986613](https://leetcode.com/submissions/detail/2017986613/) | Java | ✅ Accepted | 25 ms | 107.36 MB | 31 May 2026, 02:05 PM | [View Code](java/submission-2017986613.java) |
 
 ## Solution Structure
 
 ```text
 destroying-asteroids/
-├── java/
+└── java/
 └── README.md
-        
+```

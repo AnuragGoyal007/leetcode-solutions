@@ -42,20 +42,20 @@
 | Problem Number | 33 |
 | Difficulty | Medium |
 | Submissions | 2 |
-| Languages | cpp, java |
+| Languages | C++, Java |
 
 ## Submission History
 
-| Submission | Language | Status | Runtime | Memory | Date |
-|---|---|---|---|---|---|
-| [1699709746](cpp/submission-1699709746.cpp) | cpp | Accepted | 0 | 15160000 | 2025-07-16 12:06:35 |
-| [2009773976](java/submission-2009773976.java) | java | Accepted | 0 | 43756000 | 2026-05-22 14:42:43 |
+| Submission | Language | Status | Runtime | Memory | Date | Code |
+|---|---|---|---:|---:|---|---|
+| [1699709746](https://leetcode.com/submissions/detail/1699709746/) | C++ | ✅ Accepted | 0 ms | 15.16 MB | 16 Jul 2025, 12:06 PM | [View Code](cpp/submission-1699709746.cpp) |
+| [2009773976](https://leetcode.com/submissions/detail/2009773976/) | Java | ✅ Accepted | 0 ms | 43.76 MB | 22 May 2026, 02:42 PM | [View Code](java/submission-2009773976.java) |
 
 ## Solution Structure
 
 ```text
 search-in-rotated-sorted-array/
 ├── cpp/
-├── java/
+└── java/
 └── README.md
-        
+```

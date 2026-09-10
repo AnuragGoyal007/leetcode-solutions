@@ -57,20 +57,20 @@
 | Problem Number | 287 |
 | Difficulty | Medium |
 | Submissions | 2 |
-| Languages | cpp, java |
+| Languages | C++, Java |
 
 ## Submission History
 
-| Submission | Language | Status | Runtime | Memory | Date |
-|---|---|---|---|---|---|
-| [1715356972](cpp/submission-1715356972.cpp) | cpp | Accepted | 116 | 104684000 | 2025-07-29 10:57:26 |
-| [2006631579](java/submission-2006631579.java) | java | Accepted | 5 | 82908000 | 2026-05-18 23:31:46 |
+| Submission | Language | Status | Runtime | Memory | Date | Code |
+|---|---|---|---:|---:|---|---|
+| [1715356972](https://leetcode.com/submissions/detail/1715356972/) | C++ | ✅ Accepted | 116 ms | 104.68 MB | 29 Jul 2025, 10:57 AM | [View Code](cpp/submission-1715356972.cpp) |
+| [2006631579](https://leetcode.com/submissions/detail/2006631579/) | Java | ✅ Accepted | 5 ms | 82.91 MB | 18 May 2026, 11:31 PM | [View Code](java/submission-2006631579.java) |
 
 ## Solution Structure
 
 ```text
 find-the-duplicate-number/
 ├── cpp/
-├── java/
+└── java/
 └── README.md
-        
+```

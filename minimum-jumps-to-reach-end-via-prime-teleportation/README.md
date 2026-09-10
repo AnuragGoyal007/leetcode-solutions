@@ -86,19 +86,19 @@
 | Problem Number | 3629 |
 | Difficulty | Medium |
 | Submissions | 2 |
-| Languages | java |
+| Languages | Java |
 
 ## Submission History
 
-| Submission | Language | Status | Runtime | Memory | Date |
-|---|---|---|---|---|---|
-| [1998427300](java/submission-1998427300.java) | java | Compile Error | 0 | 0 | 2026-05-09 02:40:41 |
-| [1998427874](java/submission-1998427874.java) | java | Accepted | 560 | 186720000 | 2026-05-09 02:42:39 |
+| Submission | Language | Status | Runtime | Memory | Date | Code |
+|---|---|---|---:|---:|---|---|
+| [1998427300](https://leetcode.com/submissions/detail/1998427300/) | Java | ❌ Compile Error | 0 ms | 0.00 MB | 09 May 2026, 02:40 AM | [View Code](java/submission-1998427300.java) |
+| [1998427874](https://leetcode.com/submissions/detail/1998427874/) | Java | ✅ Accepted | 560 ms | 186.72 MB | 09 May 2026, 02:42 AM | [View Code](java/submission-1998427874.java) |
 
 ## Solution Structure
 
 ```text
 minimum-jumps-to-reach-end-via-prime-teleportation/
-├── java/
+└── java/
 └── README.md
-        
+```
