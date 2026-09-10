@@ -1,22 +1,47 @@
 # LeetCode Solutions
 
-    Automatically synchronized LeetCode submissions.
+Automatically synchronized LeetCode submissions.
 
-    ## Statistics
+## Statistics
 
-- Problems: 202
-- Submissions: 293
+| Metric | Value |
+|---|---:|
+| Problems | 202 |
+| Submissions | 293 |
+| Languages | cpp, java, javascript, mysql, python, python3 |
 
-## Structure
+## Repository Structure
 
-Each problem has its own directory.
+Each LeetCode problem has its own directory.
 
 ```text
 problem-slug/
-└── language/
-    └── submission-ID.extension
+├── README.md
+├── language/
+│   └── submission-ID.extension
+└── ...
 
-Multiple submissions and languages are preserved.
+Each problem README contains:
 
-        This repository is generated automatically from the local LeetCode history database.
-        
+- Problem statement
+- LeetCode link
+- Problem number
+- Difficulty
+- Languages used
+- Submission history
+- Submission status
+- Runtime
+- Memory usage
+- Submission timestamp
+
+## Submission History
+
+Multiple submissions for the same problem are preserved.
+
+Different programming languages are also stored separately.
+
+## About
+
+This repository is generated automatically from a local SQLite database containing my LeetCode submission history.
+
+The goal is to preserve my complete problem-solving history rather than only the latest accepted solution.
