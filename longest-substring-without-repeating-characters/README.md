@@ -47,7 +47,7 @@ Notice that the answer must be a substring, &quot;pwke&quot; is a subsequence an
 |---|---|
 | Problem Number | 3 |
 | Difficulty | Medium |
-| Submissions | 2 |
+| Submissions | 3 |
 | Languages | Java |
 
 ## Submission History
@@ -56,6 +56,7 @@ Notice that the answer must be a substring, &quot;pwke&quot; is a subsequence an
 |---|---|---|---:|---:|---|---|
 | [2084019592](https://leetcode.com/submissions/detail/2084019592/) | Java | ✅ Accepted | 6 ms | 46.68 MB | 28 Jul 2026, 06:20 AM | [View Code](java/submission-2084019592.java) |
 | [2117090579](https://leetcode.com/submissions/detail/2117090579/) | Java | ✅ Accepted | 8 ms | 47.86 MB | 23 Aug 2026, 01:26 PM | [View Code](java/submission-2117090579.java) |
+| [2137491090](https://leetcode.com/submissions/detail/2137491090/) | Java | ✅ Accepted | 8 ms | 47.65 MB | 10 Sep 2026, 06:28 PM | [View Code](java/submission-2137491090.java) |
 
 ## Solution Structure
 
