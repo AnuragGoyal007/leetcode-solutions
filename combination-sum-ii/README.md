@@ -51,7 +51,7 @@
 |---|---|
 | Problem Number | 40 |
 | Difficulty | Medium |
-| Submissions | 1 |
+| Submissions | 2 |
 | Languages | Java |
 
 ## Submission History
@@ -59,6 +59,7 @@
 | Submission | Language | Status | Runtime | Memory | Date | Code |
 |---|---|---|---:|---:|---|---|
 | [2135238859](https://leetcode.com/submissions/detail/2135238859/) | Java | ✅ Accepted | 5 ms | 45.56 MB | 08 Sep 2026, 08:19 PM | [View Code](java/submission-2135238859.java) |
+| [2137525762](https://leetcode.com/submissions/detail/2137525762/) | Java | ✅ Accepted | 6 ms | 45.39 MB | 10 Sep 2026, 07:04 PM | [View Code](java/submission-2137525762.java) |
 
 ## Solution Structure
 
