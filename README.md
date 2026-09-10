@@ -7,7 +7,7 @@ An automatically synced collection of my LeetCode submissions.
 | Metric | Count |
 |---|---|
 | Total Problems | 202 |
-| Total Submissions | 298 |
+| Total Submissions | 299 |
 | 🟢 Easy | 91 |
 | 🟡 Medium | 86 |
 | 🔴 Hard | 25 |

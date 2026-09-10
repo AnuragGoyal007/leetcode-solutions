@@ -49,7 +49,7 @@
 |---|---|
 | Problem Number | 73 |
 | Difficulty | Medium |
-| Submissions | 2 |
+| Submissions | 3 |
 | Languages | Java |
 
 ## Submission History
@@ -58,6 +58,7 @@
 |---|---|---|---:|---:|---|---|
 | [2114048374](https://leetcode.com/submissions/detail/2114048374/) | Java | ✅ Accepted | 1 ms | 47.02 MB | 20 Aug 2026, 08:11 PM | [View Code](java/submission-2114048374.java) |
 | [2114050093](https://leetcode.com/submissions/detail/2114050093/) | Java | ✅ Accepted | 1 ms | 47.53 MB | 20 Aug 2026, 08:12 PM | [View Code](java/submission-2114050093.java) |
+| [2137528425](https://leetcode.com/submissions/detail/2137528425/) | Java | ✅ Accepted | 1 ms | 47.74 MB | 10 Sep 2026, 07:07 PM | [View Code](java/submission-2137528425.java) |
 
 ## Solution Structure
 
