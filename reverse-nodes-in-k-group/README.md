@@ -44,7 +44,7 @@
 |---|---|
 | Problem Number | 25 |
 | Difficulty | Hard |
-| Submissions | 3 |
+| Submissions | 4 |
 | Languages | Java |
 
 ## Submission History
@@ -54,6 +54,7 @@
 | [2093929697](https://leetcode.com/submissions/detail/2093929697/) | Java | ❌ Wrong Answer | 0 ms | 46.08 MB | 04 Aug 2026, 05:27 PM | [View Code](java/submission-2093929697.java) |
 | [2093931105](https://leetcode.com/submissions/detail/2093931105/) | Java | ❌ Wrong Answer | 0 ms | 46.28 MB | 04 Aug 2026, 05:28 PM | [View Code](java/submission-2093931105.java) |
 | [2093932476](https://leetcode.com/submissions/detail/2093932476/) | Java | ✅ Accepted | 0 ms | 46.66 MB | 04 Aug 2026, 05:30 PM | [View Code](java/submission-2093932476.java) |
+| [2137516935](https://leetcode.com/submissions/detail/2137516935/) | Java | ✅ Accepted | 0 ms | 46.31 MB | 10 Sep 2026, 06:56 PM | [View Code](java/submission-2137516935.java) |
 
 ## Solution Structure
 
