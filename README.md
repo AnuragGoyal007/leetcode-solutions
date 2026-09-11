@@ -6,10 +6,10 @@ An automatically synced collection of my LeetCode submissions.
 
 | Metric | Count |
 |---|---|
-| Total Problems | 204 |
-| Total Submissions | 302 |
+| Total Problems | 205 |
+| Total Submissions | 303 |
 | 🟢 Easy | 92 |
-| 🟡 Medium | 87 |
+| 🟡 Medium | 88 |
 | 🔴 Hard | 25 |
 | Languages | C++, Java, JavaScript, MySQL, Python, Python 3 |
 
@@ -57,6 +57,7 @@ An automatically synced collection of my LeetCode submissions.
 | 1914 | [Cyclically Rotating a Grid](cyclically-rotating-a-grid/) | Medium | [Solutions](cyclically-rotating-a-grid/) |
 | 196 | [Delete Duplicate Emails](delete-duplicate-emails/) | Easy | [Solutions](delete-duplicate-emails/) |
 | 450 | [Delete Node in a BST](delete-node-in-a-bst/) | Medium | [Solutions](delete-node-in-a-bst/) |
+| 237 | [Delete Node in a Linked List](delete-node-in-a-linked-list/) | Medium | [Solutions](delete-node-in-a-linked-list/) |
 | 2095 | [Delete the Middle Node of a Linked List](delete-the-middle-node-of-a-linked-list/) | Medium | [Solutions](delete-the-middle-node-of-a-linked-list/) |
 | 2126 | [Destroying Asteroids](destroying-asteroids/) | Medium | [Solutions](destroying-asteroids/) |
 | 1886 | [Determine Whether Matrix Can Be Obtained By Rotation](determine-whether-matrix-can-be-obtained-by-rotation/) | Easy | [Solutions](determine-whether-matrix-can-be-obtained-by-rotation/) |
