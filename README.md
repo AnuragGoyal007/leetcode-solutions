@@ -6,10 +6,10 @@ An automatically synced collection of my LeetCode submissions.
 
 | Metric | Count |
 |---|---|
-| Total Problems | 205 |
-| Total Submissions | 303 |
+| Total Problems | 206 |
+| Total Submissions | 305 |
 | 🟢 Easy | 92 |
-| 🟡 Medium | 88 |
+| 🟡 Medium | 89 |
 | 🔴 Hard | 25 |
 | Languages | C++, Java, JavaScript, MySQL, Python, Python 3 |
 
@@ -203,6 +203,7 @@ An automatically synced collection of my LeetCode submissions.
 | 410 | [Split Array Largest Sum](split-array-largest-sum/) | Hard | [Solutions](split-array-largest-sum/) |
 | 69 | [Sqrt(x)](sqrtx/) | Easy | [Solutions](sqrtx/) |
 | 977 | [Squares of a Sorted Array](squares-of-a-sorted-array/) | Easy | [Solutions](squares-of-a-sorted-array/) |
+| 443 | [String Compression](string-compression/) | Medium | [Solutions](string-compression/) |
 | 8 | [String to Integer (atoi)](string-to-integer-atoi/) | Medium | [Solutions](string-to-integer-atoi/) |
 | 560 | [Subarray Sum Equals K](subarray-sum-equals-k/) | Medium | [Solutions](subarray-sum-equals-k/) |
 | 78 | [Subsets](subsets/) | Medium | [Solutions](subsets/) |

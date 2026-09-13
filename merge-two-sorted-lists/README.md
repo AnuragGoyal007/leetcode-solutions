@@ -48,7 +48,7 @@
 |---|---|
 | Problem Number | 21 |
 | Difficulty | Easy |
-| Submissions | 1 |
+| Submissions | 2 |
 | Languages | Java |
 
 ## Submission History
@@ -56,6 +56,7 @@
 | Submission | Language | Status | Runtime | Memory | Date | Code |
 |---|---|---|---:|---:|---|---|
 | [2137642432](https://leetcode.com/submissions/detail/2137642432/) | Java | - | - | - | 10 Sep 2026, 08:58 PM | [View Code](java/submission-2137642432.java) |
+| [2140303778](https://leetcode.com/submissions/detail/2140303778/) | Java | - | - | - | 13 Sep 2026, 11:30 AM | [View Code](java/submission-2140303778.java) |
 
 ## Solution Structure
 
